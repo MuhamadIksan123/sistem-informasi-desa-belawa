@@ -33,14 +33,13 @@ class AppBar extends HTMLElement {
         
         <nav class="navbar navbar-expand-lg bg__navbar p-3">
           <div class="container-fluid">
-            <a class="navbar-brand fs-3 nav__title" href="#">Website Desa Belawa</a>
+            <a class="navbar-brand fs-3 nav__title" href="#">Desa Belawa</a>
             <button class="navbar-toggler navbar-dark" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
               <div class="navbar-nav">
                 <a class="nav-link active nav__item" aria-current="page" href="#/home">Beranda</a>
-                <a class="nav-link active nav__item" href="#/favorite">Kontak</a>
                 <a class="nav-link active nav__item" href="#/explore">Pencarian</a>
                 <a class="nav-link active nav__item" href="#/favorite">Favorit</a>
                 <a class="nav-link active nav__item" href="#/publis">Publis</a>

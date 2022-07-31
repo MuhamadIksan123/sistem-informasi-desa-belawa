@@ -7,7 +7,7 @@
       "pictureId": "./public/cover/cikuya.jpg",
       "pengarang": "Karang Taruna",
       "rating": 4.7,
-      "genre": "action"
+      "genre": "potensi"
     },
     {
       "id": "2",
@@ -16,7 +16,7 @@
       "pictureId": "./public/cover/olahan-mangga.jpg",
       "pengarang": "Oda, Eiichiro",
       "rating": 4.3,
-      "genre": "action"
+      "genre": "potensi"
     },
     {
       "id": "3",
@@ -25,7 +25,7 @@
       "pictureId": "./public/cover/sejarah.png",
       "pengarang": "Gege, Akutami",
       "rating": 4.4,
-      "genre": "action"
+      "genre": "potensi"
     },
     {
       "id": "4",
@@ -34,7 +34,7 @@
       "pictureId": "./public/cover/sensus-penduduk.jpg",
       "pengarang": "MASHIMA Hiro",
       "rating": 4.5,
-      "genre": "adventure"
+      "genre": "kkm"
     },
     {
       "id": "5",
@@ -43,7 +43,7 @@
       "pictureId": "./public/cover/pkk.jpg",
       "pengarang": "Murata, Yusuke",
       "rating": 4.7,
-      "genre": "adventure"
+      "genre": "pemdes"
     },
     {
       "id": "6",
@@ -52,7 +52,7 @@
       "pictureId": "./public/cover/karang-taruna.jpg",
       "pengarang": "Karang Taruna",
       "rating": 4.7,
-      "genre": "adventure"
+      "genre": "pemdes"
     },
     {
       "id": "7",
@@ -61,7 +61,7 @@
       "pictureId": "./public/cover/kkm-umc.jpeg",
       "pengarang": "TORIYAMA Akira, Toyotarou",
       "rating": 4.7,
-      "genre": "comedy"
+      "genre": "kkm"
     },
     {
       "id": "8",
@@ -70,7 +70,7 @@
       "pictureId": "./public/cover/paduan-suara.jpg",
       "pengarang": "Aiya, Kyu",
       "rating": 4.9,
-      "genre": "comedy"
+      "genre": "pemdes"
     },
     {
       "id": "9",
@@ -79,7 +79,7 @@
       "pictureId": "./public/cover/pembangunan-gudang.jpg",
       "pengarang": "Fukui, Takumi",
       "rating": 4.7,
-      "genre": "comedy"
+      "genre": "pemdes"
     },
     {
       "id": "10",
@@ -88,7 +88,7 @@
       "pictureId": "./public/cover/mobil.jpg",
       "pengarang": "Suzuki, Nakaba",
       "rating": 4.7,
-      "genre": "romance"
+      "genre": "layanan"
     },
     {
       "id": "11",
@@ -97,7 +97,7 @@
       "pictureId": "./public/cover/muharram.jpg",
       "pengarang": "Horikoshi, Kouhei",
       "rating": 4.1,
-      "genre": "romance"
+      "genre": "pemdes"
     },
     {
       "id": "12",
@@ -106,7 +106,7 @@
       "pictureId": "./public/cover/vaksinasi.jpg",
       "pengarang": "Saeki, Shun",
       "rating": 4.6,
-      "genre": "romance"
+      "genre": "layanan"
     }
   ]
 }

@@ -31,8 +31,6 @@ const createDetailTemplate = (komik) => `
           <p class="lead text-muted">Genre</p>
           <p class="lead">${komik.genre}</p>
     </div>
-    <button class="show">Baca Komik</button>
-    <embed src="public/pdf-komik/${komik.nama}.pdf" width="800px" height="900px" class="komik" />
   </div>
 `;
 
