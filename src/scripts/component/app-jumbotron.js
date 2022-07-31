@@ -26,8 +26,7 @@ class AppJumbotron extends HTMLElement {
           <div class="jumbotron pt-5 mt-5">
             <div class="row d-flex justify-content-evenly pt-5 align-items-center g-0 mt-3 text-center">
             <div>
-                <h1 class="jumbotron__title">Desa Belawa</h1>
-                <h1 class="jumbotron__title">Kecamatan Lembahabang Kabupaten Cirebon</h1>
+                <h1 class="jumbotron__title">Desa Belawa Official</h1>
                 <p class="jumbotron__subtitle">Informasi lengkap seputar kegiatan dan potensinya ada disini!!</p>
                 <i class="fas fa-tree" style="font-size:300px;color:white"></i>
             </div>
