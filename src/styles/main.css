@@ -1,0 +1,150 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #c8e4c3;
+  background-image: url("./../public/images/repeated-square.jpg");
+}
+
+/* 
+
+Skip link
+
+*/
+
+.skip-link {
+  position: absolute;
+  top: -40px;
+  left: 0;
+  background-color: #ffffff;
+  color: #7392e1;
+  padding: 8px;
+  border-radius: 20px;
+  z-index: 100;
+}
+
+.skip-link:focus {
+  top: 0;
+}
+
+#mainContent {
+  max-width: 1200px;
+  padding-top: 100px;
+}
+
+/* 
+
+Item / Card
+
+*/
+
+.item-header {
+  position: relative;
+  background-color: #ffffff60;
+}
+
+.item-image {
+  height: 250px;
+  min-height: 250px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.item-header-rating {
+  top: 8px;
+  left: 16px;
+  color: white;
+  font-weight: 500;
+  position: absolute;
+  border-radius: 5px;
+  padding: 6px 12px 6px;
+  background-color: #000000;
+}
+
+.rating-score {
+  margin-left: 7px;
+  font-weight: bold;
+}
+
+.card-text {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+
+.card-title {
+  min-height: 44px;
+  display: inline-block;
+  text-decoration: none;
+  color: #39cc14;
+}
+
+.card-body {
+  background-color: #c8e4c3;
+}
+
+button.show {
+  width: auto;
+  margin: 20px 0;
+}
+
+.komik {
+  display: none;
+}
+
+/*
+Fav Button
+*/
+
+.fav {
+  background-color: #c8e4c3;
+  border: 0;
+  padding: 30px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 10;
+}
+
+.fav:hover {
+  background-color: #39cc14;
+}
+
+/* item genre */
+
+.list-item {
+  background-color: #c8e4c3;
+  padding: 6px;
+  display: grid;
+  gap: 10px;
+  margin: 15px;
+  border-radius: 3px;
+}
+
+.list-item a {
+  color: #fff;
+  text-decoration: none;
+  line-height: 35px;
+  font-weight: bold;
+}
+
+.list-item a div {
+  font-family: arial;
+  padding: 5px;
+  border-radius: 3px;
+  background-color: #39cc14;
+}
