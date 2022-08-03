@@ -8,6 +8,7 @@ class AppWelcome extends HTMLElement {
              <style>
               .headline {
                     overflow: auto;
+                    margin-top: 380px;
                   }
 
                   .headline__figure {
