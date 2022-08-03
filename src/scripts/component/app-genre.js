@@ -9,7 +9,7 @@ class AppGenre extends HTMLElement {
         <a href="/#/explore"><div class="item">All</div></a>
         <a href="/#/genre/KKM"><div class="item">KKM</div></a>
         <a href="/#/genre/potensi"><div class="item">Potensi</div></a>
-        <a href="/#/genre/pemdes"><div class="item">Pemdes</div></a>
+        <a href="/#/genre/pemdes"><div class="item">Pemerintahan Desa</div></a>
         <a href="/#/genre/layanan"><div class="item">Layanan</div></a>
       </div>
           `;

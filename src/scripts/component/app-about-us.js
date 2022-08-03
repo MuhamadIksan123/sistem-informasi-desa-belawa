@@ -8,10 +8,10 @@ class AppAboutUs extends HTMLElement {
                <style>
                 h1.title {
                   font-size: 2rem;
-                  color: #39cc14;
+                  color: #cc142d;
                   padding: auto;
                   display: flex;
-                  background-color: rgb(200, 228, 195);
+                  background-color: rgb(217, 217, 217);
                   border-radius: 10px;
                   text-align: center;
                   justify-content: center;
@@ -21,7 +21,7 @@ class AppAboutUs extends HTMLElement {
                   color: Black;
                   padding: auto;
                   display: flex;
-                  background-color: rgb(200, 228, 195);
+                  background-color: rgb(217, 217, 217);
                   border-radius: 10px;
                   text-align: center;
                   justify-content: center;
@@ -32,7 +32,7 @@ class AppAboutUs extends HTMLElement {
                   padding: 80px 50px 80px 50px;
                   width: 100%;
                   display: flex;
-                  background-color: rgb(200, 228, 195);
+                  background-color: rgb(217, 217, 217);
                   border-radius: 10px;
                 }
                 </style>

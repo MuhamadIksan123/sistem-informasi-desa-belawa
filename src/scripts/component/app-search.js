@@ -33,7 +33,7 @@ class AppSearch extends HTMLElement {
               width: 75%;
               padding: 16px;
               border: 0;
-              border-bottom: 2px solid rgb(200, 228, 195);
+              border-bottom: 2px solid rgb(195, 196, 228);
               font-weight: bold;
           }
           
@@ -56,7 +56,7 @@ class AppSearch extends HTMLElement {
               cursor: pointer;
               margin-left: auto;
               padding: 16px;
-              background-color: rgb(200, 228, 195);
+              background-color: rgb(195, 196, 228);
               color: white;
               border: 0;
               border-radius: .5rem;
@@ -64,11 +64,11 @@ class AppSearch extends HTMLElement {
           }
 
           .search-container > button:hover {
-              background-color: #39cc14;
+              background-color: #0d6efd;
           }
 
           .search-container > button:active {
-              background-color: rgb(200, 228, 195);
+              background-color: rgb(8, 15, 252);
           }
           
           @media screen and (max-width: 550px){

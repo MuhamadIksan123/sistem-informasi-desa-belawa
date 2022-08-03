@@ -15,7 +15,7 @@ class AppAboutTeam extends HTMLElement {
               padding: auto;
               width: 100%;
               display: flex;
-              background-color: rgb(200, 228, 195);
+              background-color: rgb(217, 217, 217);
               border-radius: 10px;
               text-align: center;
               justify-content: center;
@@ -29,7 +29,7 @@ class AppAboutTeam extends HTMLElement {
               flex-wrap: wrap;
             }
             .card-body{
-              background-color: rgb(200, 228, 195);
+              background-color: rgb(217, 217, 217);
             }
             .card-img{
               border-radius: 5px;

@@ -14,11 +14,7 @@ class AppPublis extends HTMLElement {
             
             * {box-sizing: border-box;}
             
-            .container {
-                border-radius: 50px;
-                /* background-color: #f2f2f2; */
-                padding: 85px;
-            }
+            
             
             h2 {
                 font-family: "Poppins", sans-serif;
@@ -72,6 +68,18 @@ class AppPublis extends HTMLElement {
             input[type=submit]:hover {
               background-color: #45a049;
             }
+
+            @media screen and (min-width: 800px) {
+              .container {
+                  border-radius: 50px;
+                  /* background-color: #f2f2f2; */
+                  padding: 30px 85px;
+              }
+
+              .judul_utama {
+                font-size: 2em;;
+              }
+            }
             
             </style>
     
@@ -80,15 +88,15 @@ class AppPublis extends HTMLElement {
     
                 <h2 class="judul_utama">Berikan Informasimu Sekarang!</h2>
     
-                <form method="post" class="submit_komik">
+                <form method="post" class="submit_informasi">
                   <label for="nama_email">E-Mail</label>
                   <input type="email" class="nama_email" name="namaEmail" placeholder="E-Mail kamu..." required>
     
-                  <label for="nama_komik">Judul Informasi</label>
-                  <input type="text" class="nama_komik" name="namaKomik" placeholder="Nama komik kamu..." required>
+                  <label for="nama_informasi">Judul Informasi</label>
+                  <input type="text" class="nama_informasi" name="namainformasi" placeholder="Judul informasi kamu..." required>
     
                   <label for="fileSampul">Sampul Informasi</label>
-                  <input type="file" class="file_sampul" name="sampulKomik" value="sampulKomik" required>
+                  <input type="file" class="file_sampul" name="sampulinformasi" value="sampulinformasi" required>
               
                   <label for="nama_pengarang">Nama Narasumber</label>
                   <input type="text" class="nama_pengarang" name="namaPengarang" placeholder="Nama kamu..." required>
@@ -109,13 +117,13 @@ class AppPublis extends HTMLElement {
                   </select>
                   
                   <label for="tanggal_rilis">Tanggal Rilis</label>
-                  <input type="datetime-local" class="tanggal_rilis" name="tanggalRilis" placeholder="Tanggal rilis komik kamu..." required>
+                  <input type="datetime-local" class="tanggal_rilis" name="tanggalRilis" placeholder="Tanggal rilis informasi kamu..." required>
     
                   <label for="sinopsis_cerita">Deskripsi</label>
                   <textarea class="sinopsis_cerita" name="sinopsisCerita" placeholder="Tulis sinopsis disini..." style="height:200px" required></textarea>
     
-                  <label for="unggah_komik">Unggah Dokumentasi</label>
-                  <input type="file" class="unggah_komik" name="unggahKomik" required>
+                  <label for="unggah_informasi">Unggah Dokumentasi</label>
+                  <input type="file" class="unggah_informasi" name="unggahinformasi" required>
                   
                   <!-- <button type="submit">Kirim!</button> -->
                   <input type="submit" value="Kirim!">
