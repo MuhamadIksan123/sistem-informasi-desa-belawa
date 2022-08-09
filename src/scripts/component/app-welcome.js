@@ -65,7 +65,7 @@ class AppWelcome extends HTMLElement {
             <article class="headline">
               <figure class="headline__figure">
                 <img src="public/cover/peta.png" alt="Dicoding Fact Sheet" />
-                <figcaption>Dicoding February 2020 Infographic, 235k Members</figcaption>
+                <figcaption>Pemerintah Desa Agustus 2022 Infographic, 5.678 Penduduk</figcaption>
               </figure>
               <div class="headline__content">
                 <h1 class="headline__title">Tentang Desa Belawa</h1>

@@ -43,7 +43,7 @@ const createDetailTemplate = (komik) => `
     <p>${komik.pengarang}</p>
     <h4>Rating</h4>
     <p>${komik.rating}</p>
-    <h4>Categories</h4>
+    <h4>Kategori</h4>
     <p>${komik.genre}</p>
   </div>
   <div class="komik__overview">

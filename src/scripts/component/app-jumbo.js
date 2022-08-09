@@ -32,24 +32,50 @@ class AppJumbo extends HTMLElement {
 
             .hero__inner {
               position: absolute;
-              top: 50px;
+              top: 180px;
               z-index: 2;
             }
 
             .hero__title {
-              ly: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
               color: #fff;
               font-weight: 500;
-              font-size: 50px;
-              text-shadow: 3px 3px #f10a0a;
+              font-size: 25px;
+              text-shadow: 2px 2px #f10a0a;
             }
 
             .hero__tagline {
               color: #fff;
               margin-top: 16px;
-              font-size: 18px;
+              font-size: 14px;
               font-weight: 500;
-              text-shadow: 1px 1px #000;
+              text-shadow: 2px 2px #000;
+            }
+
+            @media screen and (min-width: 550px) {
+              .hero__title {
+                font-weight: 500;
+                font-size: 35px;
+                text-shadow: 3px 3px #f10a0a;
+              }
+
+              .hero__tagline {
+                font-size: 18px;
+                font-weight: 500;
+                text-shadow: 2px 2px #000;
+              }
+            }
+
+            @media screen and (min-width: 800px) {
+              .hero__title {
+                font-weight: 700;
+                font-size: 50px;
+                text-shadow: 3px 3px #f10a0a;
+              }
+
+              .hero__tagline {
+                font-size: 20px;
+                text-shadow: 2px 2px #000;
+              }
             }
           </style>
   
