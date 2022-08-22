@@ -4,35 +4,16 @@ const createItemTemplate = (komik) => `
         <div class="item-header">
           <img src="${komik.pictureId}" class="card-img-top img-fluid item-image" alt="Gambar ${komik.nama}" loading="lazy">
           <div class="item-header-rating rounded-start">
-              <p class="mb-0">⭐️<span class="rating-score">${komik.rating}</span></p>
+              <p class="mb-0"><i class="far fa-calendar-check"></i><span class="rating-score">${komik.rating}</span></p>
           </div>
         </div>
         <div class="card-body">
           <h4><a class="card-title" href="${`/#/detail/${komik.id}`}">${komik.nama}</a></h4>
-          <p class="card-text">${komik.sinopsis}</p>
+          <p class="card-text" style="text-align: justify;">${komik.spoiler}</p>
         </div>
       </div>
     </div>
   `;
-
-// const createDetailTemplate = (komik) => `
-//   <div class="row">
-//     <h2 class="text-center">${komik.nama}</h2>
-//     <div class="col-md-4 mt-3">
-//       <img src="${komik.pictureId}" alt="logo" class="img-fluid rounded">
-//     </div>
-//     <div class="col-md-8 mt-3">
-//           <p class="lead text-muted">Sinopsis</p>
-//           <p class="lead">${komik.sinopsis}</p>
-//           <p class="lead text-muted">Pengarang</p>
-//           <p class="lead">${komik.pengarang}</p>
-//           <p class="lead text-muted">Rating</p>
-//           <p class="lead">${komik.rating}</p>
-//           <p class="lead text-muted">Genre</p>
-//           <p class="lead">${komik.genre}</p>
-//     </div>
-//   </div>
-// `;
 
 const createDetailTemplate = (komik) => `
   <h2 class="komik__title">${komik.nama}</h2>
@@ -41,14 +22,24 @@ const createDetailTemplate = (komik) => `
   <h3>Information</h3>
     <h4>Penanggung Jawab</h4>
     <p>${komik.pengarang}</p>
-    <h4>Rating</h4>
+    <h4>Waktu</h4>
     <p>${komik.rating}</p>
     <h4>Kategori</h4>
-    <p>${komik.genre}</p>
+    <p class="text-capitalize">${komik.genre}</p>
   </div>
   <div class="komik__overview">
     <h3>Description</h3>
-    <p>${komik.sinopsis}</p>
+    ${komik.sinopsis.map((s) => s.name).join(' ')}
+    <h4>Media Sosial</h4>
+    <p>${komik.sosmed.map((food) => food.name).join(' ')}</p>
+    <h4>Dokumentasi</h4>
+    <p>${komik.dokumentasi}</p>
+    <div class="komik__description">
+      <h3>Customer Reviews</h3>
+      <p>${komik.customerReviews
+    .map((customer) => customer.review)
+    .join(' | ')}</p>
+    </div>
   </div>
 `;
 

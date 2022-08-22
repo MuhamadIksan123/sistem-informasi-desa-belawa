@@ -1,5 +1,6 @@
 import 'bootstrap/dist/js/bootstrap.bundle.min';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import '../public/assets/fontawesome-free-6.1.2-web/css/all.min.css';
 import '../styles/main.css';
 import '../styles/responsive.css';
 import './component/app-bar';

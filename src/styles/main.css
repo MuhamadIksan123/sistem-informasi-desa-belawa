@@ -84,7 +84,8 @@ Item / Card
 }
 
 .card-title {
-  min-height: 44px;
+  font-size: 20px;
+  min-height: 25px;
   display: inline-block;
   text-decoration: none;
   color: #cc142d;
