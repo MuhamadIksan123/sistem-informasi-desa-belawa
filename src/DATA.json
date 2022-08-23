@@ -6,10 +6,10 @@
       "spoiler": "Dahulu kala, ada seorang pemuda yang bernama Jaka Saliwah, pemuda ini mempunyai fisik kulit sebelah hitam dan sebelahnya lagi putih, yang membuatnya merasa terasing akan keunikan yang dimilikinya. Dikarenakan sering dibuli, dia akhirnya pergi mendatangi seorang syekh yang bernama Syekh Datuk Putih dan berguru padanya. Selama bertahun-tahun Jaka Saliwah belajar ngaji, dengan tujuan supaya warna kulitnya dapat berubah normal seperti yang lainnya.",
       "sinopsis": [
         {
-          "name": "<p style='text-align: justify;'>Dahulu kala, ada seorang pemuda yang bernama Jaka Saliwah, pemuda ini mempunyai fisik kulit sebelah hitam dan sebelahnya lagi putih, yang membuatnya merasa terasing akan keunikan yang dimilikinya. Dikarenakan sering dibuli, dia akhirnya pergi mendatangi seorang syekh yang bernama Syekh Datuk Putih dan berguru padanya. Selama bertahun-tahun Jaka Saliwah belajar ngaji, dengan tujuan supaya warna kulitnya dapat berubah normal seperti yang lainnya.</p>"
+          "paragraf": "<p class='deskripsi'>Dahulu kala, ada seorang pemuda yang bernama Jaka Saliwah, pemuda ini mempunyai fisik kulit sebelah hitam dan sebelahnya lagi putih, yang membuatnya merasa terasing akan keunikan yang dimilikinya. Dikarenakan sering dibuli, dia akhirnya pergi mendatangi seorang syekh yang bernama Syekh Datuk Putih dan berguru padanya. Selama bertahun-tahun Jaka Saliwah belajar ngaji, dengan tujuan supaya warna kulitnya dapat berubah normal seperti yang lainnya.</p>"
         },
         {
-          "name": "<p style='text-align: justify;'>Namun ternyata warna kulitnya tidak berubah sama sekali, yang akhirnya membuat dia marah dan emosi sehingga merobek Al-Qur’an yang selalu digunakan olehnya. Tak berhenti sampai disitu, Jaka Saliwah melemparkan sobekan Qur’an tersebut ke telaga kecil. Suatu keanehan pun muncul, dimana sobekan kertas Al-Qur’an yang dilemparkannya menghilang tanpa jejak. Lalu muncullah sebuah hewan kecil yang dia beri nama kura-kura atau kuya, seketika itu pula wajah dari Jaka Saliwah berubah menjadi normal. Oleh sebab itu, daerah tersebut kemudian diberi nama Cikuya, Desa Belawa.</p>"
+          "paragraf": "<p class='deskripsi'>Namun ternyata warna kulitnya tidak berubah sama sekali, yang akhirnya membuat dia marah dan emosi sehingga merobek Al-Qur’an yang selalu digunakan olehnya. Tak berhenti sampai disitu, Jaka Saliwah melemparkan sobekan Qur’an tersebut ke telaga kecil. Suatu keanehan pun muncul, dimana sobekan kertas Al-Qur’an yang dilemparkannya menghilang tanpa jejak. Lalu muncullah sebuah hewan kecil yang dia beri nama kura-kura atau kuya, seketika itu pula wajah dari Jaka Saliwah berubah menjadi normal. Oleh sebab itu, daerah tersebut kemudian diberi nama Cikuya, Desa Belawa.</p>"
         }
       ],
       "pictureId": "./public/cover/cikuya.jpg",
@@ -18,24 +18,22 @@
       "genre": "potensi",
       "sosmed": [
         {
-          "name": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "name": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "name": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "name": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
       "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>",
       "customerReviews": [
         {
-          "name": "Ahmad",
-          "review": "Di rekomendasi untuk pelajar!",
-          "date": "13 November 2019"
+          "review": "Di rekomendasi untuk pelajar!"
         }
       ]
     },
@@ -45,10 +43,10 @@
       "spoiler": "Desa Belawa merupakan desa sentra buah mangga dengan kualitas ekspor dan menjadi buah primadona dipasar lokal maupun luar negeri dibuktikan oleh with house dengan dijadikanya buah mangga gedong belawa menjadi buah pencuci mulut presiden barack obama. Desa belawa menghasilkan produksi mangga semakin dari 160.000 ton tiap tahunnya dan sekarang para petani mangga di desa belawa bisa memperkembangkan pola pertanian mangga tak mengenal musim kareana setiap ketika telah tersedia mangga di kebun untuk dipetik.",
       "sinopsis": [
         {
-          "name": "<p style='text-align: justify;'>Desa Belawa merupakan desa sentra buah mangga dengan kualitas ekspor dan menjadi buah primadona dipasar lokal maupun luar negeri dibuktikan oleh with house dengan dijadikanya buah mangga gedong belawa menjadi buah pencuci mulut presiden barack obama.</p>"
+          "paragraf": "<p class='deskripsi'>Desa Belawa merupakan desa sentra buah mangga dengan kualitas ekspor dan menjadi buah primadona dipasar lokal maupun luar negeri dibuktikan oleh with house dengan dijadikanya buah mangga gedong belawa menjadi buah pencuci mulut presiden barack obama.</p>"
         },
         {
-          "name": "<p style='text-align: justify;'>Desa belawa menghasilkan produksi mangga semakin dari 160.000 ton tiap tahunnya dan sekarang para petani mangga di desa belawa bisa memperkembangkan pola pertanian mangga tak mengenal musim kareana setiap ketika telah tersedia mangga di kebun untuk dipetik.</p>"
+          "paragraf": "<p class='deskripsi'>Desa belawa menghasilkan produksi mangga semakin dari 160.000 ton tiap tahunnya dan sekarang para petani mangga di desa belawa bisa memperkembangkan pola pertanian mangga tak mengenal musim kareana setiap ketika telah tersedia mangga di kebun untuk dipetik.</p>"
         }
       ],
       "pictureId": "./public/cover/olahan-mangga.jpg",
@@ -57,24 +55,22 @@
       "genre": "potensi",
       "sosmed": [
         {
-          "name": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "name": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "name": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "name": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
       "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>",
       "customerReviews": [
         {
-          "name": "Ahmad",
-          "review": "Tidak rekomendasi untuk pelajar!",
-          "date": "13 November 2019"
+          "review": "Tidak rekomendasi untuk pelajar!"
         }
       ]
     },
@@ -84,16 +80,16 @@
       "spoiler": "Seperti desa-desa lainnya Belawa juga mempunyai sejarah tersendiri demikian pula adat dan istiadat tersendiri pula, Desa Belawa tadinya merupakan sebuah blok atau cantilan namanya Blok Cangkuang yang termasuk bagian dari desa Panyamunan dan sekarang merupakan Desa Putat. Pada jaman dahulu kala entah abad ke berapa, datanglah seorang kelana yang berhati suci dan berwatak jujur, tak pernah ia bertingkah diluar garis susila. Beliau pergi meninggalkan kampung halamannya dengan seijin orang tuanya, hanya kemana ia akan pergi, tidak tentu. JOHAR julukan kelana itu, nama yang manis dan mempunyai sorot mata yang berwibawa. Ia pergi mengembara, tak tahu arah mana yang akan dituju, hal itu tidak jadi pikiran, niatnya bulat mau membersihkan diri/bertapa Ia berjalan hanya menuruti kemauan ibu jari kaki saja, tebing dan ngarai sudah ia lalui, tibalah pada suatu tempat yang menurut pikirannya sudah cukup jauh beliau berjalan, dan disini beliau berhenti dan beristirahat.",
       "sinopsis": [
         {
-          "name": "<p style='text-align: justify;'>Seperti desa-desa lainnya Belawa juga mempunyai sejarah tersendiri demikian pula adat dan istiadat tersendiri pula, Desa Belawa tadinya merupakan sebuah blok atau cantilan namanya Blok Cangkuang yang termasuk bagian dari desa Panyamunan dan sekarang merupakan Desa Putat. Pada jaman dahulu kala entah abad ke berapa, datanglah seorang kelana yang berhati suci dan berwatak jujur, tak pernah ia bertingkah diluar garis susila. Beliau pergi meninggalkan kampung halamannya dengan seijin orang tuanya, hanya kemana ia akan pergi, tidak tentu. JOHAR julukan kelana itu, nama yang manis dan mempunyai sorot mata yang berwibawa. Ia pergi mengembara, tak tahu arah mana yang akan dituju, hal itu tidak jadi pikiran, niatnya bulat mau membersihkan diri/bertapa Ia berjalan hanya menuruti kemauan ibu jari kaki saja, tebing dan ngarai sudah ia lalui, tibalah pada suatu tempat yang menurut pikirannya sudah cukup jauh beliau berjalan, dan disini beliau berhenti dan beristirahat.</p>"
+          "paragraf": "<p class='deskripsi'>Seperti desa-desa lainnya Belawa juga mempunyai sejarah tersendiri demikian pula adat dan istiadat tersendiri pula, Desa Belawa tadinya merupakan sebuah blok atau cantilan namanya Blok Cangkuang yang termasuk bagian dari desa Panyamunan dan sekarang merupakan Desa Putat. Pada jaman dahulu kala entah abad ke berapa, datanglah seorang kelana yang berhati suci dan berwatak jujur, tak pernah ia bertingkah diluar garis susila. Beliau pergi meninggalkan kampung halamannya dengan seijin orang tuanya, hanya kemana ia akan pergi, tidak tentu. JOHAR julukan kelana itu, nama yang manis dan mempunyai sorot mata yang berwibawa. Ia pergi mengembara, tak tahu arah mana yang akan dituju, hal itu tidak jadi pikiran, niatnya bulat mau membersihkan diri/bertapa Ia berjalan hanya menuruti kemauan ibu jari kaki saja, tebing dan ngarai sudah ia lalui, tibalah pada suatu tempat yang menurut pikirannya sudah cukup jauh beliau berjalan, dan disini beliau berhenti dan beristirahat.</p>"
         },
         {
-          "name": "<p style='text-align: justify;'>Setelah beristirahat sejenak, timbul pulalah niat ingin tinggal di situ membuat pemukiman baru. Pada waktu itu belum ada seorangpun yang berani menjamak daerah itu, karena masih hutan belantara. Ia mendirikan sebuah gubuk kecil beratapkan alang-alang dan berdinding kulit kayu. Beliau hidup menyendiri dan bercocok tanam. Walaupun ia hidup sendiri, tanpa teman, jauh dari sanak dan saudara, dan jauh dari keramaian. Johar tetap sabar dan tawakal. Karena kesabaran dan ketawakalan juga ketaqwaan pada Tuhan Yang Maha Esa itulah yang menjadi Johar penuh kesabaran, akhirnya Johar mendapat perlindungan dari segala mara bahaya. Lama juga ia hidup menyendiri di daerah terpencil, kadang-kadang teringat juga akan ayah bundannya makin hari makin terasa yang ada di Tenjolayar kampung halmannya tempat ia dilahirkan sudah lama ditinggalkan.</p>"
+          "paragraf": "<p class='deskripsi'>Setelah beristirahat sejenak, timbul pulalah niat ingin tinggal di situ membuat pemukiman baru. Pada waktu itu belum ada seorangpun yang berani menjamak daerah itu, karena masih hutan belantara. Ia mendirikan sebuah gubuk kecil beratapkan alang-alang dan berdinding kulit kayu. Beliau hidup menyendiri dan bercocok tanam. Walaupun ia hidup sendiri, tanpa teman, jauh dari sanak dan saudara, dan jauh dari keramaian. Johar tetap sabar dan tawakal. Karena kesabaran dan ketawakalan juga ketaqwaan pada Tuhan Yang Maha Esa itulah yang menjadi Johar penuh kesabaran, akhirnya Johar mendapat perlindungan dari segala mara bahaya. Lama juga ia hidup menyendiri di daerah terpencil, kadang-kadang teringat juga akan ayah bundannya makin hari makin terasa yang ada di Tenjolayar kampung halmannya tempat ia dilahirkan sudah lama ditinggalkan.</p>"
         },
         {
-          "name": "<p style='text-align: justify;'>Pagi-pagi setelah pajar menyingsing ia tinggalkan gubuknya yang sudah reyot itu untuk menemui orang tuannya dahululu. Betapa bahagiannya tiba-tiba datang ada dihadapannya. Hanya Tuhanlah Yang Maha Mengetahui-Nya, mereka saling berpelukan menunjukkan rasa bahagia bisa bertemu kembali. Johar, lama berada dikampungnya. dan setelah dewasa ia dinikahkan dengan orang sekampungnya. Johar setelah menikah hidupnya rukun damai dalam rumahtangganya. Untung tak dapat diraih tiba-tiba rerjadilah peperangan di Desa Johar, sedangkan Desa Tenjolayar dipakai kancah peperangan. Beliau mengungsi bersama keluarganya ke tempat lain. Lama-lama ia ingat akan gubuknya yang sudah lama ditinggalkan dan ternyata gubuk itu masih ada, sekarang ia menjadi penghuni gubuk kecil itu, bersama istri dan orang-orang yang bersama mengungsi. Ki JOHAR orang yang baik hati, dan penuh rasa tanggung jawab, akhirnya Ki Johar diangkat sebagai tua-tua dikampung itu. Kampung vang beliau bentuk (Babak-babak) jadilah sebuah Dukuh vang diberi nama ‘BELAWA’ yang artinya Desa Pembela Nvawa dari serbuan peperangan.</p>"
+          "paragraf": "<p class='deskripsi'>Pagi-pagi setelah pajar menyingsing ia tinggalkan gubuknya yang sudah reyot itu untuk menemui orang tuannya dahululu. Betapa bahagiannya tiba-tiba datang ada dihadapannya. Hanya Tuhanlah Yang Maha Mengetahui-Nya, mereka saling berpelukan menunjukkan rasa bahagia bisa bertemu kembali. Johar, lama berada dikampungnya. dan setelah dewasa ia dinikahkan dengan orang sekampungnya. Johar setelah menikah hidupnya rukun damai dalam rumahtangganya. Untung tak dapat diraih tiba-tiba rerjadilah peperangan di Desa Johar, sedangkan Desa Tenjolayar dipakai kancah peperangan. Beliau mengungsi bersama keluarganya ke tempat lain. Lama-lama ia ingat akan gubuknya yang sudah lama ditinggalkan dan ternyata gubuk itu masih ada, sekarang ia menjadi penghuni gubuk kecil itu, bersama istri dan orang-orang yang bersama mengungsi. Ki JOHAR orang yang baik hati, dan penuh rasa tanggung jawab, akhirnya Ki Johar diangkat sebagai tua-tua dikampung itu. Kampung vang beliau bentuk (Babak-babak) jadilah sebuah Dukuh vang diberi nama ‘BELAWA’ yang artinya Desa Pembela Nvawa dari serbuan peperangan.</p>"
         },
         {
-          "name": "<p style='text-align: justify;'>Desa Belawa makin lama makin maju dan makin luas, berkat pimpinan yang penuh tanggung jawab pada rakyatnya. Pada masa itu masyarakat Belawa yang ada, menobatkan Ki Johar menjadi KUWU, dengan julukan Ki Kuwu Johar Tenjolayar. Pada usia vang telah lanjut Ki Johar sakit, dan dari sakitnya itu Ki Johar berpulang ke Rahmatulloh, dengan tenang Ki Kuwu Johar Tenjolayar meninggaLkan Dunia, yang selama hidupnya menjadi dambaan. Jenazah Ki Johar diantarkan ketempat peristirahatan terakhir dan disertai Do'a¬Do'a. Semoga arwahnya diterima dan mendapat tempat disisi Alloh SWT. Sepekan setelah beliau dimakamkan, tiba-tiba tumbuhlah suatu tunas (tunas muda) persis dibagian kepalanya. Pertumbuhan tunas vang langka itu cepat sekali menjadi pohon, tetapi seorangpun belum ada vang tahu nama pohon langka itu. Akhirnya dari salah seorang anak muridnva Ki Johar bersemedi Apa Nama Pohon Itu ‘ dan rupanva dikabul, nama pohon itu ‘GALUMPIT’ Pohon Galumpit tumbuh subur makin hari makin tinggi dan makin besar juga rindang. Di bawah akar dan pohon yang rindang itulah, jasad Ki Kuwu Johar berbaring. Menurut ceritra, dari pohon yang rindang itulah ‘Galumpit’ beliau dapat memandang ke alam bebas, sekalipun nun jauh disana. Hanya sekarang sayang, itu tinggal ceritanya saja kenyataannya sudah tak dapat dipandang mata.</p>"
+          "paragraf": "<p class='deskripsi'>Desa Belawa makin lama makin maju dan makin luas, berkat pimpinan yang penuh tanggung jawab pada rakyatnya. Pada masa itu masyarakat Belawa yang ada, menobatkan Ki Johar menjadi KUWU, dengan julukan Ki Kuwu Johar Tenjolayar. Pada usia vang telah lanjut Ki Johar sakit, dan dari sakitnya itu Ki Johar berpulang ke Rahmatulloh, dengan tenang Ki Kuwu Johar Tenjolayar meninggaLkan Dunia, yang selama hidupnya menjadi dambaan. Jenazah Ki Johar diantarkan ketempat peristirahatan terakhir dan disertai Do'a¬Do'a. Semoga arwahnya diterima dan mendapat tempat disisi Alloh SWT. Sepekan setelah beliau dimakamkan, tiba-tiba tumbuhlah suatu tunas (tunas muda) persis dibagian kepalanya. Pertumbuhan tunas vang langka itu cepat sekali menjadi pohon, tetapi seorangpun belum ada vang tahu nama pohon langka itu. Akhirnya dari salah seorang anak muridnva Ki Johar bersemedi Apa Nama Pohon Itu ‘ dan rupanva dikabul, nama pohon itu ‘GALUMPIT’ Pohon Galumpit tumbuh subur makin hari makin tinggi dan makin besar juga rindang. Di bawah akar dan pohon yang rindang itulah, jasad Ki Kuwu Johar berbaring. Menurut ceritra, dari pohon yang rindang itulah ‘Galumpit’ beliau dapat memandang ke alam bebas, sekalipun nun jauh disana. Hanya sekarang sayang, itu tinggal ceritanya saja kenyataannya sudah tak dapat dipandang mata.</p>"
         }
       ],
       "pictureId": "./public/cover/sejarah.png",
@@ -102,24 +98,22 @@
       "genre": "potensi",
       "sosmed": [
         {
-          "name": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "name": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "name": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "name": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
       "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>",
       "customerReviews": [
         {
-          "name": "Ahmad",
-          "review": "Tidak rekomendasi untuk pelajar!",
-          "date": "13 November 2019"
+          "review": "Tidak rekomendasi untuk pelajar!"
         }
       ]
     },
@@ -130,10 +124,10 @@
       "spoiler": "Dalam Undang-Undang RI No.16 Tahun 1997 Pasal 1, dijelaskan bahwa sensus adalah cara pengumpulan data yang dilakukan melalui pencacahan semua unit populasi di seluruh wilayah Republik Indonesia untuk memperoleh karakteristik suatu populasi pada saat tertentu. Hal ini sesuai dengan Peraturan Pemerintah Pasal 3 Tahun 1960 tentang sensus yang menyatakan bahwa waktu mengadakan sensus yang lain-lainnya ditentukan dengan Peraturan Pemerintah, dengan ketentuan sekurang-kurangnya dalam 10 tahun diadakan sekali. Kegiatan sensus penduduk secara umum bertujuan untuk mendapatkan data karakteristik dari suatu populasi pada waktu tertentu.",
       "sinopsis": [
         {
-          "name": "<p style='text-align: justify;'>Dalam Undang-Undang RI No.16 Tahun 1997 Pasal 1, dijelaskan bahwa sensus adalah cara pengumpulan data yang dilakukan melalui pencacahan semua unit populasi di seluruh wilayah Republik Indonesia untuk memperoleh karakteristik suatu populasi pada saat tertentu. Hal ini sesuai dengan Peraturan Pemerintah Pasal 3 Tahun 1960 tentang sensus yang menyatakan bahwa waktu mengadakan sensus yang lain-lainnya ditentukan dengan Peraturan Pemerintah, dengan ketentuan sekurang-kurangnya dalam 10 tahun diadakan sekali. Kegiatan sensus penduduk secara umum bertujuan untuk mendapatkan data karakteristik dari suatu populasi pada waktu tertentu.</p>"
+          "paragraf": "<p class='deskripsi'>Dalam Undang-Undang RI No.16 Tahun 1997 Pasal 1, dijelaskan bahwa sensus adalah cara pengumpulan data yang dilakukan melalui pencacahan semua unit populasi di seluruh wilayah Republik Indonesia untuk memperoleh karakteristik suatu populasi pada saat tertentu. Hal ini sesuai dengan Peraturan Pemerintah Pasal 3 Tahun 1960 tentang sensus yang menyatakan bahwa waktu mengadakan sensus yang lain-lainnya ditentukan dengan Peraturan Pemerintah, dengan ketentuan sekurang-kurangnya dalam 10 tahun diadakan sekali. Kegiatan sensus penduduk secara umum bertujuan untuk mendapatkan data karakteristik dari suatu populasi pada waktu tertentu.</p>"
         },
         {
-          "name": "<p style='text-align: justify;'>Sensus penduduk juga bertujuan untuk membantu pemerintah daerah dalam menyusun program-program kependudukan dan sosial. Hal ini karena data hasil sensus penduduk tidak hanya meliputi jumlah orang, tetapi juga komposisi, distribusi, dan karakteristik penduduk seperti jenis kelamin, usia, bahasa, dan parameter demografi lain yang dianggap perlu. Terlebih, data sensus adalah hal yang penting bagi negara dalam kaitannya dengan perencanaan pembangunan. Hal ini karena kegiatan sensus penduduk terkini dilakukan menggunakan data administrasi kependudukan dari Ditjen Dukcapil sebagai basis data dasar.</p>"
+          "paragraf": "<p class='deskripsi'>Sensus penduduk juga bertujuan untuk membantu pemerintah daerah dalam menyusun program-program kependudukan dan sosial. Hal ini karena data hasil sensus penduduk tidak hanya meliputi jumlah orang, tetapi juga komposisi, distribusi, dan karakteristik penduduk seperti jenis kelamin, usia, bahasa, dan parameter demografi lain yang dianggap perlu. Terlebih, data sensus adalah hal yang penting bagi negara dalam kaitannya dengan perencanaan pembangunan. Hal ini karena kegiatan sensus penduduk terkini dilakukan menggunakan data administrasi kependudukan dari Ditjen Dukcapil sebagai basis data dasar.</p>"
         }
       ],
       "pictureId": "./public/cover/sensus-penduduk.jpg",
@@ -142,24 +136,22 @@
       "genre": "kkm",
       "sosmed": [
         {
-          "name": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "name": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "name": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "name": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
       "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>",
       "customerReviews": [
         {
-          "name": "Ahmad",
-          "review": "Tidak rekomendasi untuk pelajar!",
-          "date": "13 November 2019"
+          "review": "Tidak rekomendasi untuk pelajar!"
         }
       ]
     },
@@ -170,7 +162,7 @@
       "spoiler": "Sebagai kegiatan rutin PKK Kelurahan Tugu, Kecamatan Cimanggis, Jumat (22'/11/19) setiap bulan diadakan Rapat Koordinasi (Rakor) untuk meningkatkan kinerja kader PKK Kelurahan Tugu, serta mengevaluasi program yang sudah, sedang, atau akan dilakukan.",
       "sinopsis": [
         {
-          "name": "<p style='text-align: justify;'>Sebagai kegiatan rutin PKK Kelurahan Tugu, Kecamatan Cimanggis, Jumat (22'/11/19) setiap bulan diadakan Rapat Koordinasi (Rakor) untuk meningkatkan kinerja kader PKK Kelurahan Tugu, serta mengevaluasi program yang sudah, sedang, atau akan dilakukan.</p>"
+          "name": "<p>Sebagai kegiatan rutin PKK Kelurahan Tugu, Kecamatan Cimanggis, Jumat (22'/11/19) setiap bulan diadakan Rapat Koordinasi (Rakor) untuk meningkatkan kinerja kader PKK Kelurahan Tugu, serta mengevaluasi program yang sudah, sedang, atau akan dilakukan.</p>"
         }
       ],
       "pictureId": "./public/cover/pkk.jpg",
@@ -179,16 +171,16 @@
       "genre": "pemdes",
       "sosmed": [
         {
-          "name": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "name": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "name": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "name": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
       "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>",
@@ -207,10 +199,10 @@
       "spoiler": "Karang Taruna adalah organisasi kepemudaan di Indonesia yang dibentuk oleh masyarakat sebagai wadah generasi muda untuk mengembangkan diri, tumbuh, dan berkembang atas dasar kesadaran serta tanggung jawab sosial dari, oleh, dan untuk generasi muda, yang berorientasi pada tercapainya kesejahteraan sosial bagi masyarakat. Sebagai organisasi sosial kepemudaan Karang Taruna merupakan wadah pembinaan dan pengembangan serta pemberdayaan dalam upaya mengembangkan kegiatan ekonomi produktif dengan pendayagunaan semua potensi yang tersedia di lingkungan baik sumber daya manusia maupun sumber daya alam yang telah ada.",
       "sinopsis": [
         {
-          "name": "<p style='text-align: justify;'>Karang Taruna adalah organisasi kepemudaan di Indonesia yang dibentuk oleh masyarakat sebagai wadah generasi muda untuk mengembangkan diri, tumbuh, dan berkembang atas dasar kesadaran serta tanggung jawab sosial dari, oleh, dan untuk generasi muda, yang berorientasi pada tercapainya kesejahteraan sosial bagi masyarakat. Sebagai organisasi sosial kepemudaan Karang Taruna merupakan wadah pembinaan dan pengembangan serta pemberdayaan dalam upaya mengembangkan kegiatan ekonomi produktif dengan pendayagunaan semua potensi yang tersedia di lingkungan baik sumber daya manusia maupun sumber daya alam yang telah ada.</p>"
+          "paragraf": "<p>Karang Taruna adalah organisasi kepemudaan di Indonesia yang dibentuk oleh masyarakat sebagai wadah generasi muda untuk mengembangkan diri, tumbuh, dan berkembang atas dasar kesadaran serta tanggung jawab sosial dari, oleh, dan untuk generasi muda, yang berorientasi pada tercapainya kesejahteraan sosial bagi masyarakat. Sebagai organisasi sosial kepemudaan Karang Taruna merupakan wadah pembinaan dan pengembangan serta pemberdayaan dalam upaya mengembangkan kegiatan ekonomi produktif dengan pendayagunaan semua potensi yang tersedia di lingkungan baik sumber daya manusia maupun sumber daya alam yang telah ada.</p>"
         },
         {
-          "name": "<p style='text-align: justify;'>Sebagai organisasi kepemudaan, Karang Taruna berpedoman pada Pedoman Dasar dan Pedoman Rumah Tangga di mana telah pula diatur tentang struktur pengurus dan masa jabatan di masing-masing wilayah mulai dari Desa/ Kelurahan sampai pada tingkat Nasional. Semua ini wujud dari pada regenerasi organisasi demi kelanjutan organisasi serta pembinaan anggota Karang Taruna baik dimasa sekarang maupun masa yang akan datang. Karang Taruna beranggotakan pemuda dan pemudi (dalam AD/ART nya diatur keanggotaannya mulai dari pemuda/i berusia mulai dari 11 - 45 tahun) dan batasan sebagai Pengurus adalah berusia mulai 17 - 35 tahun. Karang Taruna didirikan dengan visi-misi tujuan memberikan pembinaan dan pemberdayaan kepada para remaja, misalnya dalam bidang keorganisasian, ekonomi, olahraga, ketrampilan, advokasi, keagamaan dan kesenian.</p>"
+          "paragraf": "<p>Sebagai organisasi kepemudaan, Karang Taruna berpedoman pada Pedoman Dasar dan Pedoman Rumah Tangga di mana telah pula diatur tentang struktur pengurus dan masa jabatan di masing-masing wilayah mulai dari Desa/ Kelurahan sampai pada tingkat Nasional. Semua ini wujud dari pada regenerasi organisasi demi kelanjutan organisasi serta pembinaan anggota Karang Taruna baik dimasa sekarang maupun masa yang akan datang. Karang Taruna beranggotakan pemuda dan pemudi (dalam AD/ART nya diatur keanggotaannya mulai dari pemuda/i berusia mulai dari 11 - 45 tahun) dan batasan sebagai Pengurus adalah berusia mulai 17 - 35 tahun. Karang Taruna didirikan dengan visi-misi tujuan memberikan pembinaan dan pemberdayaan kepada para remaja, misalnya dalam bidang keorganisasian, ekonomi, olahraga, ketrampilan, advokasi, keagamaan dan kesenian.</p>"
         }
       ],
       "pictureId": "./public/cover/karang-taruna.jpg",
@@ -219,24 +211,22 @@
       "genre": "pemdes",
       "sosmed": [
         {
-          "name": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "name": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "name": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "name": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
       "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>",
       "customerReviews": [
         {
-          "name": "Ahmad",
-          "review": "Tidak rekomendasi untuk pelajar!",
-          "date": "13 November 2019"
+          "review": "Tidak rekomendasi untuk pelajar!"
         }
       ]
     },
@@ -246,7 +236,7 @@
       "spoiler": "Kuliah Kerja Nyata merupakan proses pembelajaran bagi mahasiswa S1 Universitas Muhammadiyah Cirebon & Sekolah Tinggi Farmasi Muhammdiyah Cirebon yang dikembangkan melalui kegiatan pengabdian kepada masyarakat dalam berbagai segi kehidupan bermasyarakat. Kegiatan KKM UMC ini menerapkan prinsip cocreation (merupakan gagasan bersama), co-financing (dana bersama), flexibility (keluwesan) dan berkesinambungan dengan berbasis riset dalam pelaksanaannya, sehingga diharapkan mahasiswa mampu memberdayakan masyarakat untuk memajukan Desa.",
       "sinopsis": [
         {
-          "name": "<p style='text-align: justify;'>Kuliah Kerja Nyata merupakan proses pembelajaran bagi mahasiswa S1 Universitas Muhammadiyah Cirebon & Sekolah Tinggi Farmasi Muhammdiyah Cirebon yang dikembangkan melalui kegiatan pengabdian kepada masyarakat dalam berbagai segi kehidupan bermasyarakat. Kegiatan KKM UMC ini menerapkan prinsip cocreation (merupakan gagasan bersama), co-financing (dana bersama), flexibility (keluwesan) dan berkesinambungan dengan berbasis riset dalam pelaksanaannya, sehingga diharapkan mahasiswa mampu memberdayakan masyarakat untuk memajukan Desa.</p>"
+          "paragraf": "<p>Kuliah Kerja Nyata merupakan proses pembelajaran bagi mahasiswa S1 Universitas Muhammadiyah Cirebon & Sekolah Tinggi Farmasi Muhammdiyah Cirebon yang dikembangkan melalui kegiatan pengabdian kepada masyarakat dalam berbagai segi kehidupan bermasyarakat. Kegiatan KKM UMC ini menerapkan prinsip cocreation (merupakan gagasan bersama), co-financing (dana bersama), flexibility (keluwesan) dan berkesinambungan dengan berbasis riset dalam pelaksanaannya, sehingga diharapkan mahasiswa mampu memberdayakan masyarakat untuk memajukan Desa.</p>"
         }
       ],
       "cerita": "",
@@ -256,34 +246,32 @@
       "genre": "kkm",
       "sosmed": [
         {
-          "name": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "name": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "name": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "name": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
       "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>",
       "customerReviews": [
         {
-          "name": "Ahmad",
-          "review": "Tidak rekomendasi untuk pelajar!",
-          "date": "13 November 2019"
+          "review": "Tidak rekomendasi untuk pelajar!"
         }
       ]
     },
     {
       "id": "8",
-      "nama": "Pelatihan Paduan Suara",
+      "nama": "Paduan Suara",
       "spoiler": "Sebenarnya, istilah paduan suara adalah terjemahan dari kata “koor” dalam Bahasa Belanda, atau yang dalam Bahasa Yunani yaitu “choros”, serta dalam Bahasa Inggris yaitu “choir”. Singkatnya, pengertian dari paduan suara adalah gabungan sejumlah penyanyi yang mengkombinasikan beragam jenis suara ke dalam suatu harmoni. Komposisi personel yang ada di dalam paduan suara adalah laki-laki saja atau perempuan saja, maupun campuran dari laki-laki dan perempuan. Tapi, jika pengelompokkan dari sisi usia, antara lain paduan suara anak-anak, remaja, dewasa, dan bahkan lansia. Jumlah personel atau penyanyi yang terlibat di dalam sebuah paduan suara berjumlah minimal 15 orang atau bahkan bisa lebih. Pemimpin dari paduan suara adalah seorang dirigen atau “choirmaster”. Namun, selain menjalankan tugas utama tersebut, terkadang dirigen turut menjadi pelatih dari sebuah paduan suara.",
       "sinopsis": [
         {
-          "name": "<p style='text-align: justify;'>Sebenarnya, istilah paduan suara adalah terjemahan dari kata “koor” dalam Bahasa Belanda, atau yang dalam Bahasa Yunani yaitu “choros”, serta dalam Bahasa Inggris yaitu “choir”. Singkatnya, pengertian dari paduan suara adalah gabungan sejumlah penyanyi yang mengkombinasikan beragam jenis suara ke dalam suatu harmoni. Komposisi personel yang ada di dalam paduan suara adalah laki-laki saja atau perempuan saja, maupun campuran dari laki-laki dan perempuan. Tapi, jika pengelompokkan dari sisi usia, antara lain paduan suara anak-anak, remaja, dewasa, dan bahkan lansia. Jumlah personel atau penyanyi yang terlibat di dalam sebuah paduan suara berjumlah minimal 15 orang atau bahkan bisa lebih. Pemimpin dari paduan suara adalah seorang dirigen atau “choirmaster”. Namun, selain menjalankan tugas utama tersebut, terkadang dirigen turut menjadi pelatih dari sebuah paduan suara.</p>"
+          "name": "<p>Sebenarnya, istilah paduan suara adalah terjemahan dari kata “koor” dalam Bahasa Belanda, atau yang dalam Bahasa Yunani yaitu “choros”, serta dalam Bahasa Inggris yaitu “choir”. Singkatnya, pengertian dari paduan suara adalah gabungan sejumlah penyanyi yang mengkombinasikan beragam jenis suara ke dalam suatu harmoni. Komposisi personel yang ada di dalam paduan suara adalah laki-laki saja atau perempuan saja, maupun campuran dari laki-laki dan perempuan. Tapi, jika pengelompokkan dari sisi usia, antara lain paduan suara anak-anak, remaja, dewasa, dan bahkan lansia. Jumlah personel atau penyanyi yang terlibat di dalam sebuah paduan suara berjumlah minimal 15 orang atau bahkan bisa lebih. Pemimpin dari paduan suara adalah seorang dirigen atau “choirmaster”. Namun, selain menjalankan tugas utama tersebut, terkadang dirigen turut menjadi pelatih dari sebuah paduan suara.</p>"
         }
       ],
       "cerita": "",
@@ -293,24 +281,22 @@
       "genre": "pemdes",
       "sosmed": [
         {
-          "name": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "name": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "name": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "name": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
       "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>",
       "customerReviews": [
         {
-          "name": "Ahmad",
-          "review": "Tidak rekomendasi untuk pelajar!",
-          "date": "13 November 2019"
+          "review": "Tidak rekomendasi untuk pelajar!"
         }
       ]
     },
@@ -320,10 +306,10 @@
       "spoiler": "Masyarakat sekitar tambang PT Ganda Alam Makmur (GAM) secara langsung mendapatkan manfaat melalui pembangunan infrastruktur, yaitu gedung usaha mikro kecil dan menengah (UMKM) Center, gedung puskesmas, sarana dan prasarana air bersih, serta perbaikan jalan. Pembangunan gedung UMKM Center oleh GAM merupakan etalase bagi produk-produk pegiat UMKM di Kecamatan Kaubun, Sangkulirang dan Karangan yang selama ini mengalami kesulitan mempromosikan produk-produknya. Bangunan tersebut telah dilengkapi dengan rak dan etalase, instalasi listrik dan pembuatan jalan masuk untuk memudahkan para pedagang dan konsumen memasuki area ini. ",
       "sinopsis": [
         {
-          "name": "<p style='text-align: justify;'>Masyarakat sekitar tambang PT Ganda Alam Makmur (GAM) secara langsung mendapatkan manfaat melalui pembangunan infrastruktur, yaitu gedung usaha mikro kecil dan menengah (UMKM) Center, gedung puskesmas, sarana dan prasarana air bersih, serta perbaikan jalan. Pembangunan gedung UMKM Center oleh GAM merupakan etalase bagi produk-produk pegiat UMKM di Kecamatan Kaubun, Sangkulirang dan Karangan yang selama ini mengalami kesulitan mempromosikan produk-produknya. Bangunan tersebut telah dilengkapi dengan rak dan etalase, instalasi listrik dan pembuatan jalan masuk untuk memudahkan para pedagang dan konsumen memasuki area ini. </p>"
+          "paragraf": "<p>Masyarakat sekitar tambang PT Ganda Alam Makmur (GAM) secara langsung mendapatkan manfaat melalui pembangunan infrastruktur, yaitu gedung usaha mikro kecil dan menengah (UMKM) Center, gedung puskesmas, sarana dan prasarana air bersih, serta perbaikan jalan. Pembangunan gedung UMKM Center oleh GAM merupakan etalase bagi produk-produk pegiat UMKM di Kecamatan Kaubun, Sangkulirang dan Karangan yang selama ini mengalami kesulitan mempromosikan produk-produknya. Bangunan tersebut telah dilengkapi dengan rak dan etalase, instalasi listrik dan pembuatan jalan masuk untuk memudahkan para pedagang dan konsumen memasuki area ini. </p>"
         },
         {
-          "name": "<p style='text-align: justify;'>Keberadaan UMKM Center ini ternyata mampu memacu pertumbuhan ekonomi masyarakat setempat. Para pelaku UMKM dapat menawarkan produk unggulan mereka yang menarik wisatawan domestik untuk mengunjunginya. Produk-produk tersebut tidak hanya berupa makanan ringan, namun sudah merambah kerajinan tangan, madu kelulut, dan beberapa produk lainnya. Keberadaan UMKM Center telah meningkatkan pendapatan dan kesejahteraan masyarakat sekitar tambang.</p>"
+          "paragraf": "<p>Keberadaan UMKM Center ini ternyata mampu memacu pertumbuhan ekonomi masyarakat setempat. Para pelaku UMKM dapat menawarkan produk unggulan mereka yang menarik wisatawan domestik untuk mengunjunginya. Produk-produk tersebut tidak hanya berupa makanan ringan, namun sudah merambah kerajinan tangan, madu kelulut, dan beberapa produk lainnya. Keberadaan UMKM Center telah meningkatkan pendapatan dan kesejahteraan masyarakat sekitar tambang.</p>"
         }
       ],
       "pictureId": "./public/cover/pembangunan-gudang.jpg",
@@ -332,24 +318,22 @@
       "genre": "pemdes",
       "sosmed": [
         {
-          "name": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "name": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "name": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "name": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
       "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>",
       "customerReviews": [
         {
-          "name": "Ahmad",
-          "review": "Tidak rekomendasi untuk pelajar!",
-          "date": "13 November 2019"
+          "review": "Tidak rekomendasi untuk pelajar!"
         }
       ]
     },
@@ -359,7 +343,7 @@
       "spoiler": "Ambulans pada dasarnya adalah mobil biasa yang kemudian didesain ulang untuk keperluan membawa orang yang sedang sakit. Sehingga di dalam mobil ambulans akan dilengkapi dengan beragam alat untuk merawat orang sakit. Mobil ini juga dilengkapi sirene agar bisa berjalan dengan cepat menyelamatkan orang sakit. Sedangkan tujuan penggunaan ambulans ialah, untuk pertolongan penderita gawat darurat pra rumah sakit dan antar fasilitas pelayanan kesehatan, pengangkutan penderita gawat darurat dari lokasi kejadian ke tempat tindakan definitif atau ke rumah sakit dan sebagai kendaraan rujukan.",
       "sinopsis": [
         {
-          "name": "<p style='text-align: justify;'>Ambulans pada dasarnya adalah mobil biasa yang kemudian didesain ulang untuk keperluan membawa orang yang sedang sakit. Sehingga di dalam mobil ambulans akan dilengkapi dengan beragam alat untuk merawat orang sakit. Mobil ini juga dilengkapi sirene agar bisa berjalan dengan cepat menyelamatkan orang sakit. Sedangkan tujuan penggunaan ambulans ialah, untuk pertolongan penderita gawat darurat pra rumah sakit dan antar fasilitas pelayanan kesehatan, pengangkutan penderita gawat darurat dari lokasi kejadian ke tempat tindakan definitif atau ke rumah sakit dan sebagai kendaraan rujukan.</p>"
+          "paragraf": "<p>Ambulans pada dasarnya adalah mobil biasa yang kemudian didesain ulang untuk keperluan membawa orang yang sedang sakit. Sehingga di dalam mobil ambulans akan dilengkapi dengan beragam alat untuk merawat orang sakit. Mobil ini juga dilengkapi sirene agar bisa berjalan dengan cepat menyelamatkan orang sakit. Sedangkan tujuan penggunaan ambulans ialah, untuk pertolongan penderita gawat darurat pra rumah sakit dan antar fasilitas pelayanan kesehatan, pengangkutan penderita gawat darurat dari lokasi kejadian ke tempat tindakan definitif atau ke rumah sakit dan sebagai kendaraan rujukan.</p>"
         }
       ],
       "pictureId": "./public/cover/mobil.jpg",
@@ -368,24 +352,22 @@
       "genre": "layanan",
       "sosmed": [
         {
-          "name": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "name": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "name": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "name": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
       "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>",
       "customerReviews": [
         {
-          "name": "Ahmad",
-          "review": "Tidak rekomendasi untuk pelajar!",
-          "date": "13 November 2019"
+          "review": "Tidak rekomendasi untuk pelajar!"
         }
       ]
     },
@@ -395,7 +377,7 @@
       "spoiler": "Tahun Baru Hijriah atau Tahun Baru Islam merupakan suatu hari yang penting bagi umat Islam karena menandai peristiwa penting yang terjadi dalam sejarah Islam yaitu memperingati penghijrahan Nabi Muhammad SAW. dari Kota Makkah ke Madinah pada tahun 622 Masehi. Peristiwa bersejarah itu terjadi pada 1 Muharam tahun baru bagi Kalender Hijriah. Namun, Tahun Hijrah Rasulullah SAW dari Makkah ke Madinah itu diambil sebagai awal perhitungan bagi Kalender Hijriah.",
       "sinopsis": [
         {
-          "name": "<p style='text-align: justify;'>Tahun Baru Hijriah atau Tahun Baru Islam merupakan suatu hari yang penting bagi umat Islam karena menandai peristiwa penting yang terjadi dalam sejarah Islam yaitu memperingati penghijrahan Nabi Muhammad SAW. dari Kota Makkah ke Madinah pada tahun 622 Masehi. Peristiwa bersejarah itu terjadi pada 1 Muharam tahun baru bagi Kalender Hijriah. Namun, Tahun Hijrah Rasulullah SAW dari Makkah ke Madinah itu diambil sebagai awal perhitungan bagi Kalender Hijriah.</p>"
+          "name": "<p>Tahun Baru Hijriah atau Tahun Baru Islam merupakan suatu hari yang penting bagi umat Islam karena menandai peristiwa penting yang terjadi dalam sejarah Islam yaitu memperingati penghijrahan Nabi Muhammad SAW. dari Kota Makkah ke Madinah pada tahun 622 Masehi. Peristiwa bersejarah itu terjadi pada 1 Muharam tahun baru bagi Kalender Hijriah. Namun, Tahun Hijrah Rasulullah SAW dari Makkah ke Madinah itu diambil sebagai awal perhitungan bagi Kalender Hijriah.</p>"
         }
       ],
       "pictureId": "./public/cover/muharram.jpg",
@@ -404,24 +386,22 @@
       "genre": "pemdes",
       "sosmed": [
         {
-          "name": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "name": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "name": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "name": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
       "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>",
       "customerReviews": [
         {
-          "name": "Ahmad",
-          "review": "Tidak rekomendasi untuk pelajar!",
-          "date": "13 November 2019"
+          "review": "Tidak rekomendasi untuk pelajar!"
         }
       ]
     },
@@ -431,7 +411,7 @@
       "spoiler": "Vaksinasi adalah pemberian vaksin yang khusus diberikan dalam rangka meningkatkan kekebalan seseorang secara aktif terhadap suatu penyakit. Berkaitan dengan pandemi ini, ada empat tujuan vaksinasi COVID-19. Pertama, mengurangi penularan COVID-19. Kedua, menurunkan angka kesakitan dan kematian akibat COVID-19. Ketiga, mencapai herd immunity. Terakhir, melindungi masyarakat agar tetap produktif. Meski telah divaksin, sahabat sehat bukan berarti dapat abai dalam menerapkan protokol kesehatan. Tetap jaga kesehatan dan tetap ikuti protokol kesehatan 3M serta siap saat menerima vaksin nanti ya, sahabat sehat.",
       "sinopsis": [
         {
-          "name": "<p style='text-align: justify;'>Vaksinasi adalah pemberian vaksin yang khusus diberikan dalam rangka meningkatkan kekebalan seseorang secara aktif terhadap suatu penyakit. Berkaitan dengan pandemi ini, ada empat tujuan vaksinasi COVID-19. Pertama, mengurangi penularan COVID-19. Kedua, menurunkan angka kesakitan dan kematian akibat COVID-19. Ketiga, mencapai herd immunity. Terakhir, melindungi masyarakat agar tetap produktif. Meski telah divaksin, sahabat sehat bukan berarti dapat abai dalam menerapkan protokol kesehatan. Tetap jaga kesehatan dan tetap ikuti protokol kesehatan 3M serta siap saat menerima vaksin nanti ya, sahabat sehat.</p>"
+          "paragraf": "<p>Vaksinasi adalah pemberian vaksin yang khusus diberikan dalam rangka meningkatkan kekebalan seseorang secara aktif terhadap suatu penyakit. Berkaitan dengan pandemi ini, ada empat tujuan vaksinasi COVID-19. Pertama, mengurangi penularan COVID-19. Kedua, menurunkan angka kesakitan dan kematian akibat COVID-19. Ketiga, mencapai herd immunity. Terakhir, melindungi masyarakat agar tetap produktif. Meski telah divaksin, sahabat sehat bukan berarti dapat abai dalam menerapkan protokol kesehatan. Tetap jaga kesehatan dan tetap ikuti protokol kesehatan 3M serta siap saat menerima vaksin nanti ya, sahabat sehat.</p>"
         }
       ],
       "pictureId": "./public/cover/vaksinasi.jpg",
@@ -440,24 +420,451 @@
       "genre": "layanan",
       "sosmed": [
         {
-          "name": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "name": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "name": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "name": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
       "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>",
       "customerReviews": [
         {
-          "name": "Ahmad",
-          "review": "Tidak rekomendasi untuk pelajar!",
-          "date": "13 November 2019"
+          "review": "Tidak rekomendasi untuk pelajar!"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "nama": "Stuktural Pemdes Belawa",
+      "spoiler": "-",
+      "sinopsis": [
+        {
+          "paragraf": "<p>Seperti desa-desa lainnya Belawa juga mempunyai sejarah tersendiri demikian pula adat dan istiadat tersendiri pula, Desa Belawa tadinya merupakan sebuah blok atau cantilan namanya Blok Cangkuang yang termasuk bagian dari desa Panyamunan dan sekarang merupakan Desa Putat. Pada jaman dahulu kala entah abad ke berapa, datanglah seorang kelana yang berhati suci dan berwatak jujur, tak pernah ia bertingkah diluar garis susila. Beliau pergi meninggalkan kampung halamannya dengan seijin orang tuanya, hanya kemana ia akan pergi, tidak tentu. JOHAR julukan kelana itu, nama yang manis dan mempunyai sorot mata yang berwibawa. Ia pergi mengembara, tak tahu arah mana yang akan dituju, hal itu tidak jadi pikiran, niatnya bulat mau membersihkan diri/bertapa Ia berjalan hanya menuruti kemauan ibu jari kaki saja, tebing dan ngarai sudah ia lalui, tibalah pada suatu tempat yang menurut pikirannya sudah cukup jauh beliau berjalan, dan disini beliau berhenti dan beristirahat.</p>"
+        },
+        {
+          "paragraf": "<p>Setelah beristirahat sejenak, timbul pulalah niat ingin tinggal di situ membuat pemukiman baru. Pada waktu itu belum ada seorangpun yang berani menjamak daerah itu, karena masih hutan belantara. Ia mendirikan sebuah gubuk kecil beratapkan alang-alang dan berdinding kulit kayu. Beliau hidup menyendiri dan bercocok tanam. Walaupun ia hidup sendiri, tanpa teman, jauh dari sanak dan saudara, dan jauh dari keramaian. Johar tetap sabar dan tawakal. Karena kesabaran dan ketawakalan juga ketaqwaan pada Tuhan Yang Maha Esa itulah yang menjadi Johar penuh kesabaran, akhirnya Johar mendapat perlindungan dari segala mara bahaya. Lama juga ia hidup menyendiri di daerah terpencil, kadang-kadang teringat juga akan ayah bundannya makin hari makin terasa yang ada di Tenjolayar kampung halmannya tempat ia dilahirkan sudah lama ditinggalkan.</p>"
+        }
+      ],
+      "pictureId": "./public/cover/sejarah.png",
+      "pengarang": "Pemerintahan Desa",
+      "rating": "-",
+      "genre": "pemdes",
+      "sosmed": [
+        {
+          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+        }
+      ],
+      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>",
+      "customerReviews": [
+        {
+          "review": "Tidak rekomendasi untuk pelajar!"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "nama": "Babinsa Koramil",
+      "cerita": "",
+      "spoiler": "-",
+      "sinopsis": [
+        {
+          "paragraf": "<p>Dalam Undang-Undang RI No.16 Tahun 1997 Pasal 1, dijelaskan bahwa sensus adalah cara pengumpulan data yang dilakukan melalui pencacahan semua unit populasi di seluruh wilayah Republik Indonesia untuk memperoleh karakteristik suatu populasi pada saat tertentu. Hal ini sesuai dengan Peraturan Pemerintah Pasal 3 Tahun 1960 tentang sensus yang menyatakan bahwa waktu mengadakan sensus yang lain-lainnya ditentukan dengan Peraturan Pemerintah, dengan ketentuan sekurang-kurangnya dalam 10 tahun diadakan sekali. Kegiatan sensus penduduk secara umum bertujuan untuk mendapatkan data karakteristik dari suatu populasi pada waktu tertentu.</p>"
+        },
+        {
+          "paragraf": "<p>Sensus penduduk juga bertujuan untuk membantu pemerintah daerah dalam menyusun program-program kependudukan dan sosial. Hal ini karena data hasil sensus penduduk tidak hanya meliputi jumlah orang, tetapi juga komposisi, distribusi, dan karakteristik penduduk seperti jenis kelamin, usia, bahasa, dan parameter demografi lain yang dianggap perlu. Terlebih, data sensus adalah hal yang penting bagi negara dalam kaitannya dengan perencanaan pembangunan. Hal ini karena kegiatan sensus penduduk terkini dilakukan menggunakan data administrasi kependudukan dari Ditjen Dukcapil sebagai basis data dasar.</p>"
+        }
+      ],
+      "pictureId": "./public/cover/sensus-penduduk.jpg",
+      "pengarang": "Pemerintahan Desa",
+      "rating": "19 Juli 2022",
+      "genre": "pemdes",
+      "sosmed": [
+        {
+          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+        }
+      ],
+      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>",
+      "customerReviews": [
+        {
+          "review": "Tidak rekomendasi untuk pelajar!"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "nama": "Menyambut 17an",
+      "spoiler": "-",
+      "sinopsis": [
+        {
+          "paragraf": "<p>Sebagai kegiatan rutin PKK Kelurahan Tugu, Kecamatan Cimanggis, Jumat (22'/11/19) setiap bulan diadakan Rapat Koordinasi (Rakor) untuk meningkatkan kinerja kader PKK Kelurahan Tugu, serta mengevaluasi program yang sudah, sedang, atau akan dilakukan.</p>"
+        }
+      ],
+      "pictureId": "./public/cover/pkk.jpg",
+      "pengarang": "Pemerintahan Desa",
+      "rating": "21 Juli 2022",
+      "genre": "pemdes",
+      "sosmed": [
+        {
+          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+        }
+      ],
+      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>",
+      "customerReviews": [
+        {
+          "review": "Tidak rekomendasi untuk pelajar!"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "nama": "Pelantikan perangkat desa 22",
+      "cerita": "",
+      "spoiler": "-",
+      "sinopsis": [
+        {
+          "paragraf": "<p>Karang Taruna adalah organisasi kepemudaan di Indonesia yang dibentuk oleh masyarakat sebagai wadah generasi muda untuk mengembangkan diri, tumbuh, dan berkembang atas dasar kesadaran serta tanggung jawab sosial dari, oleh, dan untuk generasi muda, yang berorientasi pada tercapainya kesejahteraan sosial bagi masyarakat. Sebagai organisasi sosial kepemudaan Karang Taruna merupakan wadah pembinaan dan pengembangan serta pemberdayaan dalam upaya mengembangkan kegiatan ekonomi produktif dengan pendayagunaan semua potensi yang tersedia di lingkungan baik sumber daya manusia maupun sumber daya alam yang telah ada.</p>"
+        },
+        {
+          "paragraf": "<p>Sebagai organisasi kepemudaan, Karang Taruna berpedoman pada Pedoman Dasar dan Pedoman Rumah Tangga di mana telah pula diatur tentang struktur pengurus dan masa jabatan di masing-masing wilayah mulai dari Desa/ Kelurahan sampai pada tingkat Nasional. Semua ini wujud dari pada regenerasi organisasi demi kelanjutan organisasi serta pembinaan anggota Karang Taruna baik dimasa sekarang maupun masa yang akan datang. Karang Taruna beranggotakan pemuda dan pemudi (dalam AD/ART nya diatur keanggotaannya mulai dari pemuda/i berusia mulai dari 11 - 45 tahun) dan batasan sebagai Pengurus adalah berusia mulai 17 - 35 tahun. Karang Taruna didirikan dengan visi-misi tujuan memberikan pembinaan dan pemberdayaan kepada para remaja, misalnya dalam bidang keorganisasian, ekonomi, olahraga, ketrampilan, advokasi, keagamaan dan kesenian.</p>"
+        }
+      ],
+      "pictureId": "./public/cover/karang-taruna.jpg",
+      "pengarang": "Karang Taruna",
+      "rating": "Dahulu",
+      "genre": "pemdes",
+      "sosmed": [
+        {
+          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+        }
+      ],
+      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>",
+      "customerReviews": [
+        {
+          "review": "Tidak rekomendasi untuk pelajar!"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "nama": "KKM UMC",
+      "spoiler": "-",
+      "sinopsis": [
+        {
+          "paragraf": "<p>Kuliah Kerja Nyata merupakan proses pembelajaran bagi mahasiswa S1 Universitas Muhammadiyah Cirebon & Sekolah Tinggi Farmasi Muhammdiyah Cirebon yang dikembangkan melalui kegiatan pengabdian kepada masyarakat dalam berbagai segi kehidupan bermasyarakat. Kegiatan KKM UMC ini menerapkan prinsip cocreation (merupakan gagasan bersama), co-financing (dana bersama), flexibility (keluwesan) dan berkesinambungan dengan berbasis riset dalam pelaksanaannya, sehingga diharapkan mahasiswa mampu memberdayakan masyarakat untuk memajukan Desa.</p>"
+        }
+      ],
+      "cerita": "",
+      "pictureId": "./public/cover/kkm-umc.jpeg",
+      "pengarang": "KKM UMC",
+      "rating": "12 Agustus 2022",
+      "genre": "kkm",
+      "sosmed": [
+        {
+          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+        }
+      ],
+      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>",
+      "customerReviews": [
+        {
+          "review": "Tidak rekomendasi untuk pelajar!"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "nama": "Paduan Suara",
+      "spoiler": "-",
+      "sinopsis": [
+        {
+          "paragraf": "<p>Sebenarnya, istilah paduan suara adalah terjemahan dari kata “koor” dalam Bahasa Belanda, atau yang dalam Bahasa Yunani yaitu “choros”, serta dalam Bahasa Inggris yaitu “choir”. Singkatnya, pengertian dari paduan suara adalah gabungan sejumlah penyanyi yang mengkombinasikan beragam jenis suara ke dalam suatu harmoni. Komposisi personel yang ada di dalam paduan suara adalah laki-laki saja atau perempuan saja, maupun campuran dari laki-laki dan perempuan. Tapi, jika pengelompokkan dari sisi usia, antara lain paduan suara anak-anak, remaja, dewasa, dan bahkan lansia. Jumlah personel atau penyanyi yang terlibat di dalam sebuah paduan suara berjumlah minimal 15 orang atau bahkan bisa lebih. Pemimpin dari paduan suara adalah seorang dirigen atau “choirmaster”. Namun, selain menjalankan tugas utama tersebut, terkadang dirigen turut menjadi pelatih dari sebuah paduan suara.</p>"
+        }
+      ],
+      "pictureId": "./public/cover/paduan-suara.jpg",
+      "pengarang": "Ibu-ibu PKK",
+      "rating": "25 Juli 2022",
+      "genre": "pemdes",
+      "sosmed": [
+        {
+          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+        }
+      ],
+      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>",
+      "customerReviews": [
+        {
+          "review": "Tidak rekomendasi untuk pelajar!"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "nama": "Gedung UMKM Baru",
+      "spoiler": "-",
+      "sinopsis": [
+        {
+          "paragraf": "<p>Masyarakat sekitar tambang PT Ganda Alam Makmur (GAM) secara langsung mendapatkan manfaat melalui pembangunan infrastruktur, yaitu gedung usaha mikro kecil dan menengah (UMKM) Center, gedung puskesmas, sarana dan prasarana air bersih, serta perbaikan jalan. Pembangunan gedung UMKM Center oleh GAM merupakan etalase bagi produk-produk pegiat UMKM di Kecamatan Kaubun, Sangkulirang dan Karangan yang selama ini mengalami kesulitan mempromosikan produk-produknya. Bangunan tersebut telah dilengkapi dengan rak dan etalase, instalasi listrik dan pembuatan jalan masuk untuk memudahkan para pedagang dan konsumen memasuki area ini. </p>"
+        },
+        {
+          "paragraf": "<p>Keberadaan UMKM Center ini ternyata mampu memacu pertumbuhan ekonomi masyarakat setempat. Para pelaku UMKM dapat menawarkan produk unggulan mereka yang menarik wisatawan domestik untuk mengunjunginya. Produk-produk tersebut tidak hanya berupa makanan ringan, namun sudah merambah kerajinan tangan, madu kelulut, dan beberapa produk lainnya. Keberadaan UMKM Center telah meningkatkan pendapatan dan kesejahteraan masyarakat sekitar tambang.</p>"
+        }
+      ],
+      "pictureId": "./public/cover/pembangunan-gudang.jpg",
+      "pengarang": "Pemerintahan Desa",
+      "rating": "17 Juli 2022",
+      "genre": "pemdes",
+      "sosmed": [
+        {
+          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+        }
+      ],
+      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>",
+      "customerReviews": [
+        {
+          "review": "Tidak rekomendasi untuk pelajar!"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "nama": "Mobil Cepat Tanggap",
+      "spoiler": "-",
+      "sinopsis": [
+        {
+          "paragraf": "<p>Ambulans pada dasarnya adalah mobil biasa yang kemudian didesain ulang untuk keperluan membawa orang yang sedang sakit. Sehingga di dalam mobil ambulans akan dilengkapi dengan beragam alat untuk merawat orang sakit. Mobil ini juga dilengkapi sirene agar bisa berjalan dengan cepat menyelamatkan orang sakit. Sedangkan tujuan penggunaan ambulans ialah, untuk pertolongan penderita gawat darurat pra rumah sakit dan antar fasilitas pelayanan kesehatan, pengangkutan penderita gawat darurat dari lokasi kejadian ke tempat tindakan definitif atau ke rumah sakit dan sebagai kendaraan rujukan.</p>"
+        }
+      ],
+      "pictureId": "./public/cover/mobil.jpg",
+      "pengarang": "Pemerintahan Desa",
+      "rating": "17 Juli 2022",
+      "genre": "layanan",
+      "sosmed": [
+        {
+          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+        }
+      ],
+      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>",
+      "customerReviews": [
+        {
+          "review": "Tidak rekomendasi untuk pelajar!"
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "nama": "Tahun Baru Hijriah",
+      "spoiler": "-",
+      "sinopsis": [
+        {
+          "paragraf": "<p>Tahun Baru Hijriah atau Tahun Baru Islam merupakan suatu hari yang penting bagi umat Islam karena menandai peristiwa penting yang terjadi dalam sejarah Islam yaitu memperingati penghijrahan Nabi Muhammad SAW. dari Kota Makkah ke Madinah pada tahun 622 Masehi. Peristiwa bersejarah itu terjadi pada 1 Muharam tahun baru bagi Kalender Hijriah. Namun, Tahun Hijrah Rasulullah SAW dari Makkah ke Madinah itu diambil sebagai awal perhitungan bagi Kalender Hijriah.</p>"
+        }
+      ],
+      "pictureId": "./public/cover/muharram.jpg",
+      "pengarang": "Pemerintahan Desa",
+      "rating": "29 Juli 2022",
+      "genre": "pemdes",
+      "sosmed": [
+        {
+          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+        }
+      ],
+      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>",
+      "customerReviews": [
+        {
+          "review": "Tidak rekomendasi untuk pelajar!"
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "nama": "Vaksinasi",
+      "spoiler": "-",
+      "sinopsis": [
+        {
+          "paragraf": "<p>Vaksinasi adalah pemberian vaksin yang khusus diberikan dalam rangka meningkatkan kekebalan seseorang secara aktif terhadap suatu penyakit. Berkaitan dengan pandemi ini, ada empat tujuan vaksinasi COVID-19. Pertama, mengurangi penularan COVID-19. Kedua, menurunkan angka kesakitan dan kematian akibat COVID-19. Ketiga, mencapai herd immunity. Terakhir, melindungi masyarakat agar tetap produktif. Meski telah divaksin, sahabat sehat bukan berarti dapat abai dalam menerapkan protokol kesehatan. Tetap jaga kesehatan dan tetap ikuti protokol kesehatan 3M serta siap saat menerima vaksin nanti ya, sahabat sehat.</p>"
+        }
+      ],
+      "pictureId": "./public/cover/vaksinasi.jpg",
+      "pengarang": "Pemerintahan Desa",
+      "rating": "21 Juli 2022",
+      "genre": "layanan",
+      "sosmed": [
+        {
+          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+        }
+      ],
+      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>",
+      "customerReviews": [
+        {
+          "review": "Tidak rekomendasi untuk pelajar!"
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "nama": "Wisata Cikuya",
+      "spoiler": "-",
+      "sinopsis": [
+        {
+          "paragraf": "<p>Dahulu kala, ada seorang pemuda yang bernama Jaka Saliwah, pemuda ini mempunyai fisik kulit sebelah hitam dan sebelahnya lagi putih, yang membuatnya merasa terasing akan keunikan yang dimilikinya. Dikarenakan sering dibuli, dia akhirnya pergi mendatangi seorang syekh yang bernama Syekh Datuk Putih dan berguru padanya. Selama bertahun-tahun Jaka Saliwah belajar ngaji, dengan tujuan supaya warna kulitnya dapat berubah normal seperti yang lainnya.</p>"
+        },
+        {
+          "paragraf": "<p>Namun ternyata warna kulitnya tidak berubah sama sekali, yang akhirnya membuat dia marah dan emosi sehingga merobek Al-Qur’an yang selalu digunakan olehnya. Tak berhenti sampai disitu, Jaka Saliwah melemparkan sobekan Qur’an tersebut ke telaga kecil. Suatu keanehan pun muncul, dimana sobekan kertas Al-Qur’an yang dilemparkannya menghilang tanpa jejak. Lalu muncullah sebuah hewan kecil yang dia beri nama kura-kura atau kuya, seketika itu pula wajah dari Jaka Saliwah berubah menjadi normal. Oleh sebab itu, daerah tersebut kemudian diberi nama Cikuya, Desa Belawa.</p>"
+        }
+      ],
+      "pictureId": "./public/cover/cikuya.jpg",
+      "pengarang": "Karang Taruna",
+      "rating": "Dahulu",
+      "genre": "potensi",
+      "sosmed": [
+        {
+          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+        }
+      ],
+      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>",
+      "customerReviews": [
+        {
+          "review": "Di rekomendasi untuk pelajar!"
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "nama": "UMKM Olahan Mangga",
+      "spoiler": "-",
+      "sinopsis": [
+        {
+          "paragraf": "<p>Desa Belawa merupakan desa sentra buah mangga dengan kualitas ekspor dan menjadi buah primadona dipasar lokal maupun luar negeri dibuktikan oleh with house dengan dijadikanya buah mangga gedong belawa menjadi buah pencuci mulut presiden barack obama.</p>"
+        },
+        {
+          "paragraf": "<p>Desa belawa menghasilkan produksi mangga semakin dari 160.000 ton tiap tahunnya dan sekarang para petani mangga di desa belawa bisa memperkembangkan pola pertanian mangga tak mengenal musim kareana setiap ketika telah tersedia mangga di kebun untuk dipetik.</p>"
+        }
+      ],
+      "pictureId": "./public/cover/olahan-mangga.jpg",
+      "pengarang": "Petani Mangga",
+      "rating": "Dahulu",
+      "genre": "potensi",
+      "sosmed": [
+        {
+          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+        }
+      ],
+      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>",
+      "customerReviews": [
+        {
+          "review": "Tidak rekomendasi untuk pelajar!"
         }
       ]
     }

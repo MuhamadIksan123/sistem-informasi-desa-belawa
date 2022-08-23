@@ -12,7 +12,7 @@ html {
   width: 100%;
   height: 100%;
   background-color: #c8e4c3;
-  background-image: url('./../public/images/repeated-square.jpg');
+  background-image: url('./../public/images/sun-pattern.jpg');
 }
 
 /* 
@@ -109,21 +109,22 @@ Fav Button
 */
 
 .fav {
-  background-color: #c8e4c3;
-  border: 0;
-  padding: 30px;
-  cursor: pointer;
+  width: 55px;
+  height: 55px;
   display: flex;
   align-items: center;
   justify-content: center;
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  z-index: 10;
-}
+  background-color: #db0000;
 
-.fav:hover {
-  background-color: #39cc14;
+  position: fixed;
+  bottom: 16px;
+  right: 16px;
+  border-radius: 50%;
+  border: 0;
+
+  font-size: 18px;
+  color: white;
+  cursor: pointer;
 }
 
 /* item genre */

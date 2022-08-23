@@ -3,9 +3,17 @@
   .judul_utama {
     font-size: 1.1em;
   }
+
+  p.deskripsi {
+    text-align: left;
+  }
 }
 
 @media screen and (min-width: 320px) {
+  p.deskripsi {
+    text-align: justify;
+  }
+
   .judul_utama {
     font-size: 1.3em;
   }

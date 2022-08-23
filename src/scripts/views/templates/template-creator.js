@@ -29,9 +29,9 @@ const createDetailTemplate = (komik) => `
   </div>
   <div class="komik__overview">
     <h3>Description</h3>
-    ${komik.sinopsis.map((s) => s.name).join(' ')}
+    ${komik.sinopsis.map((s) => s.paragraf).join(' ')}
     <h4>Media Sosial</h4>
-    <p>${komik.sosmed.map((food) => food.name).join(' ')}</p>
+    <p>${komik.sosmed.map((food) => food.icon).join(' ')}</p>
     <h4>Dokumentasi</h4>
     <p>${komik.dokumentasi}</p>
     <div class="komik__description">
