@@ -12,7 +12,7 @@ html {
   width: 100%;
   height: 100%;
   background-color: #c8e4c3;
-  background-image: url('./../public/images/sun-pattern.jpg');
+  background-image: url('./../public/images/repeated-square.jpg');
 }
 
 /* 
@@ -177,4 +177,24 @@ Fav Button
 
 .komik__overview p {
   margin-bottom: 8px;
+}
+
+p.deskripsi {
+  text-align: justify;
+}
+
+div.judul-kontak {
+  background-color: #d9d9d9;
+  font-size: 2rem;
+  color: #cc142d;
+  padding: auto;
+  display: flex;
+  background-color: rgb(217, 217, 217);
+  border-radius: 10px;
+  text-align: center;
+  justify-content: center;
+}
+
+div.form-kontak {
+  background-color: #d9d9d9;
 }

@@ -4,18 +4,20 @@
     font-size: 1.1em;
   }
 
-  p.deskripsi {
-    text-align: left;
+  .headline__title {
+    font-size: 19px;
+    font-weight: 500;
   }
 }
 
 @media screen and (min-width: 320px) {
-  p.deskripsi {
-    text-align: justify;
-  }
-
   .judul_utama {
     font-size: 1.3em;
+  }
+
+  .headline__title {
+    font-size: 21px;
+    font-weight: 500;
   }
 
   .hero__title {
@@ -48,6 +50,11 @@
     font-size: 1.5em;
   }
 
+  .headline__title {
+    font-size: 28px;
+    font-weight: 500;
+  }
+
   .list-item {
     margin: 10px 30px;
     grid-template-columns: repeat(3, 1fr);
@@ -73,6 +80,11 @@
 }
 
 @media screen and (min-width: 800px) {
+  .headline__title {
+    font-size: 32px;
+    font-weight: 500;
+  }
+
   .list-item {
     margin: 10px 30px;
     grid-template-columns: repeat(5, 1fr);

@@ -24,22 +24,14 @@ const createDetailTemplate = (komik) => `
     <p>${komik.pengarang}</p>
     <h4>Waktu</h4>
     <p>${komik.rating}</p>
-    <h4>Kategori</h4>
-    <p class="text-capitalize">${komik.genre}</p>
   </div>
   <div class="komik__overview">
     <h3>Description</h3>
     ${komik.sinopsis.map((s) => s.paragraf).join(' ')}
     <h4>Media Sosial</h4>
-    <p>${komik.sosmed.map((food) => food.icon).join(' ')}</p>
+    <p>${komik.sosmed.map((s) => s.icon).join(' ')}</p>
     <h4>Dokumentasi</h4>
     <p>${komik.dokumentasi}</p>
-    <div class="komik__description">
-      <h3>Customer Reviews</h3>
-      <p>${komik.customerReviews
-    .map((customer) => customer.review)
-    .join(' | ')}</p>
-    </div>
   </div>
 `;
 

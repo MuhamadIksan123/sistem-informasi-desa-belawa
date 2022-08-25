@@ -5,6 +5,7 @@ import About from '../views/pages/about';
 import Detail from '../views/pages/detail';
 import Genre from '../views/pages/genre';
 import Publis from '../views/pages/publis';
+import Kontak from '../views/pages/kontak';
 
 const routes = {
   '/': Home,
@@ -13,6 +14,7 @@ const routes = {
   '/genre/:id': Genre,
   '/detail/:id': Detail,
   '/publis': Publis,
+  '/kontak': Kontak,
   '/favorite': Favorite,
   '/about': About,
 };

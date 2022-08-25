@@ -34,11 +34,6 @@ class AppWelcome extends HTMLElement {
                     padding: 16px 32px;
                   }
 
-                  .headline__title {
-                    font-size: 32px;
-                    font-weight: 500;
-                  }
-
                   .headline__description {
                     font-size: 16px;
                     margin-top: 12px;

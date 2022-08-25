@@ -50,6 +50,7 @@ class AppBar extends HTMLElement {
                 <a class="nav-link active nav__item" href="#/explore">Kategori</a>
                 <a class="nav-link active nav__item" href="#/favorite">Favorit</a>
                 <a class="nav-link active nav__item" href="#/publis">Publis</a>
+                <a class="nav-link active nav__item" href="#/kontak">Kontak</a>
                 <a class="nav-link active nav__item" href="#/about">About Us</a>
               </div>
             </div>
