@@ -37,6 +37,7 @@ class AppWelcome extends HTMLElement {
                   .headline__description {
                     font-size: 16px;
                     margin-top: 12px;
+                    text-align: justify;
                   }
 
                   .headline__button {

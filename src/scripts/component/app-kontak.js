@@ -16,13 +16,14 @@ class AppKontak extends HTMLElement {
 
             .container {
               font-family: Arial;
-              font-size: 1.1rem;
+              font-size: 0.9rem;
             }
             
             h2 {
                 font-family: "Poppins", sans-serif;
                 font-size: 2.5rem;
                 font-weight: 700;
+                color: #cc142d;
             }
             
             label {
@@ -55,8 +56,8 @@ class AppKontak extends HTMLElement {
                 border-color: #000; 
             }
             
-            input[type=submit] {
-              background-color: #000;
+            button[type=submit] {
+              background-color: #cc142d;
               color: white;
               padding: 12px 20px;
               border: none;
@@ -68,12 +69,14 @@ class AppKontak extends HTMLElement {
               font-size: 16px;
             }
             
-            input[type=submit]:hover {
+            button[type=submit]:hover {
               background-color: #45a049;
             }
 
             @media screen and (min-width: 800px) {
               .container {
+                  font-family: Arial;
+                  font-size: 1.1rem;
                   border-radius: 50px;
                   /* background-color: #f2f2f2; */
                   padding: 30px 85px;
@@ -109,28 +112,22 @@ class AppKontak extends HTMLElement {
                 <p>atau melalui form di bawah ini:</p>
               </div>
                 
-                <form action="" method="POST" class="submit_informasi">
+                <form action="https://formspree.io/f/mknegbpz" method="POST" class="submit_informasi">
 
                   <label for="nama_pengarang">Nama</label>
-                  <input type="text" class="nama_pengarang" name="namaPengarang" placeholder="Nama Anda" required>
+                  <input type="text" class="nama_pengarang" name="nama" placeholder="Nama Anda" required>
 
                   <label for="nama_email">E-Mail</label>
-                  <input type="email" class="nama_email" name="namaEmail" placeholder="E-Mail Anda" required>
+                  <input type="email" class="nama_email" name="email" placeholder="E-Mail Anda" required>
     
-                  <label for="nama_informasi">Judul Informasi</label>
-                  <input type="text" class="nama_informasi" name="namainformasi" placeholder="Perihal" required>
+                  <label for="nama_informasi">Perihal</label>
+                  <input type="text" class="nama_informasi" name="subject" placeholder="Perihal/Judul Pesan" required>
               
-                  <label for="tanggal_rilis">Tanggal Rilis</label>
-                  <input type="datetime-local" class="tanggal_rilis" name="tanggalRilis" placeholder="Tanggal rilis informasi kamu..." required>
+                  <label for="sinopsis_cerita">Isi Pesan</label>
+                  <textarea class="sinopsis_cerita" name="sinopsisCerita" placeholder="Isi Pesan" style="height:200px" required></textarea>
     
-                  <label for="sinopsis_cerita">Deskripsi</label>
-                  <textarea class="sinopsis_cerita" name="sinopsisCerita" placeholder="Tulis sinopsis disini..." style="height:200px" required></textarea>
-    
-                  <label for="unggah_informasi">Unggah Dokumentasi</label>
-                  <input type="file" class="unggah_informasi" name="unggahinformasi" required>
-                  
                   <!-- <button type="submit">Kirim!</button> -->
-                  <input type="submit" class="" value="Kirim!">
+                  <button type="submit" class="">Kirim!</button>
                 </form>
             </div>
     
