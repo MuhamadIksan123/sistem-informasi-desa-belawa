@@ -1,11 +1,13 @@
 import data from '../../DATA.json';
 
-class DataSourceGenre {
+class DataSourceKategori {
   static show(keyword) {
     return new Promise((resolve, reject) => {
-      const filteredKomik = data.komiks.filter((komik) => komik.genre.toUpperCase().includes(keyword.toUpperCase()));
-      if (filteredKomik.length) {
-        resolve(filteredKomik);
+      const filteredBelawa = data.belawas.filter((belawa) =>
+        belawa.kategori.toUpperCase().includes(keyword.toUpperCase())
+      );
+      if (filteredBelawa.length) {
+        resolve(filteredBelawa);
       } else {
         reject(`${keyword} is not found`);
       }
@@ -13,4 +15,4 @@ class DataSourceGenre {
   }
 }
 
-export default DataSourceGenre;
+export default DataSourceKategori;

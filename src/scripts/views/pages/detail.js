@@ -23,7 +23,7 @@ const Detail = {
         .detail h2, .detail h3, .detail h4 {
         }
 
-        .komik__title {
+        .belawa__title {
           font-size: 1.5em;
           font-weight: bold;
         }
@@ -54,14 +54,14 @@ const Detail = {
       }
     }
 
-    const arrByID = data.komiks.filter(filterByID);
-    const komik = arrByID[0];
+    const arrByID = data.belawas.filter(filterByID);
+    const belawa = arrByID[0];
 
-    const komikContainer = document.querySelector('#detail');
-    komikContainer.innerHTML += createDetailTemplate(komik);
+    const belawaContainer = document.querySelector('#detail');
+    belawaContainer.innerHTML += createDetailTemplate(belawa);
     LikeButtonInitiator.init({
       FavoriteButtonContainer: document.querySelector('#likeButtonContainer'),
-      komik,
+      belawa,
     });
   },
 };

@@ -1,13 +1,19 @@
-import '../../component/app-kontak';
+import UrlParser from '../../routes/url-parser';
+import { createItemTemplate } from '../templates/template-creator';
+import data from '../../../DATA.json';
+import '../../component/app-search';
+import '../../component/app-kategori';
 
-const Kontak = {
-  async render() {
+const Kategoriy = {
+  render() {
     return `
-          <app-kontak></app-kontak>
-          `;
+    <app-search></app-search>
+    <app-kategori></app-kategori>
+    <div id='items' class='row row-cols-1 row-cols-md-2 row-cols-lg-3 row-cols-xxl-4 g-0'></div>
+    `;
   },
 
-  async afterRender() {
+  afterRender() {
     const contactForm = document.getElementById('contact-form');
     const loader = document.querySelector('.loader');
 
@@ -26,11 +32,11 @@ const Kontak = {
       })
         .then(() => {
           loader.style.display = 'none';
-          window.location.href = '#/thankyou';
+          window.location.href = 'http://localhost:8080/#/thankyou';
         })
         .catch((e) => alert('Error occured'));
     });
   },
 };
 
-export default Kontak;
+export default Kategoriy;

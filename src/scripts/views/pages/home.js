@@ -1,13 +1,13 @@
 import { createItemTemplate } from '../templates/template-creator';
 import data from '../../../DATA.json';
 import '../../component/app-jumbo';
-import '../../component/app-welcome';
+import '../../component/app-headline';
 
 const Home = {
   render() {
     return `
     <app-jumbo></app-jumbo>
-    <app-welcome></app-welcome>
+    <app-headline></app-headline>
     <h2 class='pt-5 pb-3 mb-3 text-center border-bottom'>Rekomendasi</h2>
     <div id='items' class='row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-0'></div>
     <a href=""></a>
@@ -15,11 +15,11 @@ const Home = {
   },
 
   afterRender() {
-    const komikContainer = document.querySelector('#items');
+    const belawaContainer = document.querySelector('#items');
     for (let index = 0; index < 8; ++index) {
-      const item = data.komiks[index];
+      const item = data.belawas[index];
       // eslint-disable-next-line no-self-compare, eqeqeq
-      komikContainer.innerHTML += createItemTemplate(item);
+      belawaContainer.innerHTML += createItemTemplate(item);
     }
   },
 };

@@ -3,20 +3,20 @@ import Explore from '../views/pages/explore';
 import Favorite from '../views/pages/favorite';
 import About from '../views/pages/about';
 import Detail from '../views/pages/detail';
-import Genre from '../views/pages/genre';
-import Publis from '../views/pages/publis';
+import Kategori from '../views/pages/kategori';
 import Kontak from '../views/pages/kontak';
+import Thankyou from '../views/pages/thankyou';
 
 const routes = {
   '/': Home,
   '/home': Home,
   '/explore': Explore,
-  '/genre/:id': Genre,
+  '/kategori/:id': Kategori,
   '/detail/:id': Detail,
-  '/publis': Publis,
   '/kontak': Kontak,
   '/favorite': Favorite,
   '/about': About,
+  '/thankyou': Thankyou,
 };
 
 export default routes;

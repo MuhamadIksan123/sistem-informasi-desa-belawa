@@ -1,4 +1,4 @@
-import FavoriteKomikIdb from '../../data/favorite-komik-idb';
+import FavoriteBelawaIdb from '../../data/favorite-belawa-idb';
 import { createItemTemplate } from '../templates/template-creator';
 
 const Favorite = {
@@ -12,15 +12,15 @@ const Favorite = {
   },
 
   async afterRender() {
-    const komiks = await FavoriteKomikIdb.getAllKomik();
-    const komikContainer = document.querySelector('#items');
-    if (komiks.length === 0) {
-      komikContainer.innerHTML = `
-      <i class="fas fa-search">Emty favorite komik</i>
+    const belawas = await FavoriteBelawaIdb.getAllBelawa();
+    const belawaContainer = document.querySelector('#items');
+    if (belawas.length === 0) {
+      belawaContainer.innerHTML = `
+      <i class="fas fa-search">Emty favorite belawa</i>
       `;
     }
-    komiks.forEach((item) => {
-      komikContainer.innerHTML += createItemTemplate(item);
+    belawas.forEach((item) => {
+      belawaContainer.innerHTML += createItemTemplate(item);
     });
   },
 };

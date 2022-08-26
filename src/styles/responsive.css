@@ -1,4 +1,4 @@
-/* list item menu genre */
+/* list item menu kategori */
 @media screen and (max-width: 320px) {
   .judul_utama {
     font-size: 1.1em;
@@ -68,12 +68,12 @@
     grid-template-columns: auto 1fr;
   }
 
-  .detail .komik__title {
+  .detail .belawa__title {
     grid-column-start: 1;
     grid-column-end: 3;
   }
 
-  .detail .komik__overview {
+  .detail .belawa__overview {
     grid-column-start: 1;
     grid-column-end: 3;
   }

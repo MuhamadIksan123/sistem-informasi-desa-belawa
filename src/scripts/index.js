@@ -6,8 +6,7 @@ import '../styles/responsive.css';
 import './component/app-bar';
 import './component/app-footer';
 import './component/app-search';
-import './component/app-genre';
-import './component/app-publis';
+import './component/app-kategori';
 import App from './views/app';
 
 const app = new App({

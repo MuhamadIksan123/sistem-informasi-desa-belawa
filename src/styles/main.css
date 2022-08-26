@@ -100,7 +100,7 @@ button.show {
   margin: 20px 0;
 }
 
-.komik {
+.belawa {
   display: none;
 }
 
@@ -127,7 +127,7 @@ Fav Button
   cursor: pointer;
 }
 
-/* item genre */
+/* item kategori */
 
 .list-item {
   background-color: #d9d9d9;
@@ -154,7 +154,7 @@ Fav Button
 }
 
 /*
-    detail Komik
+    detail Belawa
   */
 
 .detail {
@@ -166,16 +166,16 @@ Fav Button
   gap: 18px 16px;
 }
 
-.detail .komik__poster {
+.detail .belawa__poster {
   width: 100%;
   max-width: 400px;
 }
 
-.detail .komik__info h4 {
+.detail .belawa__info h4 {
   margin: 8px 0;
 }
 
-.komik__overview p {
+.belawa__overview p {
   margin-bottom: 8px;
 }
 

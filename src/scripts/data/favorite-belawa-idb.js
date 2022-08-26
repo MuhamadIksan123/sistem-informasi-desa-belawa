@@ -2,9 +2,9 @@
 /* eslint-disable consistent-return */
 import { openDB } from 'idb';
 
-const DATABASE_NAME = 'komiksun-database';
+const DATABASE_NAME = 'belawa-database';
 const DATABASE_VERSION = 1;
-const OBJECT_STORE_NAME = 'komiks';
+const OBJECT_STORE_NAME = 'belawas';
 
 const dbPromise = openDB(DATABASE_NAME, DATABASE_VERSION, {
   upgrade(database) {
@@ -12,19 +12,19 @@ const dbPromise = openDB(DATABASE_NAME, DATABASE_VERSION, {
   },
 });
 
-const FavoriteKomikIdb = {
-  async getKomik(id) {
+const FavoriteBelawaIdb = {
+  async getBelawa(id) {
     return (await dbPromise).get(OBJECT_STORE_NAME, id);
   },
-  async getAllKomik() {
+  async getAllBelawa() {
     return (await dbPromise).getAll(OBJECT_STORE_NAME);
   },
-  async putKomik(komik) {
-    return (await dbPromise).put(OBJECT_STORE_NAME, komik);
+  async putBelawa(belawa) {
+    return (await dbPromise).put(OBJECT_STORE_NAME, belawa);
   },
-  async deleteKomik(id) {
+  async deleteBelawa(id) {
     return (await dbPromise).delete(OBJECT_STORE_NAME, id);
   },
 };
 
-export default FavoriteKomikIdb;
+export default FavoriteBelawaIdb;

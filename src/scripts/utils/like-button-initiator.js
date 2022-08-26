@@ -1,29 +1,32 @@
-import FavoriteKomikIdb from '../data/favorite-komik-idb';
-import { createFavoritButton, createUnFavoritButton } from '../views/templates/template-creator';
+import FavoriteBelawaIdb from '../data/favorite-belawa-idb';
+import {
+  createFavoritButton,
+  createUnFavoritButton,
+} from '../views/templates/template-creator';
 
 const LikeButtonInitiator = {
-  async init({ FavoriteButtonContainer, komik }) {
+  async init({ FavoriteButtonContainer, belawa }) {
     this._FavoriteButtonContainer = FavoriteButtonContainer;
-    this._komiks = komik;
-    console.log(komik);
+    this._belawas = belawa;
+    console.log(belawa);
     console.log(FavoriteButtonContainer);
 
     await this._renderButton();
   },
 
   async _renderButton() {
-    const { id } = this._komiks;
+    const { id } = this._belawas;
 
-    if (await this._isKomikExist(id)) {
+    if (await this._isBelawaExist(id)) {
       this._renderLiked();
     } else {
       this._renderLike();
     }
   },
 
-  async _isKomikExist(id) {
-    const komik = await FavoriteKomikIdb.getKomik(id);
-    return !!komik;
+  async _isBelawaExist(id) {
+    const belawa = await FavoriteBelawaIdb.getBelawa(id);
+    return !!belawa;
   },
 
   _renderLike() {
@@ -31,7 +34,7 @@ const LikeButtonInitiator = {
 
     const favoriteButton = document.querySelector('#favbutton');
     favoriteButton.addEventListener('click', async () => {
-      await FavoriteKomikIdb.putKomik(this._komiks);
+      await FavoriteBelawaIdb.putBelawa(this._belawas);
       this._renderButton();
     });
   },
@@ -41,7 +44,7 @@ const LikeButtonInitiator = {
 
     const favoriteButton = document.querySelector('#favbutton');
     favoriteButton.addEventListener('click', async () => {
-      await FavoriteKomikIdb.deleteKomik(this._komiks.id);
+      await FavoriteBelawaIdb.deleteBelawa(this._belawas.id);
       this._renderButton();
     });
   },

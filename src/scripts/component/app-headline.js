@@ -1,4 +1,4 @@
-class AppWelcome extends HTMLElement {
+class AppHeadline extends HTMLElement {
   connectedCallback() {
     this._render();
   }
@@ -75,4 +75,4 @@ class AppWelcome extends HTMLElement {
   }
 }
 
-customElements.define('app-welcome', AppWelcome);
+customElements.define('app-headline', AppHeadline);

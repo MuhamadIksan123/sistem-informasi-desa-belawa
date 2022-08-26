@@ -1,7 +1,7 @@
 {
-  "name": "project-komiksun",
+  "name": "project-belawa",
   "version": "1.0.0",
-  "description": "Komik Uplouder",
+  "description": "Belawa Uplouder",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

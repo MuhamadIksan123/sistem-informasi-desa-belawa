@@ -1,5 +1,5 @@
 {
-  "komiks": [
+  "belawas": [
     {
       "id": "1",
       "nama": "Wisata Cikuya",
@@ -15,7 +15,7 @@
       "pictureId": "./public/cover/cikuya.jpg",
       "pengarang": "Karang Taruna",
       "rating": "Dahulu",
-      "genre": "potensi",
+      "kategori": "potensi",
       "sosmed": [
         {
           "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
@@ -52,7 +52,7 @@
       "pictureId": "./public/cover/olahan-mangga.jpg",
       "pengarang": "Petani Mangga",
       "rating": "Dahulu",
-      "genre": "potensi",
+      "kategori": "potensi",
       "sosmed": [
         {
           "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
@@ -90,7 +90,7 @@
       "pictureId": "./public/cover/sejarah.png",
       "pengarang": "Pemerintahan Desa",
       "rating": "Dahulu",
-      "genre": "potensi",
+      "kategori": "potensi",
       "sosmed": [
         {
           "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
@@ -123,7 +123,7 @@
       "pictureId": "./public/cover/sensus-penduduk.jpg",
       "pengarang": "KKM",
       "rating": "19 Juli 2022",
-      "genre": "kkm",
+      "kategori": "kkm",
       "sosmed": [
         {
           "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
@@ -143,7 +143,6 @@
     {
       "id": "5",
       "nama": "RAKOR PKK 2022",
-      "cerita": "Sebagai kegiatan rutin PKK Kelurahan Tugu, Kecamatan Cimanggis, Jumat (22'/11/19) setiap bulan diadakan Rapat Koordinasi (Rakor) untuk meningkatkan kinerja kader PKK Kelurahan Tugu, serta mengevaluasi program yang sudah, sedang, atau akan dilakukan.",
       "spoiler": "Sebagai kegiatan rutin PKK Kelurahan Tugu, Kecamatan Cimanggis, Jumat (22'/11/19) setiap bulan diadakan Rapat Koordinasi (Rakor) untuk meningkatkan kinerja kader PKK Kelurahan Tugu, serta mengevaluasi program yang sudah, sedang, atau akan dilakukan.",
       "sinopsis": [
         {
@@ -153,7 +152,7 @@
       "pictureId": "./public/cover/rakor-pkk.jpg",
       "pengarang": "Ibu-ibu",
       "rating": "21 Juli 2022",
-      "genre": "pemdes",
+      "kategori": "pemdes",
       "sosmed": [
         {
           "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
@@ -193,7 +192,7 @@
       "pictureId": "./public/cover/karang-taruna.jpg",
       "pengarang": "Karang Taruna",
       "rating": "Dahulu",
-      "genre": "pemdes",
+      "kategori": "pemdes",
       "sosmed": [
         {
           "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
@@ -223,7 +222,7 @@
       "pictureId": "./public/cover/kkm-umc.jpeg",
       "pengarang": "KKM UMC",
       "rating": "12 Agustus 2022",
-      "genre": "kkm",
+      "kategori": "kkm",
       "sosmed": [
         {
           "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
@@ -253,7 +252,7 @@
       "pictureId": "./public/cover/paduan-suara.jpg",
       "pengarang": "Ibu-ibu PKK",
       "rating": "25 Juli 2022",
-      "genre": "pemdes",
+      "kategori": "pemdes",
       "sosmed": [
         {
           "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
@@ -282,10 +281,10 @@
           "paragraf": "<p class='deskripsi>Keberadaan UMKM Center ini ternyata mampu memacu pertumbuhan ekonomi masyarakat setempat. Para pelaku UMKM dapat menawarkan produk unggulan mereka yang menarik wisatawan domestik untuk mengunjunginya. Produk-produk tersebut tidak hanya berupa makanan ringan, namun sudah merambah kerajinan tangan, madu kelulut, dan beberapa produk lainnya. Keberadaan UMKM Center telah meningkatkan pendapatan dan kesejahteraan masyarakat sekitar tambang.</p>"
         }
       ],
-      "pictureId": "./public/cover/pembangunan-gudang.jpg",
+      "pictureId": "./public/cover/gudang-mangga.jpg",
       "pengarang": "Pemerintahan Desa",
       "rating": "17 Juli 2022",
-      "genre": "pemdes",
+      "kategori": "pemdes",
       "sosmed": [
         {
           "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
@@ -314,36 +313,7 @@
       "pictureId": "./public/cover/mobil.jpg",
       "pengarang": "Pemerintahan Desa",
       "rating": "17 Juli 2022",
-      "genre": "layanan",
-      "sosmed": [
-        {
-          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
-        },
-        {
-          "icon": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
-        },
-        {
-          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
-        },
-        {
-          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
-        }
-      ],
-      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
-    },
-    {
-      "id": "11",
-      "nama": "Tahun Baru Hijriah",
-      "spoiler": "Tahun Baru Hijriah atau Tahun Baru Islam merupakan suatu hari yang penting bagi umat Islam karena menandai peristiwa penting yang terjadi dalam sejarah Islam yaitu memperingati penghijrahan Nabi Muhammad SAW. dari Kota Makkah ke Madinah pada tahun 622 Masehi. Peristiwa bersejarah itu terjadi pada 1 Muharam tahun baru bagi Kalender Hijriah. Namun, Tahun Hijrah Rasulullah SAW dari Makkah ke Madinah itu diambil sebagai awal perhitungan bagi Kalender Hijriah.",
-      "sinopsis": [
-        {
-          "name": "<p class='deskripsi>Tahun Baru Hijriah atau Tahun Baru Islam merupakan suatu hari yang penting bagi umat Islam karena menandai peristiwa penting yang terjadi dalam sejarah Islam yaitu memperingati penghijrahan Nabi Muhammad SAW. dari Kota Makkah ke Madinah pada tahun 622 Masehi. Peristiwa bersejarah itu terjadi pada 1 Muharam tahun baru bagi Kalender Hijriah. Namun, Tahun Hijrah Rasulullah SAW dari Makkah ke Madinah itu diambil sebagai awal perhitungan bagi Kalender Hijriah.</p>"
-        }
-      ],
-      "pictureId": "./public/cover/muharram.jpg",
-      "pengarang": "Pemerintahan Desa",
-      "rating": "29 Juli 2022",
-      "genre": "pemdes",
+      "kategori": "layanan",
       "sosmed": [
         {
           "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
@@ -369,10 +339,10 @@
           "paragraf": "<p class='deskripsi>Vaksinasi adalah pemberian vaksin yang khusus diberikan dalam rangka meningkatkan kekebalan seseorang secara aktif terhadap suatu penyakit. Berkaitan dengan pandemi ini, ada empat tujuan vaksinasi COVID-19. Pertama, mengurangi penularan COVID-19. Kedua, menurunkan angka kesakitan dan kematian akibat COVID-19. Ketiga, mencapai herd immunity. Terakhir, melindungi masyarakat agar tetap produktif. Meski telah divaksin, sahabat sehat bukan berarti dapat abai dalam menerapkan protokol kesehatan. Tetap jaga kesehatan dan tetap ikuti protokol kesehatan 3M serta siap saat menerima vaksin nanti ya, sahabat sehat.</p>"
         }
       ],
-      "pictureId": "./public/cover/vaksinasi.jpg",
+      "pictureId": "./public/cover/vaksin.jpg",
       "pengarang": "Pemerintahan Desa",
       "rating": "21 Juli 2022",
-      "genre": "layanan",
+      "kategori": "layanan",
       "sosmed": [
         {
           "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
@@ -404,7 +374,7 @@
       "pictureId": "./public/cover/pemdes.jpeg",
       "pengarang": "Pemerintahan Desa",
       "rating": "-",
-      "genre": "pemdes",
+      "kategori": "pemdes",
       "sosmed": [
         {
           "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
@@ -443,7 +413,7 @@
       "pictureId": "./public/cover/babinsa.jpeg",
       "pengarang": "Pemerintahan Desa",
       "rating": "19 Juli 2022",
-      "genre": "pemdes",
+      "kategori": "pemdes",
       "sosmed": [
         {
           "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
@@ -472,7 +442,7 @@
       "pictureId": "./public/cover/menyambut-17an.jpg",
       "pengarang": "Pemerintahan Desa",
       "rating": "21 Juli 2022",
-      "genre": "pemdes",
+      "kategori": "pemdes",
       "sosmed": [
         {
           "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
@@ -505,7 +475,7 @@
       "pictureId": "./public/cover/pelantikan.JPG",
       "pengarang": "Karang Taruna",
       "rating": "Dahulu",
-      "genre": "pemdes",
+      "kategori": "pemdes",
       "sosmed": [
         {
           "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
@@ -535,7 +505,7 @@
       "pictureId": "./public/cover/penyerahan-cator.jpg",
       "pengarang": "KKM UMC",
       "rating": "12 Agustus 2022",
-      "genre": "kkm",
+      "kategori": "kkm",
       "sosmed": [
         {
           "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
@@ -564,7 +534,7 @@
       "pictureId": "./public/cover/pengukuran.jpeg",
       "pengarang": "Ibu-ibu PKK",
       "rating": "25 Juli 2022",
-      "genre": "pemdes",
+      "kategori": "pemdes",
       "sosmed": [
         {
           "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
@@ -596,7 +566,7 @@
       "pictureId": "./public/cover/penyuluhan-dbd.jpeg",
       "pengarang": "Pemerintahan Desa",
       "rating": "17 Juli 2022",
-      "genre": "pemdes",
+      "kategori": "pemdes",
       "sosmed": [
         {
           "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
@@ -625,7 +595,7 @@
       "pictureId": "./public/cover/posyandu.jpeg",
       "pengarang": "Pemerintahan Desa",
       "rating": "29 Juli 2022",
-      "genre": "pemdes",
+      "kategori": "pemdes",
       "sosmed": [
         {
           "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"

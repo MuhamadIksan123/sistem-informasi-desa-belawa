@@ -1,37 +1,37 @@
-const createItemTemplate = (komik) => `
+const createItemTemplate = (belawa) => `
     <div class="col">
       <div class="card shadow m-2 bg-light border-5 border-light">
         <div class="item-header">
-          <img src="${komik.pictureId}" class="card-img-top img-fluid item-image" alt="Gambar ${komik.nama}" loading="lazy">
+          <img src="${belawa.pictureId}" class="card-img-top img-fluid item-image" alt="Gambar ${belawa.nama}" loading="lazy">
           <div class="item-header-rating rounded-start">
-              <p class="mb-0"><i class="far fa-calendar-check"></i><span class="rating-score">${komik.rating}</span></p>
+              <p class="mb-0"><i class="far fa-calendar-check"></i><span class="rating-score">${belawa.rating}</span></p>
           </div>
         </div>
         <div class="card-body">
-          <h4><a class="card-title" href="${`/#/detail/${komik.id}`}">${komik.nama}</a></h4>
-          <p class="card-text" style="text-align: justify;">${komik.spoiler}</p>
+          <h4><a class="card-title" href="${`/#/detail/${belawa.id}`}">${belawa.nama}</a></h4>
+          <p class="card-text" style="text-align: justify;">${belawa.spoiler}</p>
         </div>
       </div>
     </div>
   `;
 
-const createDetailTemplate = (komik) => `
-  <h2 class="komik__title">${komik.nama}</h2>
-  <img class="komik__poster lazyload" src="${komik.pictureId}" alt="${komik.nama}" />
-  <div class="komik__info">
+const createDetailTemplate = (belawa) => `
+  <h2 class="belawa__title">${belawa.nama}</h2>
+  <img class="belawa__poster lazyload" src="${belawa.pictureId}" alt="${belawa.nama}" />
+  <div class="belawa__info">
   <h3>Information</h3>
     <h4>Penanggung Jawab</h4>
-    <p>${komik.pengarang}</p>
+    <p>${belawa.pengarang}</p>
     <h4>Waktu</h4>
-    <p>${komik.rating}</p>
+    <p>${belawa.rating}</p>
   </div>
-  <div class="komik__overview">
+  <div class="belawa__overview">
     <h3>Description</h3>
-    ${komik.sinopsis.map((s) => s.paragraf).join(' ')}
+    ${belawa.sinopsis.map((s) => s.paragraf).join(' ')}
     <h4>Media Sosial</h4>
-    <p>${komik.sosmed.map((s) => s.icon).join(' ')}</p>
+    <p>${belawa.sosmed.map((s) => s.icon).join(' ')}</p>
     <h4>Dokumentasi</h4>
-    <p>${komik.dokumentasi}</p>
+    <p>${belawa.dokumentasi}</p>
   </div>
 `;
 
