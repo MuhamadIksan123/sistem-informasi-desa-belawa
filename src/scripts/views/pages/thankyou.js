@@ -1,6 +1,6 @@
-import '../../component/app-kontak';
+import '../../component/app-thankyou';
 
-const Kontak = {
+const Thankyou = {
   async render() {
     return `
           <app-thankyou></app-thankyou>
@@ -8,4 +8,4 @@ const Kontak = {
   },
 };
 
-export default Kontak;
+export default Thankyou;

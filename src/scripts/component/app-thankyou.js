@@ -1,31 +1,81 @@
-class AppKontak extends HTMLElement {
+class AppThankyou extends HTMLElement {
   connectedCallback() {
     this._render();
   }
 
   _render() {
     this.innerHTML = `
-          <script src="https://cdn.tailwindcss.com"></script>
+            <style>
+              .bd-placeholder-img {
+                font-size: 1.125rem;
+                text-anchor: middle;
+                -webkit-user-select: none;
+                -moz-user-select: none;
+                user-select: none;
+              }
+
+              @media (min-width: 768px) {
+                .bd-placeholder-img-lg {
+                  font-size: 3.5rem;
+                }
+              }
+
+              .b-example-divider {
+                height: 3rem;
+                background-color: rgba(0, 0, 0, .1);
+                border: solid rgba(0, 0, 0, .15);
+                border-width: 1px 0;
+                box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+              }
+
+              .b-example-vr {
+                flex-shrink: 0;
+                width: 1.5rem;
+                height: 100vh;
+              }
+
+              .bi {
+                vertical-align: -.125em;
+                fill: currentColor;
+              }
+
+              .nav-scroller {
+                position: relative;
+                z-index: 2;
+                height: 2.75rem;
+                overflow-y: hidden;
+              }
+
+              .nav-scroller .nav {
+                display: flex;
+                flex-wrap: nowrap;
+                padding-bottom: 1rem;
+                margin-top: -1px;
+                overflow-x: auto;
+                text-align: center;
+                white-space: nowrap;
+                -webkit-overflow-scrolling: touch;
+              }
+
+              .content h1 {
+
+              }
+            </style>
             <body>
-            <section class="text-gray-600 body-font">
-              <div class="container mx-auto flex px-5 py-24 items-center justify-center flex-col">
-                <img class="lg:w-2/6 md:w-3/6 w-5/6 mb-10 object-cover object-center rounded" alt="hero" src="https://dummyimage.com/720x600">
-                <div class="text-center lg:w-2/3 w-full">
-                  <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">Microdosing synth tattooed vexillologist</h1>
-                  <p class="mb-8 leading-relaxed">Meggings kinfolk echo park stumptown DIY, kale chips beard jianbing tousled. Chambray dreamcatcher trust fund, kitsch vice godard disrupt ramps hexagon mustache umami snackwave tilde chillwave ugh. Pour-over meditation PBR&B pickled ennui celiac mlkshk freegan photo booth af fingerstache pitchfork.</p>
-                  <div class="flex justify-center">
-                    <button class="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Button</button>
-                    <button class="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">Button</button>
+              <div class="px-4 text-center content">
+                <img class="lg:w-2/6 md:w-3/6 w-5/6 mb-10 object-cover object-center rounded" alt="hero" src="public/images/pemdes-belawa.png">
+                <h1 class="display-8 fw-bold">Thank you for contacting us</h1>
+                <div class="col-lg-6 mx-auto">
+                  <p class="lead mb-4">Please check your email in 24 hours we will send you a reply as soon
+            as possible. Thanks</p>
+                  <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
+                    <a href="#/kontak" type="button" class="btn btn-primary btn-lg px-4 gap-3">Go Back</a>
                   </div>
                 </div>
               </div>
-            </section>
-    
-            <script src="https://smtpjs.com/v3/smtp.js">
-            </script>
-        </body>
+            </body>
           `;
   }
 }
 
-customElements.define('app-kontak', AppKontak);
+customElements.define('app-thankyou', AppThankyou);

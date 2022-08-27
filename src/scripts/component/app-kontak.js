@@ -41,7 +41,7 @@ class AppKontak extends HTMLElement {
               resize: vertical;
             }
             
-            input[type=email], input[type=text], #sinopsis_cerita {
+            input[type=email], input[type=text], #pesan {
                 border: none;
                 border-bottom: 1px solid #d9d9d9;
                 padding-left: 0;
@@ -49,7 +49,7 @@ class AppKontak extends HTMLElement {
                 border-radius: 0; 
             }
             
-            input[type=email]:active, input[type=text]:active, #sinopsis_cerita:active, input[type=email]:focus, input[type=text]:focus, #sinopsis_cerita:focus {
+            input[type=email]:active, input[type=text]:active, #pesan:active, input[type=email]:focus, input[type=text]:focus, #pesan:focus {
                 outline: none;
                 -webkit-box-shadow: none;
                 box-shadow: none;
@@ -110,7 +110,8 @@ class AppKontak extends HTMLElement {
                 transform: rotate(360deg);
               }
             }
-            
+
+
             </style>
     
             <body>
@@ -120,10 +121,10 @@ class AppKontak extends HTMLElement {
                 <p>Silakan menghubungi kami melalui alamat berikut:</p>
                 
                 <ul class="fw-bold list-group mb-3">
-                  <li style="list-style:none;">Bale Desa Ciburial</li>
-                  <li style="list-style:none;">Jl. Ciburial No. 98 Bandung 40198</li>
+                  <li style="list-style:none;">Bale Desa Belawa</li>
+                  <li style="list-style:none;">Jl. Ciburial No. 98 Cirebon 40198</li>
                   <li style="list-style:none;">Telp: (022)2536208</li>
-                  <li style="list-style:none;">E-mail: desaciburial@gmail.com</li>
+                  <li style="list-style:none;">E-mail: desabelawa@gmail.com</li>
                 </ul>
 
                 <p>untuk Respon Segera, silakan mengirim pesan melalui chat WhatsApp berikut (klik pada icon chat):</p>
@@ -136,22 +137,23 @@ class AppKontak extends HTMLElement {
                 <p>atau melalui form di bawah ini:</p>
               </div>
                 
-                <form action="https://formspree.io/f/mknegbpz" method="POST" class="submit_informasi">
+                <form action="https://formspree.io/f/xpznwjrn" id="contact-form" method="POST" class="submit_informasi">
 
-                  <label for="nama_pengarang">Nama</label>
-                  <input type="text" class="nama_pengarang" name="nama" placeholder="Nama Anda" required>
+                  <label for="nama">Nama</label>
+                  <input type="text" class="nama" name="nama" placeholder="Nama Anda" required>
 
-                  <label for="nama_email">E-Mail</label>
-                  <input type="email" class="nama_email" name="email" placeholder="E-Mail Anda" required>
+                  <label for="email">E-Mail</label>
+                  <input type="email" class="email" name="email" placeholder="E-Mail Anda" required>
     
-                  <label for="nama_informasi">Perihal</label>
-                  <input type="text" class="nama_informasi" name="subject" placeholder="Perihal/Judul Pesan" required>
+                  <label for="subject">Perihal</label>
+                  <input type="text" class="perihal" name="subject" placeholder="Perihal/Judul Pesan" required>
               
-                  <label for="sinopsis_cerita">Isi Pesan</label>
-                  <textarea class="sinopsis_cerita" name="sinopsisCerita" placeholder="Isi Pesan" style="height:200px" required></textarea>
+                  <label for="pesan">Isi Pesan</label>
+                  <textarea class="pesan" name="pesan" placeholder="Isi Pesan" style="height:200px" required></textarea>
     
                   <!-- <button type="submit">Kirim!</button> -->
                   <button type="submit" class="">Kirim!</button>
+                  <div class="loader ease-linear mt-5 rounded-full border-4 border-t-4 border-gray-200 h-6 w-6 mx-auto"></div>
                 </form>
             </div>
     

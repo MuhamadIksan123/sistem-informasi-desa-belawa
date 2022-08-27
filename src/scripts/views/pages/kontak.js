@@ -26,7 +26,7 @@ const Kontak = {
       })
         .then(() => {
           loader.style.display = 'none';
-          window.location.href = '#/thankyou';
+          window.location.href = '/#/thankyou';
         })
         .catch((e) => alert('Error occured'));
     });

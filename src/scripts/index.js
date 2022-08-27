@@ -7,6 +7,7 @@ import './component/app-bar';
 import './component/app-footer';
 import './component/app-search';
 import './component/app-kategori';
+import './component/app-thankyou';
 import App from './views/app';
 
 const app = new App({

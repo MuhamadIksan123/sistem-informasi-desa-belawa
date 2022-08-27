@@ -14,27 +14,18 @@ const Kategoriy = {
   },
 
   afterRender() {
-    const contactForm = document.getElementById('contact-form');
-    const loader = document.querySelector('.loader');
+    function filterByKategori(item) {
+      const url = UrlParser.parseActiveUrlWithoutCombiner();
+      if (item.kategori === url.id) {
+        return true;
+      }
+    }
 
-    loader.style.display = 'none';
+    const arrByKategori = data.belawas.filter(filterByKategori);
 
-    contactForm.addEventListener('submit', (e) => {
-      e.preventDefault();
-      loader.style.display = 'block';
-      const url = e.target.action;
-      const formData = new FormData(contactForm);
-
-      fetch(url, {
-        method: 'POST',
-        body: formData,
-        mode: 'no-cors',
-      })
-        .then(() => {
-          loader.style.display = 'none';
-          window.location.href = 'http://localhost:8080/#/thankyou';
-        })
-        .catch((e) => alert('Error occured'));
+    const belawaContainer = document.querySelector('#items');
+    arrByKategori.forEach((item) => {
+      belawaContainer.innerHTML += createItemTemplate(item);
     });
   },
 };
