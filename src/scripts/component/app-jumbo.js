@@ -16,13 +16,13 @@ class AppJumbo extends HTMLElement {
               color: #5a5a5a;
             }
 
-
             /* CUSTOMIZE THE CAROUSEL
             -------------------------------------------------- */
 
             /* Carousel base class */
             .carousel {
-              margin-bottom: 4rem;
+              position: relative;
+              bottom: 62px;
             }
             /* Since positioning the image, we need to help out the caption */
             .carousel-caption {
@@ -98,7 +98,7 @@ class AppJumbo extends HTMLElement {
             </div>
             <div class="carousel-inner">
               <div class="carousel-item active">
-                <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg>
+                <img src="public/images/hero.jpg" width="100%" height="900px" style="position: relative; bottom: 300px;" alt="">
 
                 <div class="container">
                   <div class="carousel-caption text-start">
@@ -109,7 +109,7 @@ class AppJumbo extends HTMLElement {
                 </div>
               </div>
               <div class="carousel-item">
-                <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg>
+                <img src="public/images/hero2.JPG" width="100%" height="900px" style="position: relative; bottom: 150px;" alt="">
 
                 <div class="container">
                   <div class="carousel-caption">
@@ -120,7 +120,7 @@ class AppJumbo extends HTMLElement {
                 </div>
               </div>
               <div class="carousel-item">
-                <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg>
+                <img src="public/images/hero3.JPG" width="100%" height="900px" style="position: relative; bottom: 20px;" alt="">
 
                 <div class="container">
                   <div class="carousel-caption text-end">

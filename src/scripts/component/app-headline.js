@@ -8,7 +8,6 @@ class AppHeadline extends HTMLElement {
              <style>
               .headline {
                     overflow: auto;
-                    margin-top: 380px;
                   }
 
                   .headline__figure {
@@ -43,7 +42,7 @@ class AppHeadline extends HTMLElement {
                   .headline__button {
                     font-family: 'Roboto', sans-serif;
                     text-transform: uppercase;
-                    margin-top: 24px;
+                    margin-top: 10px;
                     cursor: pointer;
                     padding: 8px 16px;
                     color: white;
