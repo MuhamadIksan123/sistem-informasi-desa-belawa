@@ -13,15 +13,15 @@
         }
       ],
       "pictureId": "./public/cover/cikuya.jpg",
-      "pengarang": "Karang Taruna",
-      "rating": "Dahulu",
+      "pemangku": "Karang Taruna",
+      "waktu": "Tahun 1900an",
       "kategori": "potensi",
       "sosmed": [
         {
           "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "icon": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
           "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
@@ -45,15 +45,12 @@
         }
       ],
       "pictureId": "./public/cover/olahan-mangga.jpg",
-      "pengarang": "Petani Mangga",
-      "rating": "Dahulu",
+      "pemangku": "Petani Mangga",
+      "waktu": "Dahulu",
       "kategori": "potensi",
       "sosmed": [
         {
           "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
-        },
-        {
-          "icon": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
           "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
@@ -83,18 +80,15 @@
         }
       ],
       "pictureId": "./public/cover/sejarah.png",
-      "pengarang": "Pemerintahan Desa",
-      "rating": "Dahulu",
+      "pemangku": "Pemerintahan Desa",
+      "waktu": "Tahun 1900an",
       "kategori": "potensi",
       "sosmed": [
         {
-          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "icon": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
-        },
-        {
-          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
           "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
@@ -105,7 +99,6 @@
     {
       "id": "4",
       "nama": "Pendataan Ulang Sensus Penduduk",
-      "cerita": "",
       "spoiler": "Dalam Undang-Undang RI No.16 Tahun 1997 Pasal 1, dijelaskan bahwa sensus adalah cara pengumpulan data yang dilakukan melalui pencacahan semua unit populasi di seluruh wilayah Republik Indonesia untuk memperoleh karakteristik suatu populasi pada saat tertentu. Hal ini sesuai dengan Peraturan Pemerintah Pasal 3 Tahun 1960 tentang sensus yang menyatakan bahwa waktu mengadakan sensus yang lain-lainnya ditentukan dengan Peraturan Pemerintah, dengan ketentuan sekurang-kurangnya dalam 10 tahun diadakan sekali. Kegiatan sensus penduduk secara umum bertujuan untuk mendapatkan data karakteristik dari suatu populasi pada waktu tertentu.",
       "sinopsis": [
         {
@@ -116,18 +109,15 @@
         }
       ],
       "pictureId": "./public/cover/sensus-penduduk.jpg",
-      "pengarang": "KKM",
-      "rating": "19 Juli 2022",
+      "pemangku": "Mahasiswa KKM dan Perangkat Desa",
+      "waktu": "19 Juli 2022",
       "kategori": "kkm",
       "sosmed": [
         {
-          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "icon": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
-        },
-        {
-          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
           "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
@@ -145,36 +135,25 @@
         }
       ],
       "pictureId": "./public/cover/rakor-pkk.jpg",
-      "pengarang": "Ibu-ibu",
-      "rating": "21 Juli 2022",
+      "pemangku": "Ibu-ibu PKK",
+      "waktu": "21 Juli 2022",
       "kategori": "pemdes",
       "sosmed": [
         {
-          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "icon": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
-        },
-        {
-          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
           "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
-      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>",
-      "customerReviews": [
-        {
-          "name": "Ahmad",
-          "review": "Tidak rekomendasi untuk pelajar!",
-          "date": "13 November 2019"
-        }
-      ]
+      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
     },
     {
       "id": "6",
       "nama": "Karang Taruna",
-      "cerita": "",
       "spoiler": "Karang Taruna adalah organisasi kepemudaan di Indonesia yang dibentuk oleh masyarakat sebagai wadah generasi muda untuk mengembangkan diri, tumbuh, dan berkembang atas dasar kesadaran serta tanggung jawab sosial dari, oleh, dan untuk generasi muda, yang berorientasi pada tercapainya kesejahteraan sosial bagi masyarakat. Sebagai organisasi sosial kepemudaan Karang Taruna merupakan wadah pembinaan dan pengembangan serta pemberdayaan dalam upaya mengembangkan kegiatan ekonomi produktif dengan pendayagunaan semua potensi yang tersedia di lingkungan baik sumber daya manusia maupun sumber daya alam yang telah ada.",
       "sinopsis": [
         {
@@ -185,48 +164,15 @@
         }
       ],
       "pictureId": "./public/cover/karang-taruna.jpg",
-      "pengarang": "Karang Taruna",
-      "rating": "Dahulu",
+      "pemangku": "Karang Taruna",
+      "waktu": "31 Januari 2022",
       "kategori": "pemdes",
       "sosmed": [
         {
-          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "icon": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
-        },
-        {
-          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
-        },
-        {
-          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
-        }
-      ],
-      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
-    },
-    {
-      "id": "7",
-      "nama": "KKM UMC",
-      "spoiler": "Kuliah Kerja Nyata merupakan proses pembelajaran bagi mahasiswa S1 Universitas Muhammadiyah Cirebon & Sekolah Tinggi Farmasi Muhammdiyah Cirebon yang dikembangkan melalui kegiatan pengabdian kepada masyarakat dalam berbagai segi kehidupan bermasyarakat. Kegiatan KKM UMC ini menerapkan prinsip cocreation (merupakan gagasan bersama), co-financing (dana bersama), flexibility (keluwesan) dan berkesinambungan dengan berbasis riset dalam pelaksanaannya, sehingga diharapkan mahasiswa mampu memberdayakan masyarakat untuk memajukan Desa.",
-      "sinopsis": [
-        {
-          "paragraf": "<p class='deskripsi>Kuliah Kerja Nyata merupakan proses pembelajaran bagi mahasiswa S1 Universitas Muhammadiyah Cirebon & Sekolah Tinggi Farmasi Muhammdiyah Cirebon yang dikembangkan melalui kegiatan pengabdian kepada masyarakat dalam berbagai segi kehidupan bermasyarakat. Kegiatan KKM UMC ini menerapkan prinsip cocreation (merupakan gagasan bersama), co-financing (dana bersama), flexibility (keluwesan) dan berkesinambungan dengan berbasis riset dalam pelaksanaannya, sehingga diharapkan mahasiswa mampu memberdayakan masyarakat untuk memajukan Desa.</p>"
-        }
-      ],
-      "cerita": "",
-      "pictureId": "./public/cover/kkm-umc.jpeg",
-      "pengarang": "KKM UMC",
-      "rating": "12 Agustus 2022",
-      "kategori": "kkm",
-      "sosmed": [
-        {
-          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
-        },
-        {
-          "icon": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
-        },
-        {
-          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
           "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
@@ -236,27 +182,23 @@
     },
     {
       "id": "8",
-      "nama": "Paduan Suara",
+      "nama": "Latihan Paduan Suara",
       "spoiler": "Sebenarnya, istilah paduan suara adalah terjemahan dari kata “koor” dalam Bahasa Belanda, atau yang dalam Bahasa Yunani yaitu “choros”, serta dalam Bahasa Inggris yaitu “choir”. Singkatnya, pengertian dari paduan suara adalah gabungan sejumlah penyanyi yang mengkombinasikan beragam jenis suara ke dalam suatu harmoni. Komposisi personel yang ada di dalam paduan suara adalah laki-laki saja atau perempuan saja, maupun campuran dari laki-laki dan perempuan. Tapi, jika pengelompokkan dari sisi usia, antara lain paduan suara anak-anak, remaja, dewasa, dan bahkan lansia. Jumlah personel atau penyanyi yang terlibat di dalam sebuah paduan suara berjumlah minimal 15 orang atau bahkan bisa lebih. Pemimpin dari paduan suara adalah seorang dirigen atau “choirmaster”. Namun, selain menjalankan tugas utama tersebut, terkadang dirigen turut menjadi pelatih dari sebuah paduan suara.",
       "sinopsis": [
         {
           "name": "<p class='deskripsi>Sebenarnya, istilah paduan suara adalah terjemahan dari kata “koor” dalam Bahasa Belanda, atau yang dalam Bahasa Yunani yaitu “choros”, serta dalam Bahasa Inggris yaitu “choir”. Singkatnya, pengertian dari paduan suara adalah gabungan sejumlah penyanyi yang mengkombinasikan beragam jenis suara ke dalam suatu harmoni. Komposisi personel yang ada di dalam paduan suara adalah laki-laki saja atau perempuan saja, maupun campuran dari laki-laki dan perempuan. Tapi, jika pengelompokkan dari sisi usia, antara lain paduan suara anak-anak, remaja, dewasa, dan bahkan lansia. Jumlah personel atau penyanyi yang terlibat di dalam sebuah paduan suara berjumlah minimal 15 orang atau bahkan bisa lebih. Pemimpin dari paduan suara adalah seorang dirigen atau “choirmaster”. Namun, selain menjalankan tugas utama tersebut, terkadang dirigen turut menjadi pelatih dari sebuah paduan suara.</p>"
         }
       ],
-      "cerita": "",
       "pictureId": "./public/cover/paduan-suara.jpg",
-      "pengarang": "Ibu-ibu PKK",
-      "rating": "25 Juli 2022",
+      "pemangku": "Ibu-ibu PKK",
+      "waktu": "25 Juli 2022",
       "kategori": "pemdes",
       "sosmed": [
         {
-          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "icon": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
-        },
-        {
-          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
           "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
@@ -277,18 +219,15 @@
         }
       ],
       "pictureId": "./public/cover/gudang-mangga.jpg",
-      "pengarang": "Pemerintahan Desa",
-      "rating": "17 Juli 2022",
+      "pemangku": "BUMDES",
+      "waktu": "17 Juli 2022",
       "kategori": "pemdes",
       "sosmed": [
         {
-          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "icon": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
-        },
-        {
-          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
           "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
@@ -306,18 +245,15 @@
         }
       ],
       "pictureId": "./public/cover/mobil.jpg",
-      "pengarang": "Pemerintahan Desa",
-      "rating": "17 Juli 2022",
+      "pemangku": "Pemerintahan Desa",
+      "waktu": "17 Juli 2022",
       "kategori": "layanan",
       "sosmed": [
         {
-          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "icon": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
-        },
-        {
-          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
           "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
@@ -335,18 +271,15 @@
         }
       ],
       "pictureId": "./public/cover/vaksin.jpg",
-      "pengarang": "Pemerintahan Desa",
-      "rating": "21 Juli 2022",
+      "pemangku": "Pemerintahan Desa",
+      "waktu": "21 Juli 2022",
       "kategori": "layanan",
       "sosmed": [
         {
-          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "icon": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
-        },
-        {
-          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
           "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
@@ -367,18 +300,15 @@
         }
       ],
       "pictureId": "./public/cover/pemdes.jpeg",
-      "pengarang": "Pemerintahan Desa",
-      "rating": "-",
+      "pemangku": "Pemerintahan Desa",
+      "waktu": "-",
       "kategori": "pemdes",
       "sosmed": [
         {
-          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "icon": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
-        },
-        {
-          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
           "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
@@ -389,7 +319,6 @@
     {
       "id": "14",
       "nama": "Babinsa Koramil",
-      "cerita": "",
       "spoiler": "Singkatan dari Bintara Pembina Desa adalah salah satu kekuatan Kodam (Komando Daerah Militer) yang dinaungi secara berturut-turut oleh Komando Rayon Militer (Koramil), Komando Distrik Militer (Kodim), dan Komando Resort Militer (Korem).",
       "sinopsis": [
         {
@@ -406,18 +335,15 @@
         }
       ],
       "pictureId": "./public/cover/babinsa.jpeg",
-      "pengarang": "Pemerintahan Desa",
-      "rating": "19 Juli 2022",
+      "pemangku": "Pemerintahan Desa",
+      "waktu": "19 Juli 2022",
       "kategori": "pemdes",
       "sosmed": [
         {
-          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "icon": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
-        },
-        {
-          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
           "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
@@ -435,18 +361,15 @@
         }
       ],
       "pictureId": "./public/cover/menyambut-17an.jpg",
-      "pengarang": "Pemerintahan Desa",
-      "rating": "21 Juli 2022",
+      "pemangku": "Pemerintahan Desa",
+      "waktu": "21 Juli 2022",
       "kategori": "pemdes",
       "sosmed": [
         {
-          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "icon": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
-        },
-        {
-          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
           "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
@@ -457,7 +380,6 @@
     {
       "id": "16",
       "nama": "Pelantikan perangkat desa 2022",
-      "cerita": "",
       "spoiler": "-",
       "sinopsis": [
         {
@@ -468,18 +390,15 @@
         }
       ],
       "pictureId": "./public/cover/pelantikan.JPG",
-      "pengarang": "Karang Taruna",
-      "rating": "Dahulu",
+      "pemangku": "Karang Taruna",
+      "waktu": "Dahulu",
       "kategori": "pemdes",
       "sosmed": [
         {
-          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "icon": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
-        },
-        {
-          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
           "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
@@ -498,18 +417,15 @@
       ],
       "cerita": "",
       "pictureId": "./public/cover/penyerahan-cator.jpg",
-      "pengarang": "Pemerintahan Desa",
-      "rating": "12 Agustus 2022",
+      "pemangku": "Pemerintahan Desa",
+      "waktu": "12 Agustus 2022",
       "kategori": "pemdes",
       "sosmed": [
         {
-          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "icon": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
-        },
-        {
-          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
           "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
@@ -527,18 +443,15 @@
         }
       ],
       "pictureId": "./public/cover/pengukuran.jpeg",
-      "pengarang": "Ibu-ibu PKK",
-      "rating": "25 Juli 2022",
+      "pemangku": "Ibu-ibu PKK",
+      "waktu": "25 Juli 2022",
       "kategori": "pemdes",
       "sosmed": [
         {
-          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "icon": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
-        },
-        {
-          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
           "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
@@ -559,18 +472,15 @@
         }
       ],
       "pictureId": "./public/cover/penyuluhan-dbd.jpeg",
-      "pengarang": "Pemerintahan Desa",
-      "rating": "17 Juli 2022",
+      "pemangku": "Pemerintahan Desa",
+      "waktu": "17 Juli 2022",
       "kategori": "pemdes",
       "sosmed": [
         {
           "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "icon": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
-        },
-        {
-          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
           "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
@@ -588,18 +498,365 @@
         }
       ],
       "pictureId": "./public/cover/posyandu.jpeg",
-      "pengarang": "Pemerintahan Desa",
-      "rating": "29 Juli 2022",
+      "pemangku": "Pemerintahan Desa",
+      "waktu": "29 Juli 2022",
       "kategori": "pemdes",
+      "sosmed": [
+        {
+          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+        }
+      ],
+      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+    },
+    {
+      "id": "21",
+      "nama": "Rapat Panitia Hut Kemerdekaan RI",
+      "spoiler": "-",
+      "sinopsis": [
+        {
+          "paragraf": "<p class='deskripsi'>-</p>"
+        },
+        {
+          "paragraf": "<p class='deskripsi'>Namun ternyata warna kulitnya tidak berubah sama sekali, yang akhirnya membuat dia marah dan emosi sehingga merobek Al-Qur’an yang selalu digunakan olehnya. Tak berhenti sampai disitu, Jaka Saliwah melemparkan sobekan Qur’an tersebut ke telaga kecil. Suatu keanehan pun muncul, dimana sobekan kertas Al-Qur’an yang dilemparkannya menghilang tanpa jejak. Lalu muncullah sebuah hewan kecil yang dia beri nama kura-kura atau kuya, seketika itu pula wajah dari Jaka Saliwah berubah menjadi normal. Oleh sebab itu, daerah tersebut kemudian diberi nama Cikuya, Desa Belawa.</p>"
+        }
+      ],
+      "pictureId": "./public/cover/rapat17an.jpg",
+      "pemangku": "Karang Taruna",
+      "waktu": "Tahun 1900an",
+      "kategori": "potensi",
       "sosmed": [
         {
           "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "icon": "<a href=''><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
           "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+        }
+      ],
+      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+    },
+    {
+      "id": "22",
+      "nama": "Pemasangan Bendera Merah Putih",
+      "spoiler": "-",
+      "sinopsis": [
+        {
+          "paragraf": "<p class='deskripsi'>Desa Belawa merupakan desa sentra buah mangga dengan kualitas ekspor dan menjadi buah primadona dipasar lokal maupun luar negeri dibuktikan oleh with house dengan dijadikanya buah mangga gedong belawa menjadi buah pencuci mulut presiden barack obama.</p>"
+        },
+        {
+          "paragraf": "<p class='deskripsi'>Desa belawa menghasilkan produksi mangga semakin dari 160.000 ton tiap tahunnya dan sekarang para petani mangga di desa belawa bisa memperkembangkan pola pertanian mangga tak mengenal musim kareana setiap ketika telah tersedia mangga di kebun untuk dipetik.</p>"
+        }
+      ],
+      "pictureId": "./public/cover/bendera.jpg",
+      "pemangku": "Petani Mangga",
+      "waktu": "Dahulu",
+      "kategori": "potensi",
+      "sosmed": [
+        {
+          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+        }
+      ],
+      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+    },
+    {
+      "id": "23",
+      "nama": "Bersih-bersih area jalan Belawa",
+      "spoiler": "-",
+      "sinopsis": [
+        {
+          "paragraf": "<p class='deskripsi'>-</p>"
+        }
+      ],
+      "pictureId": "./public/cover/bebersih.jpg",
+      "pemangku": "Pemerintahan Desa",
+      "waktu": "Tahun 1900an",
+      "kategori": "potensi",
+      "sosmed": [
+        {
+          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+        }
+      ],
+      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+    },
+    {
+      "id": "24",
+      "nama": "Pengajian Ibu-ibu PKK",
+      "spoiler": "-",
+      "sinopsis": [
+        {
+          "paragraf": "<p class='deskripsi'>Dalam Undang-Undang RI No.16 Tahun 1997 Pasal 1, dijelaskan bahwa sensus adalah cara pengumpulan data yang dilakukan melalui pencacahan semua unit populasi di seluruh wilayah Republik Indonesia untuk memperoleh karakteristik suatu populasi pada saat tertentu. Hal ini sesuai dengan Peraturan Pemerintah Pasal 3 Tahun 1960 tentang sensus yang menyatakan bahwa waktu mengadakan sensus yang lain-lainnya ditentukan dengan Peraturan Pemerintah, dengan ketentuan sekurang-kurangnya dalam 10 tahun diadakan sekali. Kegiatan sensus penduduk secara umum bertujuan untuk mendapatkan data karakteristik dari suatu populasi pada waktu tertentu.</p>"
+        }
+      ],
+      "pictureId": "./public/cover/pengajian.png",
+      "pemangku": "Mahasiswa KKM dan Perangkat Desa",
+      "waktu": "19 Juli 2022",
+      "kategori": "kkm",
+      "sosmed": [
+        {
+          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+        }
+      ],
+      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+    },
+    {
+      "id": "25",
+      "nama": "Pemasangan umbul-umbul",
+      "spoiler": "-",
+      "sinopsis": [
+        {
+          "name": "<p>-</p>"
+        }
+      ],
+      "pictureId": "./public/cover/umbul.png",
+      "pemangku": "Ibu-ibu PKK",
+      "waktu": "21 Juli 2022",
+      "kategori": "pemdes",
+      "sosmed": [
+        {
+          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+        }
+      ],
+      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+    },
+    {
+      "id": "26",
+      "nama": "Peringatan Hut RI di Kec Lemahabang",
+      "spoiler": "-",
+      "sinopsis": [
+        {
+          "paragraf": "<p class='deskripsi>-</p>"
+        },
+        {
+          "paragraf": "<p class='deskripsi>-</p>"
+        }
+      ],
+      "pictureId": "./public/cover/hut-kecamatan.png",
+      "pemangku": "Pemerintahan Desa",
+      "waktu": "11 Agustus 2022",
+      "kategori": "pemdes",
+      "sosmed": [
+        {
+          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+        }
+      ],
+      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+    },
+    {
+      "id": "27",
+      "nama": "Pembukaan KKM Mahasiswa UMC",
+      "spoiler": "-",
+      "sinopsis": [
+        {
+          "paragraf": "<p class='deskripsi>-</p>"
+        }
+      ],
+      "pictureId": "./public/cover/penerimaan-kkmumc.JPG",
+      "pemangku": "KKM UMC",
+      "waktu": "12 Agustus 2022",
+      "kategori": "kkm",
+      "sosmed": [
+        {
+          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+        }
+      ],
+      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+    },
+    {
+      "id": "28",
+      "nama": "Pengembangan wisata Cikuya",
+      "spoiler": "-",
+      "sinopsis": [
+        {
+          "name": "<p class='deskripsi></p>"
+        }
+      ],
+      "pictureId": "./public/cover/eduwisata.jpg",
+      "pemangku": "Ibu-ibu PKK",
+      "waktu": "25 Juli 2022",
+      "kategori": "pemdes",
+      "sosmed": [
+        {
+          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+        }
+      ],
+      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+    },
+    {
+      "id": "29",
+      "nama": "Pengembangan UMKM Olahan Mangga",
+      "spoiler": "-",
+      "sinopsis": [
+        {
+          "paragraf": "-"
+        }
+      ],
+      "pictureId": "./public/cover/umkm.jpg",
+      "pemangku": "BUMDES",
+      "waktu": "17 Juli 2022",
+      "kategori": "pemdes",
+      "sosmed": [
+        {
+          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+        }
+      ],
+      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+    },
+    {
+      "id": "30",
+      "nama": "PPKM",
+      "spoiler": "-",
+      "sinopsis": [
+        {
+          "paragraf": "-"
+        }
+      ],
+      "pictureId": "./public/cover/ppkm.jpg",
+      "pemangku": "Pemerintahan Desa",
+      "waktu": "17 Juli 2022",
+      "kategori": "layanan",
+      "sosmed": [
+        {
+          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+        }
+      ],
+      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+    },
+    {
+      "id": "31",
+      "nama": "Sosialisasi Teknologi Informasi",
+      "spoiler": "",
+      "sinopsis": [
+        {
+          "paragraf": "-"
+        }
+      ],
+      "pictureId": "./public/cover/teknologi.jpg",
+      "pemangku": "Pemerintahan Desa",
+      "waktu": "21 Juli 2022",
+      "kategori": "layanan",
+      "sosmed": [
+        {
+          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+        }
+      ],
+      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+    },
+    {
+      "id": "32",
+      "nama": "Sosialisasi Pengobatan Herbal",
+      "spoiler": "-",
+      "sinopsis": [
+        {
+          "paragraf": "-"
+        }
+      ],
+      "pictureId": "./public/cover/herbal3.jpg",
+      "pemangku": "Pemerintahan Desa",
+      "waktu": "-",
+      "kategori": "pemdes",
+      "sosmed": [
+        {
+          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+        }
+      ],
+      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+    },
+    {
+      "id": "33",
+      "nama": "Sosialisasi Birokrasi",
+      "spoiler": "-",
+      "sinopsis": [
+        {
+          "paragraf": "-"
+        }
+      ],
+      "pictureId": "./public/cover/birokrasi.JPG",
+      "pemangku": "Sosialisasi Skill Komunikasi",
+      "waktu": "19 Juli 2022",
+      "kategori": "pemdes",
+      "sosmed": [
+        {
+          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
+          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
           "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"

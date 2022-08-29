@@ -59,7 +59,7 @@ Item / Card
   object-position: center;
 }
 
-.item-header-rating {
+.item-header-waktu {
   top: 8px;
   left: 16px;
   color: white;
@@ -70,7 +70,7 @@ Item / Card
   background-color: #000000;
 }
 
-.rating-score {
+.waktu-score {
   margin-left: 7px;
   font-weight: bold;
 }
@@ -197,4 +197,8 @@ div.judul-kontak {
 
 div.form-kontak {
   background-color: #d9d9d9;
+}
+
+.hero__inner {
+  margin: 0px 20px;
 }

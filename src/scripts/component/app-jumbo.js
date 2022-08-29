@@ -74,15 +74,13 @@ class AppJumbo extends HTMLElement {
   
           <div class="hero mb-5 container-fluid" alt="Gambar Hero Makanan" style="display: inline-block">
             <picture>
-              <source media="(max-width: 650px)" srcset="public/images/hero.jpg" type="image/jpeg" />
-              <source media="(min-width: 650px)" srcset="public/images/hero.jpg" type="image/jpeg" />
               <source media="(min-width: 1200px)" srcset="public/images/hero.jpg" type="image/jpeg" />
               <img loading="lazy" width="100%" height="380px" src="public/images/hero.jpg" alt="" />
             </picture>
             <div class="container">
               <div class="hero__inner">
-                <h1 class="hero__title ">Pemerintahan Desa Belawa</h1>
-                <p class="hero__tagline">Informasi Lengkap Seputar Desa dan Potensinya Ada Disini</p>
+                <h1 class="hero__title ">Desa Belawa</h1>
+                <p class="hero__tagline">Kec. Lemahabang Kab. Cirebon Prov. Jawa Barat</p>
               </div>
             </div>
           </div>
