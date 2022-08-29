@@ -37,6 +37,10 @@ const Detail = {
           margin: 8px 0;
           font-size: 1.17em;
         }
+
+        .belawa__overview p {
+          text-align: justify;
+        }
       </style>
       <div class="container">
         <div id='detail' class='gx-0 mx-4 detail justify-content-center'></div>

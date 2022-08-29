@@ -20,8 +20,8 @@ class AppFooter extends HTMLElement {
           <i class="fab fa-twitter"></i>
         </a>
 
-        <a class="btn btn-outline-dark btn-floating mx-1" href="https://belawa.netlify.app/" role="button"
-          ><i class="fab fa-google"></i>
+        <a class="btn btn-outline-dark btn-floating mx-1" href="https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured" role="button">
+          <i class="fab fa-youtube"></i>
         </a>
 
         <a class="btn btn-outline-dark btn-floating mx-1" href="https://www.instagram.com/pemdes.belawa/" role="button">

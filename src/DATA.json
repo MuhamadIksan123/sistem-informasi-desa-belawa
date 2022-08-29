@@ -6,10 +6,10 @@
       "spoiler": "Dahulu kala, ada seorang pemuda yang bernama Jaka Saliwah, pemuda ini mempunyai fisik kulit sebelah hitam dan sebelahnya lagi putih, yang membuatnya merasa terasing akan keunikan yang dimilikinya. Dikarenakan sering dibuli, dia akhirnya pergi mendatangi seorang syekh yang bernama Syekh Datuk Putih dan berguru padanya. Selama bertahun-tahun Jaka Saliwah belajar ngaji, dengan tujuan supaya warna kulitnya dapat berubah normal seperti yang lainnya.",
       "sinopsis": [
         {
-          "paragraf": "<p class='deskripsi'>Dahulu kala, ada seorang pemuda yang bernama Jaka Saliwah, pemuda ini mempunyai fisik kulit sebelah hitam dan sebelahnya lagi putih, yang membuatnya merasa terasing akan keunikan yang dimilikinya. Dikarenakan sering dibuli, dia akhirnya pergi mendatangi seorang syekh yang bernama Syekh Datuk Putih dan berguru padanya. Selama bertahun-tahun Jaka Saliwah belajar ngaji, dengan tujuan supaya warna kulitnya dapat berubah normal seperti yang lainnya.</p>"
+          "paragraf": "<p>Dahulu kala, ada seorang pemuda yang bernama Jaka Saliwah, pemuda ini mempunyai fisik kulit sebelah hitam dan sebelahnya lagi putih, yang membuatnya merasa terasing akan keunikan yang dimilikinya. Dikarenakan sering dibuli, dia akhirnya pergi mendatangi seorang syekh yang bernama Syekh Datuk Putih dan berguru padanya. Selama bertahun-tahun Jaka Saliwah belajar ngaji, dengan tujuan supaya warna kulitnya dapat berubah normal seperti yang lainnya.</p>"
         },
         {
-          "paragraf": "<p class='deskripsi'>Namun ternyata warna kulitnya tidak berubah sama sekali, yang akhirnya membuat dia marah dan emosi sehingga merobek Al-Qur’an yang selalu digunakan olehnya. Tak berhenti sampai disitu, Jaka Saliwah melemparkan sobekan Qur’an tersebut ke telaga kecil. Suatu keanehan pun muncul, dimana sobekan kertas Al-Qur’an yang dilemparkannya menghilang tanpa jejak. Lalu muncullah sebuah hewan kecil yang dia beri nama kura-kura atau kuya, seketika itu pula wajah dari Jaka Saliwah berubah menjadi normal. Oleh sebab itu, daerah tersebut kemudian diberi nama Cikuya, Desa Belawa.</p>"
+          "paragraf": "<p>Namun ternyata warna kulitnya tidak berubah sama sekali, yang akhirnya membuat dia marah dan emosi sehingga merobek Al-Qur’an yang selalu digunakan olehnya. Tak berhenti sampai disitu, Jaka Saliwah melemparkan sobekan Qur’an tersebut ke telaga kecil. Suatu keanehan pun muncul, dimana sobekan kertas Al-Qur’an yang dilemparkannya menghilang tanpa jejak. Lalu muncullah sebuah hewan kecil yang dia beri nama kura-kura atau kuya, seketika itu pula wajah dari Jaka Saliwah berubah menjadi normal. Oleh sebab itu, daerah tersebut kemudian diberi nama Cikuya, Desa Belawa.</p>"
         }
       ],
       "pictureId": "./public/cover/cikuya.jpg",
@@ -18,19 +18,13 @@
       "kategori": "potensi",
       "sosmed": [
         {
-          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
-        },
-        {
-          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
-        },
-        {
-          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://www.instagram.com/wisatacikuya.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
           "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
-      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+      "dokumentasi": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
     },
     {
       "id": "2",
@@ -38,10 +32,10 @@
       "spoiler": "Desa Belawa merupakan desa sentra buah mangga dengan kualitas ekspor dan menjadi buah primadona dipasar lokal maupun luar negeri dibuktikan oleh with house dengan dijadikanya buah mangga gedong belawa menjadi buah pencuci mulut presiden barack obama. Desa belawa menghasilkan produksi mangga semakin dari 160.000 ton tiap tahunnya dan sekarang para petani mangga di desa belawa bisa memperkembangkan pola pertanian mangga tak mengenal musim kareana setiap ketika telah tersedia mangga di kebun untuk dipetik.",
       "sinopsis": [
         {
-          "paragraf": "<p class='deskripsi'>Desa Belawa merupakan desa sentra buah mangga dengan kualitas ekspor dan menjadi buah primadona dipasar lokal maupun luar negeri dibuktikan oleh with house dengan dijadikanya buah mangga gedong belawa menjadi buah pencuci mulut presiden barack obama.</p>"
+          "paragraf": "<p>Desa Belawa merupakan desa sentra buah mangga dengan kualitas ekspor dan menjadi buah primadona dipasar lokal maupun luar negeri dibuktikan oleh with house dengan dijadikanya buah mangga gedong belawa menjadi buah pencuci mulut presiden barack obama.</p>"
         },
         {
-          "paragraf": "<p class='deskripsi'>Desa belawa menghasilkan produksi mangga semakin dari 160.000 ton tiap tahunnya dan sekarang para petani mangga di desa belawa bisa memperkembangkan pola pertanian mangga tak mengenal musim kareana setiap ketika telah tersedia mangga di kebun untuk dipetik.</p>"
+          "paragraf": "<p>Desa belawa menghasilkan produksi mangga semakin dari 160.000 ton tiap tahunnya dan sekarang para petani mangga di desa belawa bisa memperkembangkan pola pertanian mangga tak mengenal musim kareana setiap ketika telah tersedia mangga di kebun untuk dipetik.</p>"
         }
       ],
       "pictureId": "./public/cover/olahan-mangga.jpg",
@@ -50,16 +44,13 @@
       "kategori": "potensi",
       "sosmed": [
         {
-          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
-        },
-        {
-          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
           "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
-      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+      "dokumentasi": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
     },
     {
       "id": "3",
@@ -67,16 +58,16 @@
       "spoiler": "Seperti desa-desa lainnya Belawa juga mempunyai sejarah tersendiri demikian pula adat dan istiadat tersendiri pula, Desa Belawa tadinya merupakan sebuah blok atau cantilan namanya Blok Cangkuang yang termasuk bagian dari desa Panyamunan dan sekarang merupakan Desa Putat. Pada jaman dahulu kala entah abad ke berapa, datanglah seorang kelana yang berhati suci dan berwatak jujur, tak pernah ia bertingkah diluar garis susila. Beliau pergi meninggalkan kampung halamannya dengan seijin orang tuanya, hanya kemana ia akan pergi, tidak tentu. JOHAR julukan kelana itu, nama yang manis dan mempunyai sorot mata yang berwibawa. Ia pergi mengembara, tak tahu arah mana yang akan dituju, hal itu tidak jadi pikiran, niatnya bulat mau membersihkan diri/bertapa Ia berjalan hanya menuruti kemauan ibu jari kaki saja, tebing dan ngarai sudah ia lalui, tibalah pada suatu tempat yang menurut pikirannya sudah cukup jauh beliau berjalan, dan disini beliau berhenti dan beristirahat.",
       "sinopsis": [
         {
-          "paragraf": "<p class='deskripsi'>Seperti desa-desa lainnya Belawa juga mempunyai sejarah tersendiri demikian pula adat dan istiadat tersendiri pula, Desa Belawa tadinya merupakan sebuah blok atau cantilan namanya Blok Cangkuang yang termasuk bagian dari desa Panyamunan dan sekarang merupakan Desa Putat. Pada jaman dahulu kala entah abad ke berapa, datanglah seorang kelana yang berhati suci dan berwatak jujur, tak pernah ia bertingkah diluar garis susila. Beliau pergi meninggalkan kampung halamannya dengan seijin orang tuanya, hanya kemana ia akan pergi, tidak tentu. JOHAR julukan kelana itu, nama yang manis dan mempunyai sorot mata yang berwibawa. Ia pergi mengembara, tak tahu arah mana yang akan dituju, hal itu tidak jadi pikiran, niatnya bulat mau membersihkan diri/bertapa Ia berjalan hanya menuruti kemauan ibu jari kaki saja, tebing dan ngarai sudah ia lalui, tibalah pada suatu tempat yang menurut pikirannya sudah cukup jauh beliau berjalan, dan disini beliau berhenti dan beristirahat.</p>"
+          "paragraf": "<p>Seperti desa-desa lainnya Belawa juga mempunyai sejarah tersendiri demikian pula adat dan istiadat tersendiri pula, Desa Belawa tadinya merupakan sebuah blok atau cantilan namanya Blok Cangkuang yang termasuk bagian dari desa Panyamunan dan sekarang merupakan Desa Putat. Pada jaman dahulu kala entah abad ke berapa, datanglah seorang kelana yang berhati suci dan berwatak jujur, tak pernah ia bertingkah diluar garis susila. Beliau pergi meninggalkan kampung halamannya dengan seijin orang tuanya, hanya kemana ia akan pergi, tidak tentu. JOHAR julukan kelana itu, nama yang manis dan mempunyai sorot mata yang berwibawa. Ia pergi mengembara, tak tahu arah mana yang akan dituju, hal itu tidak jadi pikiran, niatnya bulat mau membersihkan diri/bertapa Ia berjalan hanya menuruti kemauan ibu jari kaki saja, tebing dan ngarai sudah ia lalui, tibalah pada suatu tempat yang menurut pikirannya sudah cukup jauh beliau berjalan, dan disini beliau berhenti dan beristirahat.</p>"
         },
         {
-          "paragraf": "<p class='deskripsi'>Setelah beristirahat sejenak, timbul pulalah niat ingin tinggal di situ membuat pemukiman baru. Pada waktu itu belum ada seorangpun yang berani menjamak daerah itu, karena masih hutan belantara. Ia mendirikan sebuah gubuk kecil beratapkan alang-alang dan berdinding kulit kayu. Beliau hidup menyendiri dan bercocok tanam. Walaupun ia hidup sendiri, tanpa teman, jauh dari sanak dan saudara, dan jauh dari keramaian. Johar tetap sabar dan tawakal. Karena kesabaran dan ketawakalan juga ketaqwaan pada Tuhan Yang Maha Esa itulah yang menjadi Johar penuh kesabaran, akhirnya Johar mendapat perlindungan dari segala mara bahaya. Lama juga ia hidup menyendiri di daerah terpencil, kadang-kadang teringat juga akan ayah bundannya makin hari makin terasa yang ada di Tenjolayar kampung halmannya tempat ia dilahirkan sudah lama ditinggalkan.</p>"
+          "paragraf": "<p>Setelah beristirahat sejenak, timbul pulalah niat ingin tinggal di situ membuat pemukiman baru. Pada waktu itu belum ada seorangpun yang berani menjamak daerah itu, karena masih hutan belantara. Ia mendirikan sebuah gubuk kecil beratapkan alang-alang dan berdinding kulit kayu. Beliau hidup menyendiri dan bercocok tanam. Walaupun ia hidup sendiri, tanpa teman, jauh dari sanak dan saudara, dan jauh dari keramaian. Johar tetap sabar dan tawakal. Karena kesabaran dan ketawakalan juga ketaqwaan pada Tuhan Yang Maha Esa itulah yang menjadi Johar penuh kesabaran, akhirnya Johar mendapat perlindungan dari segala mara bahaya. Lama juga ia hidup menyendiri di daerah terpencil, kadang-kadang teringat juga akan ayah bundannya makin hari makin terasa yang ada di Tenjolayar kampung halmannya tempat ia dilahirkan sudah lama ditinggalkan.</p>"
         },
         {
-          "paragraf": "<p class='deskripsi'>Pagi-pagi setelah pajar menyingsing ia tinggalkan gubuknya yang sudah reyot itu untuk menemui orang tuannya dahululu. Betapa bahagiannya tiba-tiba datang ada dihadapannya. Hanya Tuhanlah Yang Maha Mengetahui-Nya, mereka saling berpelukan menunjukkan rasa bahagia bisa bertemu kembali. Johar, lama berada dikampungnya. dan setelah dewasa ia dinikahkan dengan orang sekampungnya. Johar setelah menikah hidupnya rukun damai dalam rumahtangganya. Untung tak dapat diraih tiba-tiba rerjadilah peperangan di Desa Johar, sedangkan Desa Tenjolayar dipakai kancah peperangan. Beliau mengungsi bersama keluarganya ke tempat lain. Lama-lama ia ingat akan gubuknya yang sudah lama ditinggalkan dan ternyata gubuk itu masih ada, sekarang ia menjadi penghuni gubuk kecil itu, bersama istri dan orang-orang yang bersama mengungsi. Ki JOHAR orang yang baik hati, dan penuh rasa tanggung jawab, akhirnya Ki Johar diangkat sebagai tua-tua dikampung itu. Kampung vang beliau bentuk (Babak-babak) jadilah sebuah Dukuh vang diberi nama ‘BELAWA’ yang artinya Desa Pembela Nvawa dari serbuan peperangan.</p>"
+          "paragraf": "<p>Pagi-pagi setelah pajar menyingsing ia tinggalkan gubuknya yang sudah reyot itu untuk menemui orang tuannya dahululu. Betapa bahagiannya tiba-tiba datang ada dihadapannya. Hanya Tuhanlah Yang Maha Mengetahui-Nya, mereka saling berpelukan menunjukkan rasa bahagia bisa bertemu kembali. Johar, lama berada dikampungnya. dan setelah dewasa ia dinikahkan dengan orang sekampungnya. Johar setelah menikah hidupnya rukun damai dalam rumahtangganya. Untung tak dapat diraih tiba-tiba rerjadilah peperangan di Desa Johar, sedangkan Desa Tenjolayar dipakai kancah peperangan. Beliau mengungsi bersama keluarganya ke tempat lain. Lama-lama ia ingat akan gubuknya yang sudah lama ditinggalkan dan ternyata gubuk itu masih ada, sekarang ia menjadi penghuni gubuk kecil itu, bersama istri dan orang-orang yang bersama mengungsi. Ki JOHAR orang yang baik hati, dan penuh rasa tanggung jawab, akhirnya Ki Johar diangkat sebagai tua-tua dikampung itu. Kampung vang beliau bentuk (Babak-babak) jadilah sebuah Dukuh vang diberi nama ‘BELAWA’ yang artinya Desa Pembela Nvawa dari serbuan peperangan.</p>"
         },
         {
-          "paragraf": "<p class='deskripsi'>Desa Belawa makin lama makin maju dan makin luas, berkat pimpinan yang penuh tanggung jawab pada rakyatnya. Pada masa itu masyarakat Belawa yang ada, menobatkan Ki Johar menjadi KUWU, dengan julukan Ki Kuwu Johar Tenjolayar. Pada usia vang telah lanjut Ki Johar sakit, dan dari sakitnya itu Ki Johar berpulang ke Rahmatulloh, dengan tenang Ki Kuwu Johar Tenjolayar meninggaLkan Dunia, yang selama hidupnya menjadi dambaan. Jenazah Ki Johar diantarkan ketempat peristirahatan terakhir dan disertai Do'a¬Do'a. Semoga arwahnya diterima dan mendapat tempat disisi Alloh SWT. Sepekan setelah beliau dimakamkan, tiba-tiba tumbuhlah suatu tunas (tunas muda) persis dibagian kepalanya. Pertumbuhan tunas vang langka itu cepat sekali menjadi pohon, tetapi seorangpun belum ada vang tahu nama pohon langka itu. Akhirnya dari salah seorang anak muridnva Ki Johar bersemedi Apa Nama Pohon Itu ‘ dan rupanva dikabul, nama pohon itu ‘GALUMPIT’ Pohon Galumpit tumbuh subur makin hari makin tinggi dan makin besar juga rindang. Di bawah akar dan pohon yang rindang itulah, jasad Ki Kuwu Johar berbaring. Menurut ceritra, dari pohon yang rindang itulah ‘Galumpit’ beliau dapat memandang ke alam bebas, sekalipun nun jauh disana. Hanya sekarang sayang, itu tinggal ceritanya saja kenyataannya sudah tak dapat dipandang mata.</p>"
+          "paragraf": "<p>Desa Belawa makin lama makin maju dan makin luas, berkat pimpinan yang penuh tanggung jawab pada rakyatnya. Pada masa itu masyarakat Belawa yang ada, menobatkan Ki Johar menjadi KUWU, dengan julukan Ki Kuwu Johar Tenjolayar. Pada usia vang telah lanjut Ki Johar sakit, dan dari sakitnya itu Ki Johar berpulang ke Rahmatulloh, dengan tenang Ki Kuwu Johar Tenjolayar meninggaLkan Dunia, yang selama hidupnya menjadi dambaan. Jenazah Ki Johar diantarkan ketempat peristirahatan terakhir dan disertai Do'a¬Do'a. Semoga arwahnya diterima dan mendapat tempat disisi Alloh SWT. Sepekan setelah beliau dimakamkan, tiba-tiba tumbuhlah suatu tunas (tunas muda) persis dibagian kepalanya. Pertumbuhan tunas vang langka itu cepat sekali menjadi pohon, tetapi seorangpun belum ada vang tahu nama pohon langka itu. Akhirnya dari salah seorang anak muridnva Ki Johar bersemedi Apa Nama Pohon Itu ‘ dan rupanva dikabul, nama pohon itu ‘GALUMPIT’ Pohon Galumpit tumbuh subur makin hari makin tinggi dan makin besar juga rindang. Di bawah akar dan pohon yang rindang itulah, jasad Ki Kuwu Johar berbaring. Menurut ceritra, dari pohon yang rindang itulah ‘Galumpit’ beliau dapat memandang ke alam bebas, sekalipun nun jauh disana. Hanya sekarang sayang, itu tinggal ceritanya saja kenyataannya sudah tak dapat dipandang mata.</p>"
         }
       ],
       "pictureId": "./public/cover/sejarah.png",
@@ -85,16 +76,13 @@
       "kategori": "potensi",
       "sosmed": [
         {
-          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
-        },
-        {
           "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
           "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
-      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+      "dokumentasi": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
     },
     {
       "id": "4",
@@ -102,10 +90,10 @@
       "spoiler": "Dalam Undang-Undang RI No.16 Tahun 1997 Pasal 1, dijelaskan bahwa sensus adalah cara pengumpulan data yang dilakukan melalui pencacahan semua unit populasi di seluruh wilayah Republik Indonesia untuk memperoleh karakteristik suatu populasi pada saat tertentu. Hal ini sesuai dengan Peraturan Pemerintah Pasal 3 Tahun 1960 tentang sensus yang menyatakan bahwa waktu mengadakan sensus yang lain-lainnya ditentukan dengan Peraturan Pemerintah, dengan ketentuan sekurang-kurangnya dalam 10 tahun diadakan sekali. Kegiatan sensus penduduk secara umum bertujuan untuk mendapatkan data karakteristik dari suatu populasi pada waktu tertentu.",
       "sinopsis": [
         {
-          "paragraf": "<p class='deskripsi'>Dalam Undang-Undang RI No.16 Tahun 1997 Pasal 1, dijelaskan bahwa sensus adalah cara pengumpulan data yang dilakukan melalui pencacahan semua unit populasi di seluruh wilayah Republik Indonesia untuk memperoleh karakteristik suatu populasi pada saat tertentu. Hal ini sesuai dengan Peraturan Pemerintah Pasal 3 Tahun 1960 tentang sensus yang menyatakan bahwa waktu mengadakan sensus yang lain-lainnya ditentukan dengan Peraturan Pemerintah, dengan ketentuan sekurang-kurangnya dalam 10 tahun diadakan sekali. Kegiatan sensus penduduk secara umum bertujuan untuk mendapatkan data karakteristik dari suatu populasi pada waktu tertentu.</p>"
+          "paragraf": "<p>Dalam Undang-Undang RI No.16 Tahun 1997 Pasal 1, dijelaskan bahwa sensus adalah cara pengumpulan data yang dilakukan melalui pencacahan semua unit populasi di seluruh wilayah Republik Indonesia untuk memperoleh karakteristik suatu populasi pada saat tertentu. Hal ini sesuai dengan Peraturan Pemerintah Pasal 3 Tahun 1960 tentang sensus yang menyatakan bahwa waktu mengadakan sensus yang lain-lainnya ditentukan dengan Peraturan Pemerintah, dengan ketentuan sekurang-kurangnya dalam 10 tahun diadakan sekali. Kegiatan sensus penduduk secara umum bertujuan untuk mendapatkan data karakteristik dari suatu populasi pada waktu tertentu.</p>"
         },
         {
-          "paragraf": "<p class='deskripsi'>Sensus penduduk juga bertujuan untuk membantu pemerintah daerah dalam menyusun program-program kependudukan dan sosial. Hal ini karena data hasil sensus penduduk tidak hanya meliputi jumlah orang, tetapi juga komposisi, distribusi, dan karakteristik penduduk seperti jenis kelamin, usia, bahasa, dan parameter demografi lain yang dianggap perlu. Terlebih, data sensus adalah hal yang penting bagi negara dalam kaitannya dengan perencanaan pembangunan. Hal ini karena kegiatan sensus penduduk terkini dilakukan menggunakan data administrasi kependudukan dari Ditjen Dukcapil sebagai basis data dasar.</p>"
+          "paragraf": "<p>Sensus penduduk juga bertujuan untuk membantu pemerintah daerah dalam menyusun program-program kependudukan dan sosial. Hal ini karena data hasil sensus penduduk tidak hanya meliputi jumlah orang, tetapi juga komposisi, distribusi, dan karakteristik penduduk seperti jenis kelamin, usia, bahasa, dan parameter demografi lain yang dianggap perlu. Terlebih, data sensus adalah hal yang penting bagi negara dalam kaitannya dengan perencanaan pembangunan. Hal ini karena kegiatan sensus penduduk terkini dilakukan menggunakan data administrasi kependudukan dari Ditjen Dukcapil sebagai basis data dasar.</p>"
         }
       ],
       "pictureId": "./public/cover/sensus-penduduk.jpg",
@@ -120,10 +108,10 @@
           "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured'><i class='fab fa-youtube' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
-      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+      "dokumentasi": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
     },
     {
       "id": "5",
@@ -146,10 +134,10 @@
           "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured'><i class='fab fa-youtube' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
-      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+      "dokumentasi": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
     },
     {
       "id": "6",
@@ -169,16 +157,10 @@
       "kategori": "pemdes",
       "sosmed": [
         {
-          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
-        },
-        {
           "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
-        },
-        {
-          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
-      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+      "dokumentasi": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
     },
     {
       "id": "8",
@@ -201,10 +183,10 @@
           "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured'><i class='fab fa-youtube' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
-      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+      "dokumentasi": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
     },
     {
       "id": "9",
@@ -230,10 +212,10 @@
           "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured'><i class='fab fa-youtube' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
-      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+      "dokumentasi": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
     },
     {
       "id": "10",
@@ -256,10 +238,10 @@
           "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured'><i class='fab fa-youtube' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
-      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+      "dokumentasi": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
     },
     {
       "id": "12",
@@ -282,10 +264,10 @@
           "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured'><i class='fab fa-youtube' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
-      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+      "dokumentasi": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
     },
     {
       "id": "13",
@@ -311,10 +293,10 @@
           "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured'><i class='fab fa-youtube' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
-      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+      "dokumentasi": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
     },
     {
       "id": "14",
@@ -346,10 +328,10 @@
           "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured'><i class='fab fa-youtube' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
-      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+      "dokumentasi": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
     },
     {
       "id": "15",
@@ -372,10 +354,13 @@
           "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
+          "icon": "<a href='https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured'><i class='fab fa-youtube' style='font-size: 30px; color: black;'></i></a>"
+        },
+        {
           "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
-      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+      "dokumentasi": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
     },
     {
       "id": "16",
@@ -390,7 +375,7 @@
         }
       ],
       "pictureId": "./public/cover/pelantikan.JPG",
-      "pemangku": "Karang Taruna",
+      "pemangku": "Pemerintahan Desa",
       "waktu": "Dahulu",
       "kategori": "pemdes",
       "sosmed": [
@@ -401,10 +386,10 @@
           "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured'><i class='fab fa-youtube' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
-      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+      "dokumentasi": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
     },
     {
       "id": "17",
@@ -412,7 +397,7 @@
       "spoiler": "-",
       "sinopsis": [
         {
-          "paragraf": "<p class='deskripsi>Kuliah Kerja Nyata merupakan proses pembelajaran bagi mahasiswa S1 Universitas Muhammadiyah Cirebon & Sekolah Tinggi Farmasi Muhammdiyah Cirebon yang dikembangkan melalui kegiatan pengabdian kepada masyarakat dalam berbagai segi kehidupan bermasyarakat. Kegiatan KKM UMC ini menerapkan prinsip cocreation (merupakan gagasan bersama), co-financing (dana bersama), flexibility (keluwesan) dan berkesinambungan dengan berbasis riset dalam pelaksanaannya, sehingga diharapkan mahasiswa mampu memberdayakan masyarakat untuk memajukan Desa.</p>"
+          "paragraf": "<p>Kuliah Kerja Nyata merupakan proses pembelajaran bagi mahasiswa S1 Universitas Muhammadiyah Cirebon & Sekolah Tinggi Farmasi Muhammdiyah Cirebon yang dikembangkan melalui kegiatan pengabdian kepada masyarakat dalam berbagai segi kehidupan bermasyarakat. Kegiatan KKM UMC ini menerapkan prinsip cocreation (merupakan gagasan bersama), co-financing (dana bersama), flexibility (keluwesan) dan berkesinambungan dengan berbasis riset dalam pelaksanaannya, sehingga diharapkan mahasiswa mampu memberdayakan masyarakat untuk memajukan Desa.</p>"
         }
       ],
       "cerita": "",
@@ -428,10 +413,10 @@
           "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured'><i class='fab fa-youtube' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
-      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+      "dokumentasi": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
     },
     {
       "id": "18",
@@ -443,7 +428,7 @@
         }
       ],
       "pictureId": "./public/cover/pengukuran.jpeg",
-      "pemangku": "Ibu-ibu PKK",
+      "pemangku": "Pemerintahan Desa",
       "waktu": "25 Juli 2022",
       "kategori": "pemdes",
       "sosmed": [
@@ -454,10 +439,10 @@
           "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured'><i class='fab fa-youtube' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
-      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+      "dokumentasi": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
     },
     {
       "id": "19",
@@ -477,16 +462,16 @@
       "kategori": "pemdes",
       "sosmed": [
         {
-          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
           "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured'><i class='fab fa-youtube' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
-      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+      "dokumentasi": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
     },
     {
       "id": "20",
@@ -509,10 +494,10 @@
           "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured'><i class='fab fa-youtube' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
-      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+      "dokumentasi": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
     },
     {
       "id": "21",
@@ -520,31 +505,25 @@
       "spoiler": "-",
       "sinopsis": [
         {
-          "paragraf": "<p class='deskripsi'>-</p>"
-        },
-        {
-          "paragraf": "<p class='deskripsi'>Namun ternyata warna kulitnya tidak berubah sama sekali, yang akhirnya membuat dia marah dan emosi sehingga merobek Al-Qur’an yang selalu digunakan olehnya. Tak berhenti sampai disitu, Jaka Saliwah melemparkan sobekan Qur’an tersebut ke telaga kecil. Suatu keanehan pun muncul, dimana sobekan kertas Al-Qur’an yang dilemparkannya menghilang tanpa jejak. Lalu muncullah sebuah hewan kecil yang dia beri nama kura-kura atau kuya, seketika itu pula wajah dari Jaka Saliwah berubah menjadi normal. Oleh sebab itu, daerah tersebut kemudian diberi nama Cikuya, Desa Belawa.</p>"
+          "paragraf": "<p>-</p>"
         }
       ],
       "pictureId": "./public/cover/rapat17an.jpg",
-      "pemangku": "Karang Taruna",
+      "pemangku": "Pemerintahan Desa",
       "waktu": "Tahun 1900an",
       "kategori": "potensi",
       "sosmed": [
         {
-          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i class='fab fa-twitter-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
-        },
-        {
-          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured'><i class='fab fa-youtube' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
-      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+      "dokumentasi": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
     },
     {
       "id": "22",
@@ -552,28 +531,25 @@
       "spoiler": "-",
       "sinopsis": [
         {
-          "paragraf": "<p class='deskripsi'>Desa Belawa merupakan desa sentra buah mangga dengan kualitas ekspor dan menjadi buah primadona dipasar lokal maupun luar negeri dibuktikan oleh with house dengan dijadikanya buah mangga gedong belawa menjadi buah pencuci mulut presiden barack obama.</p>"
-        },
-        {
-          "paragraf": "<p class='deskripsi'>Desa belawa menghasilkan produksi mangga semakin dari 160.000 ton tiap tahunnya dan sekarang para petani mangga di desa belawa bisa memperkembangkan pola pertanian mangga tak mengenal musim kareana setiap ketika telah tersedia mangga di kebun untuk dipetik.</p>"
+          "paragraf": "<p>-</p>"
         }
       ],
       "pictureId": "./public/cover/bendera.jpg",
-      "pemangku": "Petani Mangga",
+      "pemangku": "Pemerintahan Desa",
       "waktu": "Dahulu",
       "kategori": "potensi",
       "sosmed": [
         {
-          "icon": "<a href=''><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "icon": "<a href=''><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured'><i class='fab fa-youtube' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
-      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+      "dokumentasi": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
     },
     {
       "id": "23",
@@ -581,7 +557,7 @@
       "spoiler": "-",
       "sinopsis": [
         {
-          "paragraf": "<p class='deskripsi'>-</p>"
+          "paragraf": "<p>-</p>"
         }
       ],
       "pictureId": "./public/cover/bebersih.jpg",
@@ -596,10 +572,10 @@
           "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured'><i class='fab fa-youtube' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
-      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+      "dokumentasi": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
     },
     {
       "id": "24",
@@ -607,13 +583,13 @@
       "spoiler": "-",
       "sinopsis": [
         {
-          "paragraf": "<p class='deskripsi'>Dalam Undang-Undang RI No.16 Tahun 1997 Pasal 1, dijelaskan bahwa sensus adalah cara pengumpulan data yang dilakukan melalui pencacahan semua unit populasi di seluruh wilayah Republik Indonesia untuk memperoleh karakteristik suatu populasi pada saat tertentu. Hal ini sesuai dengan Peraturan Pemerintah Pasal 3 Tahun 1960 tentang sensus yang menyatakan bahwa waktu mengadakan sensus yang lain-lainnya ditentukan dengan Peraturan Pemerintah, dengan ketentuan sekurang-kurangnya dalam 10 tahun diadakan sekali. Kegiatan sensus penduduk secara umum bertujuan untuk mendapatkan data karakteristik dari suatu populasi pada waktu tertentu.</p>"
+          "paragraf": "<p>-</p>"
         }
       ],
       "pictureId": "./public/cover/pengajian.png",
-      "pemangku": "Mahasiswa KKM dan Perangkat Desa",
+      "pemangku": "Ibu-ibu PKK",
       "waktu": "19 Juli 2022",
-      "kategori": "kkm",
+      "kategori": "pemdes",
       "sosmed": [
         {
           "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
@@ -622,10 +598,10 @@
           "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured'><i class='fab fa-youtube' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
-      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+      "dokumentasi": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
     },
     {
       "id": "25",
@@ -637,7 +613,7 @@
         }
       ],
       "pictureId": "./public/cover/umbul.png",
-      "pemangku": "Ibu-ibu PKK",
+      "pemangku": "Pemerintahan Desa",
       "waktu": "21 Juli 2022",
       "kategori": "pemdes",
       "sosmed": [
@@ -648,19 +624,16 @@
           "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured'><i class='fab fa-youtube' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
-      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+      "dokumentasi": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
     },
     {
       "id": "26",
       "nama": "Peringatan Hut RI di Kec Lemahabang",
       "spoiler": "-",
       "sinopsis": [
-        {
-          "paragraf": "<p class='deskripsi>-</p>"
-        },
         {
           "paragraf": "<p class='deskripsi>-</p>"
         }
@@ -677,10 +650,10 @@
           "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
         },
         {
-          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
+          "icon": "<a href='https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured'><i class='fab fa-youtube' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
-      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+      "dokumentasi": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
     },
     {
       "id": "27",
@@ -692,21 +665,15 @@
         }
       ],
       "pictureId": "./public/cover/penerimaan-kkmumc.JPG",
-      "pemangku": "KKM UMC",
+      "pemangku": "Mahasiswa KKM UMC",
       "waktu": "12 Agustus 2022",
       "kategori": "kkm",
       "sosmed": [
         {
-          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
-        },
-        {
           "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
-        },
-        {
-          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
-      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+      "dokumentasi": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
     },
     {
       "id": "28",
@@ -714,25 +681,19 @@
       "spoiler": "-",
       "sinopsis": [
         {
-          "name": "<p class='deskripsi></p>"
+          "name": "<p></p>"
         }
       ],
       "pictureId": "./public/cover/eduwisata.jpg",
-      "pemangku": "Ibu-ibu PKK",
+      "pemangku": "Mahasiswa KKM UMC",
       "waktu": "25 Juli 2022",
-      "kategori": "pemdes",
+      "kategori": "kkm",
       "sosmed": [
         {
-          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
-        },
-        {
           "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
-        },
-        {
-          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
-      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+      "dokumentasi": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
     },
     {
       "id": "29",
@@ -744,21 +705,15 @@
         }
       ],
       "pictureId": "./public/cover/umkm.jpg",
-      "pemangku": "BUMDES",
+      "pemangku": "Mahasiswa KKM UMC",
       "waktu": "17 Juli 2022",
-      "kategori": "pemdes",
+      "kategori": "kkm",
       "sosmed": [
         {
-          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
-        },
-        {
           "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
-        },
-        {
-          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
-      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+      "dokumentasi": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
     },
     {
       "id": "30",
@@ -770,21 +725,15 @@
         }
       ],
       "pictureId": "./public/cover/ppkm.jpg",
-      "pemangku": "Pemerintahan Desa",
+      "pemangku": "Mahasiswa KKM UMC",
       "waktu": "17 Juli 2022",
-      "kategori": "layanan",
+      "kategori": "kkm",
       "sosmed": [
         {
-          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
-        },
-        {
           "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
-        },
-        {
-          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
-      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+      "dokumentasi": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
     },
     {
       "id": "31",
@@ -796,21 +745,15 @@
         }
       ],
       "pictureId": "./public/cover/teknologi.jpg",
-      "pemangku": "Pemerintahan Desa",
+      "pemangku": "Mahasiswa KKM UMC",
       "waktu": "21 Juli 2022",
-      "kategori": "layanan",
+      "kategori": "kkm",
       "sosmed": [
         {
-          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
-        },
-        {
           "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
-        },
-        {
-          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
-      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+      "dokumentasi": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
     },
     {
       "id": "32",
@@ -822,21 +765,15 @@
         }
       ],
       "pictureId": "./public/cover/herbal3.jpg",
-      "pemangku": "Pemerintahan Desa",
+      "pemangku": "Mahasiswa KKM UMC",
       "waktu": "-",
-      "kategori": "pemdes",
+      "kategori": "kkm",
       "sosmed": [
         {
-          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
-        },
-        {
           "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
-        },
-        {
-          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
-      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+      "dokumentasi": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
     },
     {
       "id": "33",
@@ -853,16 +790,10 @@
       "kategori": "pemdes",
       "sosmed": [
         {
-          "icon": "<a href='https://m.facebook.com/profile.php?id=100079592233944'><i class='fab fa-facebook-square' style='font-size: 30px; color: black;'></i></a>"
-        },
-        {
           "icon": "<a href='https://www.instagram.com/pemdes.belawa/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
-        },
-        {
-          "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
-      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+      "dokumentasi": "<a href='https://drive.google.com/drive/folders/17Bd82HQ4evoRWgPPsy8Hzk3ppZcVeRZv?usp=sharing'><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
     }
   ]
 }
