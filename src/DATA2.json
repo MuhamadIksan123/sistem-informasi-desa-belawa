@@ -30,7 +30,12 @@
           "icon": "<a href=''><i class='fas fa-atlas' style='font-size: 30px; color: black;'></i></a>"
         }
       ],
-      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+      "dokumentasi": "<a href=''><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>",
+      "customerReviews": [
+        {
+          "review": "Di rekomendasi untuk pelajar!"
+        }
+      ]
     },
     {
       "id": "2",

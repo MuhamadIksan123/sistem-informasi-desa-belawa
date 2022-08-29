@@ -6,140 +6,87 @@ class AppJumbo extends HTMLElement {
   _render() {
     this.innerHTML = `
           <style>
-          /* GLOBAL STYLES
-            -------------------------------------------------- */
-            /* Padding below the footer and lighter body text */
-
-            body {
-              padding-top: 3rem;
-              padding-bottom: 3rem;
-              color: #5a5a5a;
-            }
-
-            /* CUSTOMIZE THE CAROUSEL
-            -------------------------------------------------- */
-
-            /* Carousel base class */
-            .carousel {
-              position: relative;
-              bottom: 62px;
-            }
-            /* Since positioning the image, we need to help out the caption */
-            .carousel-caption {
-              bottom: 3rem;
-              z-index: 10;
-            }
-
-            /* Declare heights because of positioning of img element */
-            .carousel-item {
-              height: 32rem;
-            }
-
-
-            /* MARKETING CONTENT
-            -------------------------------------------------- */
-
-            /* Center align the text within the three columns below the carousel */
-            .marketing .col-lg-4 {
-              margin-bottom: 1.5rem;
+            .hero {
+              box-sizing: border-box;
+              position: absolute;
+              top: 0px;
+              left: 0px;
+              display: flex;
+              align-items: center;
+              min-height: 380px;
+              margin-top: 44px;
+              width: 100%;
               text-align: center;
+              /* background-image: url('../public/images/hero.jpg'); */
+              background-position: center;
+              background-color: rgba(0, 0, 0, 0.815);
+              z-index: 1;
             }
-            /* rtl:begin:ignore */
-            .marketing .col-lg-4 p {
-              margin-right: .75rem;
-              margin-left: .75rem;
+            
+            .container{
+              height: 100%;
+              display: flex;
+              justify-content: center;
+              align-items: center;
             }
-            /* rtl:end:ignore */
-
-
-            /* Featurettes
-            ------------------------- */
-
-            .featurette-divider {
-              margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+            .hero__inner {
+              position: absolute;
+              top: 180px;
+              z-index: 2;
             }
-
-            /* Thin out the marketing headings */
-            /* rtl:begin:remove */
-            .featurette-heading {
-              letter-spacing: -.05rem;
+            .hero__title {
+              color: #fff;
+              font-weight: 500;
+              font-size: 25px;
+              text-shadow: 2px 2px #f10a0a;
             }
-
-            /* rtl:end:remove */
-
-            /* RESPONSIVE CSS
-            -------------------------------------------------- */
-
-            @media (min-width: 40em) {
-              /* Bump up size of carousel content */
-              .carousel-caption p {
-                margin-bottom: 1.25rem;
-                font-size: 1.25rem;
-                line-height: 1.4;
+            .hero__tagline {
+              color: #fff;
+              margin-top: 16px;
+              font-size: 14px;
+              font-weight: 500;
+              text-shadow: 2px 2px #000;
+            }
+            @media screen and (min-width: 550px) {
+              .hero__title {
+                font-weight: 500;
+                font-size: 35px;
+                text-shadow: 3px 3px #f10a0a;
               }
-
-              .featurette-heading {
+              .hero__tagline {
+                font-size: 18px;
+                font-weight: 500;
+                text-shadow: 2px 2px #000;
+              }
+            }
+            @media screen and (min-width: 800px) {
+              .hero__title {
+                font-weight: 700;
                 font-size: 50px;
+                text-shadow: 3px 3px #f10a0a;
               }
-            }
-
-            @media (min-width: 62em) {
-              .featurette-heading {
-                margin-top: 7rem;
+              .hero__tagline {
+                font-size: 20px;
+                text-shadow: 2px 2px #000;
               }
             }
           </style>
-
-          <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
-            <div class="carousel-indicators">
-              <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-              <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
-              <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
-            </div>
-            <div class="carousel-inner">
-              <div class="carousel-item active">
-                <img src="public/images/hero.jpg" width="100%" height="900px" style="position: relative; bottom: 300px;" alt="">
-
-                <div class="container">
-                  <div class="carousel-caption text-start">
-                    <h1>Example headline.</h1>
-                    <p>Some representative placeholder content for the first slide of the carousel.</p>
-                    <p><a class="btn btn-lg btn-primary" href="#">Sign up today</a></p>
-                  </div>
-                </div>
-              </div>
-              <div class="carousel-item">
-                <img src="public/images/hero2.JPG" width="100%" height="900px" style="position: relative; bottom: 150px;" alt="">
-
-                <div class="container">
-                  <div class="carousel-caption">
-                    <h1>Another example headline.</h1>
-                    <p>Some representative placeholder content for the second slide of the carousel.</p>
-                    <p><a class="btn btn-lg btn-primary" href="#">Learn more</a></p>
-                  </div>
-                </div>
-              </div>
-              <div class="carousel-item">
-                <img src="public/images/hero3.JPG" width="100%" height="900px" style="position: relative; bottom: 20px;" alt="">
-
-                <div class="container">
-                  <div class="carousel-caption text-end">
-                    <h1>One more for good measure.</h1>
-                    <p>Some representative placeholder content for the third slide of this carousel.</p>
-                    <p><a class="btn btn-lg btn-primary" href="#">Browse gallery</a></p>
-                  </div>
-                </div>
+  
+          <div class="hero mb-5 container-fluid" alt="Gambar Hero Makanan" style="display: inline-block">
+            <picture>
+              <source media="(max-width: 650px)" srcset="public/images/hero.jpg" type="image/jpeg" />
+              <source media="(min-width: 650px)" srcset="public/images/hero.jpg" type="image/jpeg" />
+              <source media="(min-width: 1200px)" srcset="public/images/hero.jpg" type="image/jpeg" />
+              <img loading="lazy" width="100%" height="380px" src="public/images/hero.jpg" alt="" />
+            </picture>
+            <div class="container">
+              <div class="hero__inner">
+                <h1 class="hero__title ">Pemerintahan Desa Belawa</h1>
+                <p class="hero__tagline">Informasi Lengkap Seputar Desa dan Potensinya Ada Disini</p>
               </div>
             </div>
-            <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
-              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-              <span class="visually-hidden">Previous</span>
-            </button>
-            <button class="carousel-control-next" type="button" data-bs-target="#myCarousel" data-bs-slide="next">
-              <span class="carousel-control-next-icon" aria-hidden="true"></span>
-              <span class="visually-hidden">Next</span>
-            </button>
-          </div>`;
+          </div>
+        `;
   }
 }
 

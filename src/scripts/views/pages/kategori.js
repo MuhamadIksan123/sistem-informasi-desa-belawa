@@ -9,7 +9,7 @@ const Kategoriy = {
     return `
     <app-search></app-search>
     <app-kategori></app-kategori>
-    <div id='items' class='row row-cols-1 row-cols-md-2 row-cols-lg-3 row-cols-xxl-4 g-0'></div>
+    <div id='items' class='row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-0'></div>
     `;
   },
 

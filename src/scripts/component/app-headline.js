@@ -8,6 +8,7 @@ class AppHeadline extends HTMLElement {
              <style>
               .headline {
                     overflow: auto;
+                    margin-top: 380px;
                   }
 
                   .headline__figure {
@@ -30,7 +31,7 @@ class AppHeadline extends HTMLElement {
                   .headline__content {
                     width: 100%;
                     float: left;
-                    padding: 16px 32px;
+                    padding: 0px 32px;
                   }
 
                   .headline__description {
@@ -39,22 +40,6 @@ class AppHeadline extends HTMLElement {
                     text-align: justify;
                   }
 
-                  .headline__button {
-                    font-family: 'Roboto', sans-serif;
-                    text-transform: uppercase;
-                    margin-top: 10px;
-                    cursor: pointer;
-                    padding: 8px 16px;
-                    color: white;
-                    border: none;
-                    border-radius: 5px;
-                    background-color: #2c3e50;
-                    transition: opacity 0.3s;
-                  }
-
-                  .headline__button:hover {
-                    opacity: 0.8;
-                  }
               </style>
   
             <article class="headline">
@@ -67,7 +52,6 @@ class AppHeadline extends HTMLElement {
                 <p class="headline__description">
                   Belawa adalah desa di kecamatan Lemahabang, Cirebon, Jawa Barat, Indonesia. Desa Belawa adalah salah satu desa yang berada di atas perbukitan ciwado, dikelilingi ngarai yang indah, dengan ketinggian 171 mdpl, merupakan salah satu wilayah pertanian penghasil buah mangga dan pisang. Selain itu Desa Belawa memiliki potensi dibidang pariwisata, antara lain wisata alam, wisata Konservasi dan edukasi kura kura langka, salah satu hewan purba asli Cirebon yang menjadi salah satu destinasi Pariwisata unggulan di Kabupaten Cirebon Provinsi Jawa Barat. Konon nenek moyang orang Cirebon berasal dari wilayah tersebut dengan ditemukannya salah satu peninggalan artepak prasejarah, disalah satu area perkebunan terdapat sebuah kubur batu (Spiti) yang telah diteliti oleh tim Arkeolog dari Balai Arkeologi Bandung (Balarbandung) pada akhir tahun 2013 yang dipimpin seorang ahli yaitu Lutfi Yondri, dimana menurut hasil uji karbon pada lapisan tanah terdapat lapukan perunggu,sehingga diperkirakan nenek moyang orang Cirebon hidup pada era zaman perunggu 5.000 - 1.000 SM. Selain itu masih terdapat berbagai cerita menarik tentang Desa Belawa.
                 </p>
-                <button class="headline__button">Read More</button>
               </div>
             </article>
             `;

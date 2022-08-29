@@ -37,6 +37,7 @@ Skip link
 }
 
 #mainContent {
+  max-width: 1200px;
   padding-top: 100px;
 }
 
