@@ -83,7 +83,7 @@ class AppKontak extends HTMLElement {
               }
 
               .judul_utama {
-                font-size: 2em;;
+                font-size: 2em;
               }
             }
 
@@ -130,8 +130,8 @@ class AppKontak extends HTMLElement {
                 <p>untuk Respon Segera, silakan mengirim pesan melalui chat WhatsApp berikut (klik pada icon chat):</p>
 
                 <ul class="list-group mb-3">
-                  <li style="list-style:none;"><a href=""><i class="fab fa-whatsapp text-danger fs-3"></i></a>  Aduan untuk solusi atau pertolongan pertama bagi permasalahan yang bersifat kemanusian dan darurat.</li>
-                  <li style="list-style:none;"><a href=""><i class="fab fa-whatsapp text-success fs-3"></i></a>  Untuk Informasi Kependudukan dan Layanan Catatan Sipil.</li>
+                  <li style="list-style:none;"><a href="https://wa.me/6281573092250"><i class="fab fa-whatsapp text-danger fs-3"></i></a>  Aduan untuk solusi atau pertolongan pertama bagi permasalahan yang bersifat kemanusian dan darurat.</li>
+                  <li style="list-style:none;"><a href="https://wa.me/6281573092250"><i class="fab fa-whatsapp text-success fs-3"></i></a>  Untuk Informasi Kependudukan dan Layanan Catatan Sipil.</li>
                 </ul>
 
                 <p>atau melalui form di bawah ini:</p>

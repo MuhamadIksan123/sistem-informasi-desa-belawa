@@ -64,7 +64,7 @@ class AppSearch extends HTMLElement {
           }
 
           .search-container > button:hover {
-              background-color: #0d6efd;
+              background-color: #39cc14;
           }
 
           .search-container > button:active {
