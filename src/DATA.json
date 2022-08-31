@@ -188,13 +188,13 @@
     {
       "id": "9",
       "nama": "Pembangunan Gedung UMKM Baru",
-      "spoiler": "Masyarakat sekitar tambang PT Ganda Alam Makmur (GAM) secara langsung mendapatkan manfaat melalui pembangunan infrastruktur, yaitu gedung usaha mikro kecil dan menengah (UMKM) Center, gedung puskesmas, sarana dan prasarana air bersih, serta perbaikan jalan. Pembangunan gedung UMKM Center oleh GAM merupakan etalase bagi produk-produk pegiat UMKM di Kecamatan Kaubun, Sangkulirang dan Karangan yang selama ini mengalami kesulitan mempromosikan produk-produknya. Bangunan tersebut telah dilengkapi dengan rak dan etalase, instalasi listrik dan pembuatan jalan masuk untuk memudahkan para pedagang dan konsumen memasuki area ini. ",
+      "spoiler": "Masyarakat Belawa secara langsung mendapatkan manfaat melalui pembangunan infrastruktur, yaitu gedung usaha mikro kecil dan menengah (UMKM) Olahan Mangga. Pembangunan gedung UMKM Olahan Mangga oleh Pemerintah Desa merupakan etalase bagi produk-produk pegiat UMKM di Desa Belawa yang selama ini mengalami kesulitan mempromosikan produk-produknya. Bangunan tersebut telah dilengkapi dengan rak dan etalase, instalasi listrik dan pembuatan jalan masuk untuk memudahkan para pedagang dan konsumen memasuki area ini.",
       "sinopsis": [
         {
-          "paragraf": "<p>Masyarakat sekitar tambang PT Ganda Alam Makmur (GAM) secara langsung mendapatkan manfaat melalui pembangunan infrastruktur, yaitu gedung usaha mikro kecil dan menengah (UMKM) Center, gedung puskesmas, sarana dan prasarana air bersih, serta perbaikan jalan. Pembangunan gedung UMKM Center oleh GAM merupakan etalase bagi produk-produk pegiat UMKM di Kecamatan Kaubun, Sangkulirang dan Karangan yang selama ini mengalami kesulitan mempromosikan produk-produknya. Bangunan tersebut telah dilengkapi dengan rak dan etalase, instalasi listrik dan pembuatan jalan masuk untuk memudahkan para pedagang dan konsumen memasuki area ini. </p>"
+          "paragraf": "<p>Masyarakat Belawa secara langsung mendapatkan manfaat melalui pembangunan infrastruktur, yaitu gedung usaha mikro kecil dan menengah (UMKM) Olahan Mangga. Pembangunan gedung UMKM Olahan Mangga oleh Pemerintah Desa merupakan etalase bagi produk-produk pegiat UMKM di Desa Belawa yang selama ini mengalami kesulitan mempromosikan produk-produknya. Bangunan tersebut telah dilengkapi dengan rak dan etalase, instalasi listrik dan pembuatan jalan masuk untuk memudahkan para pedagang dan konsumen memasuki area ini.</p>"
         },
         {
-          "paragraf": "<p>Keberadaan UMKM Center ini ternyata mampu memacu pertumbuhan ekonomi masyarakat setempat. Para pelaku UMKM dapat menawarkan produk unggulan mereka yang menarik wisatawan domestik untuk mengunjunginya. Produk-produk tersebut tidak hanya berupa makanan ringan, namun sudah merambah kerajinan tangan, madu kelulut, dan beberapa produk lainnya. Keberadaan UMKM Center telah meningkatkan pendapatan dan kesejahteraan masyarakat sekitar tambang.</p>"
+          "paragraf": "<p>Keberadaan UMKM Olahan Mangga ini ternyata mampu memacu pertumbuhan ekonomi masyarakat setempat. Para pelaku UMKM dapat menawarkan produk unggulan mereka yang menarik wisatawan domestik untuk mengunjunginya. Produk-produk tersebut tidak hanya berupa makanan ringan, namun sudah merambah dodol, manisan, jus dan beberapa produk lainnya. Keberadaan UMKM Olahan Mangga telah meningkatkan pendapatan dan kesejahteraan masyarakat belawa.</p>"
         }
       ],
       "pictureId": "./public/cover/gudang-mangga.jpg",
@@ -647,7 +647,7 @@
       ],
       "pictureId": "./public/cover/eduwisata.jpg",
       "pemangku": "Mahasiswa KKM UMC dan STF",
-      "waktu": "21 Agustus 2022",
+      "waktu": "10 Agustus 2022",
       "kategori": "kkm",
       "sosmed": [
         {
@@ -702,7 +702,7 @@
       ],
       "pictureId": "./public/cover/ppkm.jpg",
       "pemangku": "Mahasiswa KKM UMC dan STF",
-      "waktu": "21 Juli 2022",
+      "waktu": "9 Agustus 2022",
       "kategori": "kkm",
       "sosmed": [
         {
@@ -725,7 +725,7 @@
       ],
       "pictureId": "./public/cover/teknologi.jpg",
       "pemangku": "Mahasiswa KKM UMC dan STF",
-      "waktu": "21 Juli 2022",
+      "waktu": "21 Agustus 2022",
       "kategori": "kkm",
       "sosmed": [
         {
@@ -760,10 +760,10 @@
     {
       "id": "33",
       "nama": "Sosialisasi Skill Komunikasi",
-      "spoiler": "-",
+      "spoiler": "Memberikan sosialisasi kepada karanag taruna dan beberapa warga tentang pentingnya menjadi speaker yang baik agar lebih memajukan desa wisata, dan memberikan pelayanan terbaik bagi wisatawan. Meningkatkan softskill dalam berkomunikasi bisa dilakukan dengan cara memperbanyak latihan.",
       "sinopsis": [
         {
-          "paragraf": "-"
+          "paragraf": "<p>Memberikan sosialisasi kepada kartar dan bbrpa warga tentang pentingnya menjadi speaker yang baik agar lebih memajukan desa wisata, dan memberikan pelayanan terbaik bagi wisatawan. Meningkatkan softskill dalam berkomunikasi bisa dilakukan dengan cara memperbanyak latihan.</p>"
         }
       ],
       "pictureId": "./public/cover/komunikasi.jpeg",
@@ -797,7 +797,7 @@
       ],
       "pictureId": "./public/cover/birokrasi.JPG",
       "pemangku": "Mahasiswa KKM UMC dan STF",
-      "waktu": "21 Agustus 2022",
+      "waktu": "17 Agustus 2022",
       "kategori": "kkm",
       "sosmed": [
         {
