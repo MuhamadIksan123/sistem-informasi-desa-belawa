@@ -6,9 +6,11 @@ class AppHeadline extends HTMLElement {
   _render() {
     this.innerHTML = `
              <style>
+
               .headline {
+                    max-width: 1200px;
                     overflow: auto;
-                    margin-top: 380px;
+                    margin: 30px auto 0px;
                   }
 
                   .headline__figure {

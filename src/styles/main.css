@@ -37,8 +37,7 @@ Skip link
 }
 
 #mainContent {
-  max-width: 1200px;
-  padding-top: 100px;
+  padding-top: 85px;
 }
 
 /* 
@@ -177,10 +176,6 @@ Fav Button
 
 .belawa__overview p {
   margin-bottom: 8px;
-}
-
-p.deskripsi {
-  text-align: justify;
 }
 
 div.judul-kontak {

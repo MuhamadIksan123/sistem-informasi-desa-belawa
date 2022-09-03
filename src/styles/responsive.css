@@ -89,6 +89,7 @@
     margin: 10px 30px;
     grid-template-columns: repeat(5, 1fr);
   }
+
 }
 
 @media screen and (min-width: 1000px) {
@@ -101,3 +102,5 @@
     margin-top: 0px;
   }
 }
+
+

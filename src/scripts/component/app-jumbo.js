@@ -5,84 +5,87 @@ class AppJumbo extends HTMLElement {
 
   _render() {
     this.innerHTML = `
+
           <style>
-            .hero {
-              box-sizing: border-box;
-              position: absolute;
-              top: 0px;
-              left: 0px;
-              display: flex;
-              align-items: center;
-              min-height: 380px;
-              margin-top: 44px;
-              width: 100%;
-              text-align: center;
-              /* background-image: url('../public/images/hero.jpg'); */
-              background-position: center;
-              background-color: rgba(0, 0, 0, 0.815);
-              z-index: 1;
+
+
+
+          @media screen and (min-width: 320px) {
+            .carousel img {
+              min-height: 512px;
             }
-            
-            .container{
-              height: 100%;
-              display: flex;
-              justify-content: center;
-              align-items: center;
+
+            .carousel-caption {
+              height: 300px;
             }
-            .hero__inner {
-              position: absolute;
-              top: 180px;
-              z-index: 2;
+          }
+
+          
+
+          @media screen and (min-width: 1200px) {
+            .carousel-inner {
+              height: 500px;
             }
-            .hero__title {
-              color: #fff;
-              font-weight: 500;
-              font-size: 25px;
-              text-shadow: 2px 2px #f10a0a;
+
+            .carousel-caption {
+              height: 500px;
             }
-            .hero__tagline {
-              color: #fff;
-              margin-top: 16px;
-              font-size: 14px;
-              font-weight: 500;
-              text-shadow: 2px 2px #000;
-            }
-            @media screen and (min-width: 550px) {
-              .hero__title {
-                font-weight: 500;
-                font-size: 35px;
-                text-shadow: 3px 3px #f10a0a;
-              }
-              .hero__tagline {
-                font-size: 18px;
-                font-weight: 500;
-                text-shadow: 2px 2px #000;
-              }
-            }
-            @media screen and (min-width: 800px) {
-              .hero__title {
-                font-weight: 700;
-                font-size: 50px;
-                text-shadow: 3px 3px #f10a0a;
-              }
-              .hero__tagline {
-                font-size: 20px;
-                text-shadow: 2px 2px #000;
-              }
-            }
+          }
+
+          .carousel-caption h1, p.deskripsi {
+            text-shadow: 1px 1px 2px black, 0 0 1em red, 0 0 0.2em red;
+          }
           </style>
   
-          <div class="hero mb-5 container-fluid" alt="Gambar Hero Makanan" style="display: inline-block">
-            <picture>
-              <source media="(min-width: 1200px)" srcset="public/images/hero.jpg" type="image/jpeg" />
-              <img loading="lazy" width="100%" height="380px" src="public/images/hero.jpg" alt="" />
-            </picture>
-            <div class="container">
-              <div class="hero__inner">
-                <h1 class="hero__title ">Desa Belawa</h1>
-                <p class="hero__tagline">Kec. Lemahabang Kab. Cirebon Prov. Jawa Barat</p>
+          <div id="myCarousel" class="carousel slide container-fluid" data-bs-ride="carousel">
+            <div class="carousel-indicators" >
+              <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+              <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+              <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+            </div>
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <img src="public/images/cikuya2.jpg"  width="100%" alt="hero1">
+
+                <div class="container">
+                  <div class="carousel-caption text-start">
+                    <h1>Wisata Cikuya</h1>
+                    <p class="deskripsi">Wisata Edukasi dan Konservasi Kura-Kura</p>
+                    <p><a class="btn btn-lg btn-primary" href="">Sign up today</a></p>
+                  </div>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <img src="public/images/hero3.jpg" width="100%" height="100%" alt="hero2">
+
+                <div class="container">
+                  <div class="carousel-caption">
+                    <h1>Desa Belawa</h1>
+                    <p class="deskripsi">Kecamatan Lemahaabang Kabupaten Cirebon Provinsi Jawa Barat</p>
+                    <p><a class="btn btn-lg btn-primary" href="#">Learn more</a></p>
+                  </div>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <img src="public/images/olahan-mangga.jpg" width="100%" height="100%" alt="hero3">
+
+                <div class="container">
+                  <div class="carousel-caption text-end">
+                    <h1>Rumah Olahan Mangga</h1>
+                    <p class="deskripsi">Memproduksi beberapa olahan mangga dan olahan hasil tani lainnya</p>
+                    <p><a class="btn btn -lg btn-primary" href="#">Browse gallery</a></p>
+                  </div>
+                </div>
               </div>
             </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#myCarousel" data-bs-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span>
+            </button>
           </div>
         `;
   }
