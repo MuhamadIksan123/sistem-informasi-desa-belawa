@@ -44,7 +44,7 @@ class AppHeadline extends HTMLElement {
 
               </style>
   
-            <article class="headline">
+            <article id="headline" class="headline">
               <figure class="headline__figure">
                 <img src="public/cover/peta.png" alt="Dicoding Fact Sheet" />
                 <figcaption>Pemerintah Desa Agustus 2022 Infographic, 5.678 Penduduk</figcaption>

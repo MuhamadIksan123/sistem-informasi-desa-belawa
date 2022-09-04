@@ -137,7 +137,7 @@ class AppKontak extends HTMLElement {
                 <p>atau melalui form di bawah ini:</p>
               </div>
                 
-                <form action="https://formspree.io/f/mgeqowjz" id="contact-form" method="POST" class="submit_informasi">
+                <form action="https://formspree.io/f/mgeqovdb" id="contact-form" method="POST" class="submit_informasi">
 
                   <label for="nama">Nama</label>
                   <input type="text" class="nama" name="nama" placeholder="Nama Anda" required>

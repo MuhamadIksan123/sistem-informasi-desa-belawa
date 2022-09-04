@@ -60,6 +60,15 @@ class AppThankyou extends HTMLElement {
               .content h1 {
 
               }
+
+              .content {
+                margin-top: 20px;
+              }
+
+              .jumbotron {
+                display: none;
+              }
+              
             </style>
             <body>
               <div class="px-4 text-center content">

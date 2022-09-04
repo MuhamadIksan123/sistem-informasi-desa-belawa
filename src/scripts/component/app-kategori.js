@@ -5,6 +5,11 @@ class AppKategori extends HTMLElement {
 
   _render() {
     this.innerHTML = `
+    <style>
+      .jumbotron {
+        display: none;
+      }
+    </style>
       <div class="list-item text-center">
         <a href="/#/explore"><div class="item">All</div></a>
         <a href="/#/kategori/KKM"><div class="item">KKM</div></a>

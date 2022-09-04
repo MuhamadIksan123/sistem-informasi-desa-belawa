@@ -54,7 +54,7 @@ class AppJumbo extends HTMLElement {
                   <div class="carousel-caption text-start">
                     <h1>Wisata Cikuya</h1>
                     <p class="deskripsi">Wisata Edukasi dan Konservasi Kura-Kura</p>
-                    <p><a class="btn btn-lg btn-primary" href="">Sign up today</a></p>
+                    <p><a class="btn btn-lg btn-primary" href="/#/detail/1">Lihat Detail</a></p>
                   </div>
                 </div>
               </div>
@@ -65,7 +65,7 @@ class AppJumbo extends HTMLElement {
                   <div class="carousel-caption">
                     <h1>Desa Belawa</h1>
                     <p class="deskripsi">Kecamatan Lemahaabang Kabupaten Cirebon Provinsi Jawa Barat</p>
-                    <p><a class="btn btn-lg btn-primary" href="#">Learn more</a></p>
+                    <p><a class="btn btn-lg btn-primary" href="#mainContent">Lihat Detail</a></p>
                   </div>
                 </div>
               </div>
@@ -76,7 +76,7 @@ class AppJumbo extends HTMLElement {
                   <div class="carousel-caption text-end">
                     <h1>Rumah Olahan Mangga</h1>
                     <p class="deskripsi">Memproduksi beberapa olahan mangga dan olahan hasil tani lainnya</p>
-                    <p><a class="btn btn -lg btn-primary" href="#">Browse gallery</a></p>
+                    <p><a class="btn btn -lg btn-primary" href="/#/detail/2">Lihat Detail</a></p>
                   </div>
                 </div>
               </div>
