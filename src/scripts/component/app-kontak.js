@@ -122,9 +122,9 @@ class AppKontak extends HTMLElement {
                 
                 <ul class="fw-bold list-group mb-3">
                   <li style="list-style:none;">Bale Desa Belawa</li>
-                  <li style="list-style:none;">Jl. Ciburial No. 98 Cirebon 40198</li>
+                  <li style="list-style:none;">Jl. Belawa-Wangkelang Cirebon 45183</li>
                   <li style="list-style:none;">Telp: (022)2536208</li>
-                  <li style="list-style:none;">E-mail: desabelawa@gmail.com</li>
+                  <li style="list-style:none;">E-mail: desabelawa22@gmail.com</li>
                 </ul>
 
                 <p>untuk Respon Segera, silakan mengirim pesan melalui chat WhatsApp berikut (klik pada icon chat):</p>

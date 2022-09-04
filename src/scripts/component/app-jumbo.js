@@ -31,7 +31,7 @@ class AppJumbo extends HTMLElement {
           }
 
           .carousel {
-            margin-top: -18px;
+            margin-top: -21px;
             top: 100px;
           }
 
@@ -40,7 +40,7 @@ class AppJumbo extends HTMLElement {
           }
           </style>
   
-          <div id="myCarousel" class="carousel slide container-fluid" data-bs-ride="carousel">
+          <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-indicators" >
               <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
               <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
