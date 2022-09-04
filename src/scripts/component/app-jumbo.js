@@ -7,9 +7,6 @@ class AppJumbo extends HTMLElement {
     this.innerHTML = `
 
           <style>
-
-
-
           @media screen and (min-width: 320px) {
             .carousel img {
               min-height: 512px;
@@ -34,7 +31,7 @@ class AppJumbo extends HTMLElement {
           }
 
           .carousel {
-            margin-top: -20px;
+            margin-top: -18px;
             top: 100px;
           }
 

@@ -16,8 +16,8 @@ class AppFooter extends HTMLElement {
           <i class="fab fa-facebook-f"></i>
         </a>
 
-        <a class="btn btn-outline-dark btn-floating mx-1" href="#!" role="button">
-          <i class="fab fa-twitter"></i>
+        <a class="btn btn-outline-dark btn-floating mx-1" href="https://goo.gl/maps/Asn8kJgrxSxmurbi8" role="button">
+          <i class="fas fa-map-marker-alt"></i>
         </a>
 
         <a class="btn btn-outline-dark btn-floating mx-1" href="https://www.youtube.com/channel/UCgvmyCD72MIcM3Y7t88-4iQ/featured" role="button">

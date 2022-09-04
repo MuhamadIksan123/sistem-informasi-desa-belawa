@@ -8,39 +8,39 @@ class AppHeadline extends HTMLElement {
              <style>
 
               .headline {
-                    max-width: 1200px;
-                    overflow: auto;
-                    margin: 60px auto 0px;
-                  }
+                  max-width: 1200px;
+                  overflow: auto;
+                  margin: 40px auto 0px;
+                }
 
-                  .headline__figure {
-                    width: 100%;
-                    float: left;
-                  }
+                .headline__figure {
+                  width: 100%;
+                  float: left;
+                }
 
-                  .headline__figure img {
-                    width: 100%;
-                  }
+                .headline__figure img {
+                  width: 100%;
+                }
 
-                  .headline__figure figcaption {
-                    text-align: center;
-                    color: #666666;
-                    font-size: 13px;
-                    font-weight: 400;
-                    margin-top: 8px;
-                  }
+                .headline__figure figcaption {
+                  text-align: center;
+                  color: #666666;
+                  font-size: 13px;
+                  font-weight: 400;
+                  margin-top: 8px;
+                }
 
-                  .headline__content {
-                    width: 100%;
-                    float: left;
-                    padding: 0px 32px;
-                  }
+                .headline__content {
+                  width: 100%;
+                  float: left;
+                  padding: 0px 32px;
+                }
 
-                  .headline__description {
-                    font-size: 16px;
-                    margin-top: 12px;
-                    text-align: justify;
-                  }
+                .headline__description {
+                  font-size: 16px;
+                  margin-top: 12px;
+                  text-align: justify;
+                }
 
               </style>
   
