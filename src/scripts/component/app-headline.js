@@ -10,7 +10,7 @@ class AppHeadline extends HTMLElement {
               .headline {
                     max-width: 1200px;
                     overflow: auto;
-                    margin: 30px auto 0px;
+                    margin: 60px auto 0px;
                   }
 
                   .headline__figure {

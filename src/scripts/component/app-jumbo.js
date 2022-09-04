@@ -23,6 +23,7 @@ class AppJumbo extends HTMLElement {
           
 
           @media screen and (min-width: 1200px) {
+
             .carousel-inner {
               height: 500px;
             }
@@ -30,6 +31,11 @@ class AppJumbo extends HTMLElement {
             .carousel-caption {
               height: 500px;
             }
+          }
+
+          .carousel {
+            margin-top: -20px;
+            top: 100px;
           }
 
           .carousel-caption h1, p.deskripsi {
@@ -67,7 +73,7 @@ class AppJumbo extends HTMLElement {
                 </div>
               </div>
               <div class="carousel-item">
-                <img src="public/images/olahan-mangga.jpg" width="100%" height="100%" alt="hero3">
+                <img src="public/images/olahan-mangga2.jpg" width="100%" height="100%" alt="hero3">
 
                 <div class="container">
                   <div class="carousel-caption text-end">
@@ -91,4 +97,4 @@ class AppJumbo extends HTMLElement {
   }
 }
 
-customElements.define('app-jumbo', AppJumbo);
+customElements.define('app-jumbotron', AppJumbo);

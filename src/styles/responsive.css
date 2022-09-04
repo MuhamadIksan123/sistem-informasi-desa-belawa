@@ -19,17 +19,6 @@
     font-size: 21px;
     font-weight: 500;
   }
-
-  .hero__title {
-    font-weight: 100;
-    font-size: 12px;
-  }
-
-  .hero__tagline {
-    margin-top: 16px;
-    font-size: 12px;
-    font-weight: 100;
-  }
 }
 
 @media screen and (min-width: 380px) {
