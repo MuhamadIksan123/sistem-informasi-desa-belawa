@@ -57,10 +57,6 @@ class AppThankyou extends HTMLElement {
                 -webkit-overflow-scrolling: touch;
               }
 
-              .content h1 {
-
-              }
-
               .content {
                 margin-top: 20px;
               }

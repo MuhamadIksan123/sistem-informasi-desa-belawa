@@ -5,7 +5,6 @@ const About = {
   async render() {
     return `
           <app-about-us></app-about-us>
-          <app-about-team></app-about-team>
           `;
   },
 

@@ -39,7 +39,7 @@ class AppAboutUs extends HTMLElement {
                 
                 <section id='welcome'>
                 <div class='container'>
-                <div class='row justify-content-evenly mb-5 pb-5'>
+                <div class='row justify-content-evenly'>
                   <div class='col-sm-7 pe-3 d-flex flex-column justify-content-center text-center'>
                     <h1 class='title'>Tentang Website Desa Belawa</h1>
                     <p class='subtitle'>Website ini didirikan dengan alasan agar masyarakat dapat menerima informasi dengan baik, dalam kegiatan maupun potensi desa. Tidak hanya masyarakat desa belawa saja yang menerima informasi lewat media ini akan tetapi masyarakat di luar desa pun dapat menerima informasi yang sama juga. Kami berharap setelah terbuatnya website ini dapat mempermudah penyampaian informasi desa</p>

@@ -805,6 +805,29 @@
         }
       ],
       "dokumentasi": "<a href='https://drive.google.com/drive/folders/18jp1deCvOKTzBVEYfGkFI_uPW9QG84Te?usp=sharing'><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
+    },
+    {
+      "id": "35",
+      "nama": "Birokrasi",
+      "spoiler": "Pelayanan publik merupakan",
+      "sinopsis": [
+        {
+          "paragraf": "<p>Pelayanan publik merupakan </p>"
+        },
+        {
+          "paragraf": "<p>Pelayanan publik adalah kegiatan </p>"
+        }
+      ],
+      "pictureId": "./public/cover/birokrasi.JPG",
+      "pemangku": "Mahasiswa KKM UMC dan STF",
+      "waktu": "17 Agustus 2022",
+      "kategori": "kkm",
+      "sosmed": [
+        {
+          "icon": "<a href='https://www.instagram.com/kkm.belawa2022/'><i class='fab fa-instagram-square' style='font-size: 30px; color: black;'></i></a>"
+        }
+      ],
+      "dokumentasi": "<a href='https://drive.google.com/drive/folders/18jp1deCvOKTzBVEYfGkFI_uPW9QG84Te?usp=sharing'><i class='fab fa-google-drive' style='font-size: 30px; color: black;'></i></a>"
     }
   ]
 }
