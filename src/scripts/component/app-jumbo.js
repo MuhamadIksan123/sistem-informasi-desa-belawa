@@ -7,6 +7,15 @@ class AppJumbo extends HTMLElement {
     this.innerHTML = `
 
           <style>
+
+          .hero-img {
+             min-height: 100vh;
+              display: flex;
+              align-items: center;
+              background-size: cover;
+              background-repeat: no-repeat;
+              background-position: center;
+          }
           @media screen and (min-width: 320px) {
             .carousel img {
               min-height: 512px;
@@ -16,8 +25,6 @@ class AppJumbo extends HTMLElement {
               height: 300px;
             }
           }
-
-          
 
           @media screen and (min-width: 1200px) {
 
@@ -48,7 +55,7 @@ class AppJumbo extends HTMLElement {
             </div>
             <div class="carousel-inner">
               <div class="carousel-item active">
-                <img src="public/images/cikuya2.jpg"  width="100%" alt="hero1">
+                <img src="public/images/cikuya2.jpg" alt="hero1" class="hero-img">
 
                 <div class="container">
                   <div class="carousel-caption text-start">
@@ -59,7 +66,7 @@ class AppJumbo extends HTMLElement {
                 </div>
               </div>
               <div class="carousel-item">
-                <img src="public/images/hero3.jpg" width="100%" height="100%" alt="hero2">
+                <img src="public/images/hero3.jpg" alt="hero2" class="hero-img">
 
                 <div class="container">
                   <div class="carousel-caption">
@@ -70,7 +77,7 @@ class AppJumbo extends HTMLElement {
                 </div>
               </div>
               <div class="carousel-item">
-                <img src="public/images/olahan-mangga2.jpg" width="100%" height="100%" alt="hero3">
+                <img src="public/images/olahan-mangga2.jpg" alt="hero3" class="hero-img">
 
                 <div class="container">
                   <div class="carousel-caption text-end">
