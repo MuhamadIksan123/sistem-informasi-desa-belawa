@@ -7,7 +7,12 @@ class AppJumbo extends HTMLElement {
     this.innerHTML = `
 
           <style>
-        
+          .carousel img {
+            width: 100%; /* Pastikan gambar mengisi lebar container */
+            height: 100vh; /* Pastikan gambar mengisi tinggi layar */
+            object-fit: cover; /* Menjaga proporsi gambar agar tidak terdistorsi */
+            object-position: center center; /* Menjaga posisi gambar agar selalu berada di tengah */
+          }
 
           .carousel-caption h1, p.deskripsi {
             text-shadow: 1px 1px 2px black, 0 0 1em red, 0 0 0.2em red;
@@ -22,7 +27,7 @@ class AppJumbo extends HTMLElement {
             </div>
             <div class="carousel-inner">
               <div class="carousel-item active">
-                <img src="public/images/cikuya2.jpg"  width="100%" alt="hero1">
+                <img src="public/images/cikuya.jpg"  width="100%" alt="hero1">
 
                 <div class="container">
                   <div class="carousel-caption text-start">
@@ -33,7 +38,7 @@ class AppJumbo extends HTMLElement {
                 </div>
               </div>
               <div class="carousel-item">
-                <img src="public/images/hero3.jpg" width="100%" height="100%" alt="hero2">
+                <img src="public/images/hero.jpg" width="100%" height="100%" alt="hero2">
 
                 <div class="container">
                   <div class="carousel-caption">
@@ -44,7 +49,7 @@ class AppJumbo extends HTMLElement {
                 </div>
               </div>
               <div class="carousel-item">
-                <img src="public/images/olahan-mangga2.jpg" width="100%" height="100%" alt="hero3">
+                <img src="public/images/olahan-mangga.jpg" width="100%" height="100%" alt="hero3">
 
                 <div class="container">
                   <div class="carousel-caption text-end">
