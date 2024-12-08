@@ -45,7 +45,7 @@ class AppHeadline extends HTMLElement {
               </style>
   
             <article id="headline" class="headline">
-              <div class="position-relative overflow-hidden" style="height: 500px;">
+              <div class="position-relative overflow-hidden mb-3" style="height: 500px;">
                 <iframe
                   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31691.8582285382!2d108.56964327366417!3d-6.832632001263672!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6f1b1430d2ad25%3A0xc48e2d0e99cb8885!2sBelawa%2C%20Kec.%20Lemahabang%2C%20Kabupaten%20Cirebon%2C%20Jawa%20Barat!5e0!3m2!1sid!2sid!4v1729175481319!5m2!1sid!2sid"
                   loading="lazy"
