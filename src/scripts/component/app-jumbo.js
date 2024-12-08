@@ -7,33 +7,12 @@ class AppJumbo extends HTMLElement {
     this.innerHTML = `
 
           <style>
-          @media screen and (min-width: 320px) {
             .carousel img {
-              min-height: 512px;
+              width: 100%;
+              height: 100vh;
+              object-fit: cover;
+              object-position: center center;
             }
-
-            .carousel-caption {
-              height: 300px;
-            }
-          }
-
-          
-
-          @media screen and (min-width: 1200px) {
-
-            .carousel-inner {
-              height: 500px;
-            }
-
-            .carousel-caption {
-              height: 500px;
-            }
-          }
-
-          .carousel {
-            margin-top: -21px;
-            top: 100px;
-          }
 
           .carousel-caption h1, p.deskripsi {
             text-shadow: 1px 1px 2px black, 0 0 1em red, 0 0 0.2em red;
@@ -48,7 +27,7 @@ class AppJumbo extends HTMLElement {
             </div>
             <div class="carousel-inner">
               <div class="carousel-item active">
-                <img src="public/images/cikuya2.jpg"  width="100%" alt="hero1">
+                <img src="public/images/cikuya.jpg" alt="hero1">
 
                 <div class="container">
                   <div class="carousel-caption text-start">
@@ -59,7 +38,7 @@ class AppJumbo extends HTMLElement {
                 </div>
               </div>
               <div class="carousel-item">
-                <img src="public/images/hero3.jpg" width="100%" height="100%" alt="hero2">
+                <img src="public/images/hero.jpg" alt="hero2">
 
                 <div class="container">
                   <div class="carousel-caption">
@@ -70,13 +49,13 @@ class AppJumbo extends HTMLElement {
                 </div>
               </div>
               <div class="carousel-item">
-                <img src="public/images/olahan-mangga2.jpg" width="100%" height="100%" alt="hero3">
+                <img src="public/images/olahan-mangga.jpg" alt="hero3">
 
                 <div class="container">
                   <div class="carousel-caption text-end">
                     <h1>Rumah Olahan Mangga</h1>
                     <p class="deskripsi">Memproduksi beberapa olahan mangga dan olahan hasil tani lainnya</p>
-                    <p><a class="btn btn -lg btn-primary" href="/#/detail/2">Lihat Detail</a></p>
+                    <p><a class="btn btn-lg btn-primary" href="/#/detail/2">Lihat Detail</a></p>
                   </div>
                 </div>
               </div>
