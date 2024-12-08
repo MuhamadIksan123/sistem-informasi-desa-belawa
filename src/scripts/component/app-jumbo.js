@@ -38,7 +38,7 @@ class AppJumbo extends HTMLElement {
                 </div>
               </div>
               <div class="carousel-item">
-                <img src="public/images/hero.jpg" width="100%" height="100%" alt="hero2">
+                <img src="public/images/hero5.jpg" width="100%" height="100%" alt="hero2">
 
                 <div class="container">
                   <div class="carousel-caption">
